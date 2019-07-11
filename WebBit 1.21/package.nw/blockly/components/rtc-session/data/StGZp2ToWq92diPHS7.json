@@ -1,0 +1,6023 @@
+{
+  "id": "StGZp2ToWq92diPHS7",
+  "name": "Work Out",
+  "images": [
+    {
+      "height": 300,
+      "width": 300,
+      "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_616.png"
+    }
+  ],
+  "tracks": {
+    "data": [
+      {
+        "id": "KpbGrXF0sGgkra5-Fm",
+        "name": "A Sul Hae",
+        "duration": 212618,
+        "url": "https://event.kkbox.com/content/song/KpbGrXF0sGgkra5-Fm",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "-qty7dvEB5ro_sghei",
+          "name": "AH YEAH",
+          "url": "https://event.kkbox.com/content/album/-qty7dvEB5ro_sghei",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2015-04-14",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/6315243,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/6315243,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/6315243,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "HZGPVf0zUOvYTVqkg4",
+            "name": "EXID",
+            "url": "https://event.kkbox.com/content/artist/HZGPVf0zUOvYTVqkg4",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2537966,0v8/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2537966,0v8/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "L_k-VOmZ_NyBrmcf2w",
+        "name": "Good Feeling",
+        "duration": 246410,
+        "url": "https://event.kkbox.com/content/song/L_k-VOmZ_NyBrmcf2w",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "4qH6rs31wYJTRM3Po9",
+          "name": "Good Feeling",
+          "url": "https://event.kkbox.com/content/album/4qH6rs31wYJTRM3Po9",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-08-29",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/305259,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/305259,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/305259,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CoGg2-uNdysV1Lr5V1",
+            "name": "Flo Rida",
+            "url": "https://event.kkbox.com/content/artist/CoGg2-uNdysV1Lr5V1",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/29463,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/29463,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "LYxv22c0B5NiqDhVlU",
+        "name": "The Shadow",
+        "duration": 200306,
+        "url": "https://event.kkbox.com/content/song/LYxv22c0B5NiqDhVlU",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "Oqmd0pfFHgkGhXVn81",
+          "name": "Only One",
+          "url": "https://event.kkbox.com/content/album/Oqmd0pfFHgkGhXVn81",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2012-07-22",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/375120,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/375120,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/375120,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CtOSOCOex-o4ZNlMg3",
+            "name": "BoA",
+            "url": "https://event.kkbox.com/content/artist/CtOSOCOex-o4ZNlMg3",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/5374,0v9/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/5374,0v9/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "TalaXWunNCtw9rusHJ",
+        "name": "Hangover",
+        "duration": 244831,
+        "url": "https://event.kkbox.com/content/song/TalaXWunNCtw9rusHJ",
+        "track_number": 1,
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "KoMr7woK1IXU8p3aNQ",
+          "name": "TY.O",
+          "url": "https://event.kkbox.com/content/album/KoMr7woK1IXU8p3aNQ",
+          "explicitness": true,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2011-12-05",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/312454,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/312454,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/312454,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Kqjv5UJYQwYgnoOhtO",
+            "name": "Taio Cruz",
+            "url": "https://event.kkbox.com/content/artist/Kqjv5UJYQwYgnoOhtO",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/21788,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/21788,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "9-DLGCPvF6qQ2h32i_",
+        "name": "Ms. Jackson",
+        "duration": 239211,
+        "url": "https://event.kkbox.com/content/song/9-DLGCPvF6qQ2h32i_",
+        "track_number": 9,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "GkXDqfGex3YZIEo2-y",
+          "name": "Big Boi And Dre Present...Outkast(再出江湖)",
+          "url": "https://event.kkbox.com/content/album/GkXDqfGex3YZIEo2-y",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2003-12-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/17528,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/17528,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/17528,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "LZIHk3V1w4lbjwGJKi",
+            "name": "Outkast",
+            "url": "https://event.kkbox.com/content/artist/LZIHk3V1w4lbjwGJKi",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3914,0v15/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3914,0v15/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "GrYdBNXSk9ZkxM4IcW",
+        "name": "Hey Brother",
+        "duration": 255193,
+        "url": "https://event.kkbox.com/content/song/GrYdBNXSk9ZkxM4IcW",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "Wsxg-UaDjmG2B7WrkU",
+          "name": "True",
+          "url": "https://event.kkbox.com/content/album/Wsxg-UaDjmG2B7WrkU",
+          "explicitness": true,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2013-09-16",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/1878783,0v2/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/1878783,0v2/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/1878783,0v2/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CtlcmAOex-o4am097c",
+            "name": "Avicii",
+            "url": "https://event.kkbox.com/content/artist/CtlcmAOex-o4am097c",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/196178,0v4/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/196178,0v4/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "SqRrnlo9V6Obw698nA",
+        "name": "Beautiful Monster (美麗怪獸) (Album Version)",
+        "duration": 251518,
+        "url": "https://event.kkbox.com/content/song/SqRrnlo9V6Obw698nA",
+        "track_number": 9,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "Crxorb_ZyWtohm5p3L",
+          "name": "Libra Scale",
+          "url": "https://event.kkbox.com/content/album/Crxorb_ZyWtohm5p3L",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2010-12-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/158700,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/158700,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/158700,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "_aXzqlB6qG5Hf6-ziI",
+            "name": "Ne-Yo",
+            "url": "https://event.kkbox.com/content/artist/_aXzqlB6qG5Hf6-ziI",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/20990,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/20990,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KmCpvFB4R1boOHCUMN",
+        "name": "Straight Up ",
+        "duration": 174126,
+        "url": "https://event.kkbox.com/content/song/KmCpvFB4R1boOHCUMN",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "XXCkrL5qEjhjAE1Znx",
+          "name": "MELTING",
+          "url": "https://event.kkbox.com/content/album/XXCkrL5qEjhjAE1Znx",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2012-10-24",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/465928,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/465928,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/465928,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "TYhzpUJpHjUVz1N-8q",
+            "name": "HyunA",
+            "url": "https://event.kkbox.com/content/artist/TYhzpUJpHjUVz1N-8q",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/186075,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/186075,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Ss-AcfavDXYxb_4x91",
+        "name": "First Kiss",
+        "duration": 231502,
+        "url": "https://event.kkbox.com/content/song/Ss-AcfavDXYxb_4x91",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "5YJaeOpHsLpPyYyk0-",
+          "name": "Beautiful Kisses",
+          "url": "https://event.kkbox.com/content/album/5YJaeOpHsLpPyYyk0-",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-03-19",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/852690,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/852690,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/852690,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Wm7NnuUkUtj1LqLZ_s",
+            "name": "G.NA",
+            "url": "https://event.kkbox.com/content/artist/Wm7NnuUkUtj1LqLZ_s",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/54658,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/54658,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "WrXUYbz3HVANL7UY-r",
+        "name": "Sea Of Love",
+        "duration": 426085,
+        "url": "https://event.kkbox.com/content/song/WrXUYbz3HVANL7UY-r",
+        "track_number": 16,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "L-mYICxVKwYNqm_X23",
+          "name": "The Beach House Marbella Vol.3",
+          "url": "https://event.kkbox.com/content/album/L-mYICxVKwYNqm_X23",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/66346,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/66346,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/66346,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "OkpG_9NM0d0go7hnEx",
+            "name": "The Beach House Marbella",
+            "url": "https://event.kkbox.com/content/artist/OkpG_9NM0d0go7hnEx",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/10304,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/10304,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "PYJm02uSNHxJu-7cx8",
+        "name": "Honey, Honey",
+        "duration": 140179,
+        "url": "https://event.kkbox.com/content/song/PYJm02uSNHxJu-7cx8",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "-o4wU61M2jy1xXr8hE",
+          "name": "The Ash & Clay",
+          "url": "https://event.kkbox.com/content/album/-o4wU61M2jy1xXr8hE",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-03-26",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/953709,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/953709,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/953709,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "WoHHGIPmMb0q5UKy8a",
+            "name": "The Milk Carton Kids",
+            "url": "https://event.kkbox.com/content/artist/WoHHGIPmMb0q5UKy8a",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/407788,0v7/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/407788,0v7/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "TZhWbL8AH5GcN7d6jC",
+        "name": "Nothin On You [feat. Bruno Mars] (Album Version)",
+        "duration": 269714,
+        "url": "https://event.kkbox.com/content/song/TZhWbL8AH5GcN7d6jC",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "Sot2dN0tFOcHc5MJGz",
+          "name": "Nothin' On You [feat. Bruno Mars]",
+          "url": "https://event.kkbox.com/content/album/Sot2dN0tFOcHc5MJGz",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2010-04-05",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/146369,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/146369,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/146369,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KsG4S553FpT3XIr6hc",
+            "name": "B.o.B",
+            "url": "https://event.kkbox.com/content/artist/KsG4S553FpT3XIr6hc",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/49496,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/49496,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OtYlyCzt3Dzwalwms3",
+        "name": "Baiya",
+        "duration": 264243,
+        "url": "https://event.kkbox.com/content/song/OtYlyCzt3Dzwalwms3",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "GpJciszjWop20VTCzf",
+          "name": "Baiya",
+          "url": "https://event.kkbox.com/content/album/GpJciszjWop20VTCzf",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2012-12-17",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/622951,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/622951,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/622951,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "OmKPNJy93wEMCPCf0T",
+            "name": "DELPHIC",
+            "url": "https://event.kkbox.com/content/artist/OmKPNJy93wEMCPCf0T",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/47943,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/47943,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Grv_QgXSk9ZkwtsVfe",
+        "name": "The Spark",
+        "duration": 243716,
+        "url": "https://event.kkbox.com/content/song/Grv_QgXSk9ZkwtsVfe",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4mU9gOFE2kVG7OL_Vj",
+          "name": "The Spark",
+          "url": "https://event.kkbox.com/content/album/4mU9gOFE2kVG7OL_Vj",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-10-11",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/1997289,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/1997289,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/1997289,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "XYqnu1U8w9TEYRHyWa",
+            "name": "Afrojack",
+            "url": "https://event.kkbox.com/content/artist/XYqnu1U8w9TEYRHyWa",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/40673,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/40673,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OsHMstpE8UtsxONgyK",
+        "name": "Don't You Love Me",
+        "duration": 290899,
+        "url": "https://event.kkbox.com/content/song/OsHMstpE8UtsxONgyK",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "4mu64RFE2kVG4zRLcW",
+          "name": "Unversdl Truth(寰宇真理)",
+          "url": "https://event.kkbox.com/content/album/4mu64RFE2kVG4zRLcW",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2006-05-26",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/69377,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/69377,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/69377,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KkLFpMlinYMj9yYBFe",
+            "name": "Andy Caldwell",
+            "url": "https://event.kkbox.com/content/artist/KkLFpMlinYMj9yYBFe",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/17909,0v20/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/17909,0v20/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Ol6oRgiIS497YvflBE",
+        "name": "Fashion Beats",
+        "duration": 319970,
+        "url": "https://event.kkbox.com/content/song/Ol6oRgiIS497YvflBE",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Olkl_LxJCCud9tQwMZ",
+          "name": "The Beginning & The Best Of The E.N.D.",
+          "url": "https://event.kkbox.com/content/album/Olkl_LxJCCud9tQwMZ",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2010-11-29",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/161453,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/161453,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/161453,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KomzZI8xAz3AmwuQJ4",
+            "name": "The Black Eyed Peas",
+            "url": "https://event.kkbox.com/content/artist/KomzZI8xAz3AmwuQJ4",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/9806,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/9806,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "P-lH12F2hnTeN_7-fN",
+        "name": "I Love It",
+        "duration": 155428,
+        "url": "https://event.kkbox.com/content/song/P-lH12F2hnTeN_7-fN",
+        "track_number": 1,
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "XXHNvK5qEjhjAyB9f1",
+          "name": "I Love It",
+          "url": "https://event.kkbox.com/content/album/XXHNvK5qEjhjAyB9f1",
+          "explicitness": true,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2012-09-14",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/429342,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/429342,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/429342,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "9ZQmUzi6Jj_jK2bqio",
+            "name": "Icona Pop",
+            "url": "https://event.kkbox.com/content/artist/9ZQmUzi6Jj_jK2bqio",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/281031,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/281031,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5a7XzHKjyKyO6tD5FM",
+        "name": "Break Down",
+        "duration": 202942,
+        "url": "https://event.kkbox.com/content/song/5a7XzHKjyKyO6tD5FM",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "DX58-8MfYpMkjZywlb",
+          "name": "Break Down",
+          "url": "https://event.kkbox.com/content/album/DX58-8MfYpMkjZywlb",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2013-01-31",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/655086,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/655086,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/655086,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8pmq1lOTL2RafnWFpS",
+            "name": "SUPER JUNIOR-M",
+            "url": "https://event.kkbox.com/content/artist/8pmq1lOTL2RafnWFpS",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/45383,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/45383,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4mNiKt13f387pZV7WO",
+        "name": "Downtown (feat. 田祉潤)",
+        "duration": 204591,
+        "url": "https://event.kkbox.com/content/song/4mNiKt13f387pZV7WO",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "OsIZEJA4qcVQaemcUW",
+          "name": "首張個人迷你專輯 BUBBLE POP!",
+          "url": "https://event.kkbox.com/content/album/OsIZEJA4qcVQaemcUW",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-07-29",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/296788,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/296788,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/296788,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "TYhzpUJpHjUVz1N-8q",
+            "name": "HyunA",
+            "url": "https://event.kkbox.com/content/artist/TYhzpUJpHjUVz1N-8q",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/186075,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/186075,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "0lZZb7q3s1XUfJ2FcX",
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "duration": 455668,
+        "url": "https://event.kkbox.com/content/song/0lZZb7q3s1XUfJ2FcX",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "JP"
+        ],
+        "album": {
+          "id": "5YEiSKpHsLpPwC1LEK",
+          "name": "I Could Be The One [Avicii vs Nicky Romero]",
+          "url": "https://event.kkbox.com/content/album/5YEiSKpHsLpPwC1LEK",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "JP"
+          ],
+          "release_date": "2012-12-29",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/623077,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/623077,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/623077,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "WtdYrbUWvn57VOvLeS",
+            "name": "Avicii, Nicky Romero",
+            "url": "https://event.kkbox.com/content/artist/WtdYrbUWvn57VOvLeS",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/405610,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/405610,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "_aSItg9AAvqjYHn6df",
+        "name": "The Boxer",
+        "duration": 245202,
+        "url": "https://event.kkbox.com/content/song/_aSItg9AAvqjYHn6df",
+        "track_number": 14,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "5XBRgT6BTkffKMmYDu",
+          "name": "Babel",
+          "url": "https://event.kkbox.com/content/album/5XBRgT6BTkffKMmYDu",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2012-09-24",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/424596,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/424596,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/424596,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "OlUshKsPZGERNtlqek",
+            "name": "Mumford & Sons",
+            "url": "https://event.kkbox.com/content/artist/OlUshKsPZGERNtlqek",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/46009,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/46009,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8oclGNsAlULSDiwuz7",
+        "name": "Last Farewell",
+        "duration": 233848,
+        "url": "https://event.kkbox.com/content/song/8oclGNsAlULSDiwuz7",
+        "track_number": 8,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "DY4MmSgtI9ARXZpY8Y",
+          "name": "BIGBANG is Great",
+          "url": "https://event.kkbox.com/content/album/DY4MmSgtI9ARXZpY8Y",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2013-12-19",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/342991,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/342991,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/342991,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "_Z047IW0OU_ZyemxdA",
+            "name": "BIGBANG",
+            "url": "https://event.kkbox.com/content/artist/_Z047IW0OU_ZyemxdA",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/43934,0v4/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/43934,0v4/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "PZDkW9HlfVd6gDpVrT",
+        "name": "Young Folks",
+        "duration": 276688,
+        "url": "https://event.kkbox.com/content/song/PZDkW9HlfVd6gDpVrT",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "OozjxVaYhoFhEoLM8Z",
+          "name": "Writer's Block",
+          "url": "https://event.kkbox.com/content/album/OozjxVaYhoFhEoLM8Z",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2009-04-23",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/129286,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/129286,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/129286,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Sq9bnxDYPwPOygxEuE",
+            "name": "Peter Bjorn And John",
+            "url": "https://event.kkbox.com/content/artist/Sq9bnxDYPwPOygxEuE",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/27721,0v10/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/27721,0v10/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "L-31g77hXlYLs3KNdz",
+        "name": "Poker Face",
+        "duration": 237122,
+        "url": "https://event.kkbox.com/content/song/L-31g77hXlYLs3KNdz",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "9aQc-62DUhQp_BlrLI",
+          "name": "The Fame",
+          "url": "https://event.kkbox.com/content/album/9aQc-62DUhQp_BlrLI",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2009-01-23",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/121880,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/121880,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/121880,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "TaEBocy6ixtKeBjCo_",
+            "name": "Lady Gaga",
+            "url": "https://event.kkbox.com/content/artist/TaEBocy6ixtKeBjCo_",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/32733,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/32733,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Ct_fB8aFUSEGY83O9P",
+        "name": "KOREAN DREAM (FEAT.BIGBANG之TAEYANG)",
+        "duration": 197857,
+        "url": "https://event.kkbox.com/content/song/Ct_fB8aFUSEGY83O9P",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "5YFcKFpHsLpPwgjEmp",
+          "name": "HEARTBREAKER",
+          "url": "https://event.kkbox.com/content/album/5YFcKFpHsLpPwgjEmp",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2012-09-28",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/419810,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/419810,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/419810,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GsrOsEHedyFlIKLVSk",
+            "name": "G-DRAGON",
+            "url": "https://event.kkbox.com/content/artist/GsrOsEHedyFlIKLVSk",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/275327,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/275327,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "HY12J8I4zKb7f8EXi1",
+        "name": "Shower The People",
+        "duration": 277060,
+        "url": "https://event.kkbox.com/content/song/HY12J8I4zKb7f8EXi1",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "LaQVTeUcR5Jln7mKyN",
+          "name": "Playlist",
+          "url": "https://event.kkbox.com/content/album/LaQVTeUcR5Jln7mKyN",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-11-13",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/100592,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/100592,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/100592,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "WtRcrdUWvn57UquZtS",
+            "name": "Kenny \"Babyface\" Edmonds",
+            "url": "https://event.kkbox.com/content/artist/WtRcrdUWvn57UquZtS",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/28762,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/28762,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "SpI7008c1sYnr3PcJT",
+        "name": "Think You Want It",
+        "duration": 275992,
+        "url": "https://event.kkbox.com/content/song/SpI7008c1sYnr3PcJT",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "4lIhPwRx6lesdCTRvE",
+          "name": "Push",
+          "url": "https://event.kkbox.com/content/album/4lIhPwRx6lesdCTRvE",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2007-10-19",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/100568,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/100568,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/100568,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KshxS553FpT3Uiqrpb",
+            "name": "Colette",
+            "url": "https://event.kkbox.com/content/artist/KshxS553FpT3Uiqrpb",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/20932,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/20932,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Xa7IxbUriLniIbXFsz",
+        "name": "If This Is Love",
+        "duration": 202663,
+        "url": "https://event.kkbox.com/content/song/Xa7IxbUriLniIbXFsz",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "GqvSEQrAKRoy_gKDig",
+          "name": "Chasing Lights",
+          "url": "https://event.kkbox.com/content/album/GqvSEQrAKRoy_gKDig",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2009-03-30",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/127656,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/127656,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/127656,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Kq2ghUJYQwYglPigUM",
+            "name": "The Saturdays",
+            "url": "https://event.kkbox.com/content/artist/Kq2ghUJYQwYglPigUM",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/41800,0v9/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/41800,0v9/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "L_VRxmmZ_NyBr58R1C",
+        "name": "I Like It Rough",
+        "duration": 203964,
+        "url": "https://event.kkbox.com/content/song/L_VRxmmZ_NyBr58R1C",
+        "track_number": 13,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "WlEyeubg7wx8px70Rg",
+          "name": "The Fame Monster",
+          "url": "https://event.kkbox.com/content/album/WlEyeubg7wx8px70Rg",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2009-11-27",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/137793,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/137793,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/137793,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "TaEBocy6ixtKeBjCo_",
+            "name": "Lady Gaga",
+            "url": "https://event.kkbox.com/content/artist/TaEBocy6ixtKeBjCo_",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/32733,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/32733,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4pEgzTHBiO7N4jV7Iq",
+        "name": "Closer(Album Version)",
+        "duration": 234335,
+        "url": "https://event.kkbox.com/content/song/4pEgzTHBiO7N4jV7Iq",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "HXGc-BPMRr3eMtNp59",
+          "name": "Year Of The Gentleman",
+          "url": "https://event.kkbox.com/content/album/HXGc-BPMRr3eMtNp59",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2008-09-19",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/109704,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/109704,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/109704,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "_aXzqlB6qG5Hf6-ziI",
+            "name": "Ne-Yo",
+            "url": "https://event.kkbox.com/content/artist/_aXzqlB6qG5Hf6-ziI",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/20990,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/20990,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "DappIaZZK9m6FSveH7",
+        "name": "When A Fire Starts To Burn",
+        "duration": 283655,
+        "url": "https://event.kkbox.com/content/song/DappIaZZK9m6FSveH7",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "-nufgWEINWEdb2NoA8",
+          "name": "Settle",
+          "url": "https://event.kkbox.com/content/album/-nufgWEINWEdb2NoA8",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-06-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/1534555,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/1534555,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/1534555,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KqFMJQJYQwYglB-G5O",
+            "name": "Disclosure",
+            "url": "https://event.kkbox.com/content/artist/KqFMJQJYQwYglB-G5O",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/289158,0v5/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/289158,0v5/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "LZhq3SVcMFHaitGdB-",
+        "name": "This Head I Hold",
+        "duration": 175856,
+        "url": "https://event.kkbox.com/content/song/LZhq3SVcMFHaitGdB-",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "T_vCf_mb5SlJ_rbXuv",
+          "name": "This Head I Hold",
+          "url": "https://event.kkbox.com/content/album/T_vCf_mb5SlJ_rbXuv",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2012-03-26",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/325635,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/325635,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/325635,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "-rrMLyzzktQaWbEdlT",
+            "name": "Electric Guest",
+            "url": "https://event.kkbox.com/content/artist/-rrMLyzzktQaWbEdlT",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/206025,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/206025,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "SpOQ4W8c1sYnqfzTJk",
+        "name": "COLD",
+        "duration": 206576,
+        "url": "https://event.kkbox.com/content/song/SpOQ4W8c1sYnqfzTJk",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "Krp0BFykQPhDAi7gku",
+          "name": "Nocturnal",
+          "url": "https://event.kkbox.com/content/album/Krp0BFykQPhDAi7gku",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-08-19",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/299138,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/299138,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/299138,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "0nupVoeN5hLUISF3-4",
+            "name": "AZIATIX",
+            "url": "https://event.kkbox.com/content/artist/0nupVoeN5hLUISF3-4",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/87080,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/87080,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "D-r80IEGldMilJoHjw",
+        "name": "Amnesia (Radio Edit)",
+        "duration": 187454,
+        "url": "https://event.kkbox.com/content/song/D-r80IEGldMilJoHjw",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "LZ05EJgu2Z7b0hqUy4",
+          "name": "Amnesia",
+          "url": "https://event.kkbox.com/content/album/LZ05EJgu2Z7b0hqUy4",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2012-04-30",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/329949,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/329949,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/329949,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8nw8-3dUM64-e6fRFY",
+            "name": "Ian Carey & Rosette feat. Timbaland & Brasco",
+            "url": "https://event.kkbox.com/content/artist/8nw8-3dUM64-e6fRFY",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/209188,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/209188,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "WkwJ7HFpPowclXJcQe",
+        "name": "No Diggity(BLACKSTREET feat. DR. DRE)",
+        "duration": 305574,
+        "url": "https://event.kkbox.com/content/song/WkwJ7HFpPowclXJcQe",
+        "track_number": 27,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "DZEGYoo_1aDjE6UF1V",
+          "name": "Hip Hop-The Collection V(嘻哈寶典Give Me 5)",
+          "url": "https://event.kkbox.com/content/album/DZEGYoo_1aDjE6UF1V",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-05-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/88787,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/88787,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/88787,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "5aDCHhCxN9BcLJNDNA",
+            "name": "Hip Hop",
+            "url": "https://event.kkbox.com/content/artist/5aDCHhCxN9BcLJNDNA",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/24546,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/24546,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Okf_jZWHwySdKCQFAN",
+        "name": "The Time (Dirty Bit)",
+        "duration": 307617,
+        "url": "https://event.kkbox.com/content/song/Okf_jZWHwySdKCQFAN",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Olkl_LxJCCud9tQwMZ",
+          "name": "The Beginning & The Best Of The E.N.D.",
+          "url": "https://event.kkbox.com/content/album/Olkl_LxJCCud9tQwMZ",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2010-11-29",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/161453,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/161453,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/161453,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KomzZI8xAz3AmwuQJ4",
+            "name": "The Black Eyed Peas",
+            "url": "https://event.kkbox.com/content/artist/KomzZI8xAz3AmwuQJ4",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/9806,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/9806,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4ntwa70I3TYuqB7GxR",
+        "name": "Bass Down Low",
+        "duration": 210558,
+        "url": "https://event.kkbox.com/content/song/4ntwa70I3TYuqB7GxR",
+        "track_number": 1,
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Wl4bKobg7wx8qEMXzq",
+          "name": "Bass Down Low",
+          "url": "https://event.kkbox.com/content/album/Wl4bKobg7wx8qEMXzq",
+          "explicitness": true,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2011-08-05",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/298931,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/298931,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/298931,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "TXvm8D8BsjI_ZdDuaQ",
+            "name": "DEV",
+            "url": "https://event.kkbox.com/content/artist/TXvm8D8BsjI_ZdDuaQ",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/187257,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/187257,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4kBbrawvWkaL-CJ4yx",
+        "name": "Hero(Nas feat. Keri Hilson)",
+        "duration": 243670,
+        "url": "https://event.kkbox.com/content/song/4kBbrawvWkaL-CJ4yx",
+        "track_number": 12,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "CmcLw_4WAc3pxKdO0y",
+          "name": "HIP HOP VII",
+          "url": "https://event.kkbox.com/content/album/CmcLw_4WAc3pxKdO0y",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2009-08-14",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/132711,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/132711,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/132711,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "5aDCHhCxN9BcLJNDNA",
+            "name": "Hip Hop",
+            "url": "https://event.kkbox.com/content/artist/5aDCHhCxN9BcLJNDNA",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/24546,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/24546,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4qpttq58WUFouuqeKr",
+        "name": "Born This Way",
+        "duration": 260249,
+        "url": "https://event.kkbox.com/content/song/4qpttq58WUFouuqeKr",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "8nlq8qfEHSCv0mdzzM",
+          "name": "Born This Way",
+          "url": "https://event.kkbox.com/content/album/8nlq8qfEHSCv0mdzzM",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-05-24",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/166817,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/166817,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/166817,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "TaEBocy6ixtKeBjCo_",
+            "name": "Lady Gaga",
+            "url": "https://event.kkbox.com/content/artist/TaEBocy6ixtKeBjCo_",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/32733,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/32733,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "HXF4xoboaXJ8bLHZbS",
+        "name": "Friday I'm In Love",
+        "duration": 215295,
+        "url": "https://event.kkbox.com/content/song/HXF4xoboaXJ8bLHZbS",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "D-u4VdpddbwdNsnmuG",
+          "name": "Friday I'm In Love Hit Pac",
+          "url": "https://event.kkbox.com/content/album/D-u4VdpddbwdNsnmuG",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2008-11-24",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/113689,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/113689,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/113689,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "9XhP_yg5vg3gakLrC-",
+            "name": "The Cure",
+            "url": "https://event.kkbox.com/content/artist/9XhP_yg5vg3gakLrC-",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2120,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2120,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "D_RnwSqKOtw-aBsRvE",
+        "name": "Not Afraid",
+        "duration": 248081,
+        "url": "https://event.kkbox.com/content/song/D_RnwSqKOtw-aBsRvE",
+        "track_number": 7,
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "TaVDotNz9CYeGASRHF",
+          "name": "Recovery",
+          "url": "https://event.kkbox.com/content/album/TaVDotNz9CYeGASRHF",
+          "explicitness": true,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2010-06-21",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/149243,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/149243,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/149243,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "LZo1I3V1w4lbh9Ov5c",
+            "name": "Eminem",
+            "url": "https://event.kkbox.com/content/artist/LZo1I3V1w4lbh9Ov5c",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/9417,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/9417,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "0pX_eTJlMinpVGzpOf",
+        "name": "Fine Time",
+        "duration": 375719,
+        "url": "https://event.kkbox.com/content/song/0pX_eTJlMinpVGzpOf",
+        "track_number": 10,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "9aFDi62DUhQp-oVjWi",
+          "name": "Best Remixes",
+          "url": "https://event.kkbox.com/content/album/9aFDi62DUhQp-oVjWi",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2015-05-21",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/76621,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/76621,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/76621,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "-k9xNLUKzxULKW9h_k",
+            "name": "New Order",
+            "url": "https://event.kkbox.com/content/artist/-k9xNLUKzxULKW9h_k",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/888,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/888,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4mKju913f387r1hDfN",
+        "name": "Wreckin' Bar (Ra Ra Ra)",
+        "duration": 81130,
+        "url": "https://event.kkbox.com/content/song/4mKju913f387r1hDfN",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "5XVasX6BTkffLLI-jf",
+          "name": "What Did You Expect From The Vaccines? (你期待發揮什麼藥效？)",
+          "url": "https://event.kkbox.com/content/album/5XVasX6BTkffLLI-jf",
+          "explicitness": true,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-03-14",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/182724,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/182724,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/182724,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CrGwi6x2Y7UDCpsyh1",
+            "name": "The Vaccines",
+            "url": "https://event.kkbox.com/content/artist/CrGwi6x2Y7UDCpsyh1",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/62182,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/62182,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8rmuOAZ059bDSuQ68O",
+        "name": "Epic",
+        "duration": 293668,
+        "url": "https://event.kkbox.com/content/song/8rmuOAZ059bDSuQ68O",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "1YIzy0HuV_hOC9LiDy",
+          "name": "The Real Thing",
+          "url": "https://event.kkbox.com/content/album/1YIzy0HuV_hOC9LiDy",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2005-09-13",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/76557,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/76557,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/76557,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KonhtI8xAz3AlbEKXg",
+            "name": "Faith No More",
+            "url": "https://event.kkbox.com/content/artist/KonhtI8xAz3AlbEKXg",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2891,0v17/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2891,0v17/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "XXT1jXWoN4kboENL96",
+        "name": "Release(解放)",
+        "duration": 205264,
+        "url": "https://event.kkbox.com/content/song/XXT1jXWoN4kboENL96",
+        "track_number": 3,
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Ol9n7IxJCCud-3hVb5",
+          "name": "Shock Value(超級驚選)",
+          "url": "https://event.kkbox.com/content/album/Ol9n7IxJCCud-3hVb5",
+          "explicitness": true,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-04-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/88009,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/88009,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/88009,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KpFVd_hFg8xEswP_sY",
+            "name": "Timbaland",
+            "url": "https://event.kkbox.com/content/artist/KpFVd_hFg8xEswP_sY",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/24219,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/24219,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4meYms13f387roa4JK",
+        "name": "Super Bass (Album Version (Explicit))",
+        "duration": 200341,
+        "url": "https://event.kkbox.com/content/song/4meYms13f387roa4JK",
+        "track_number": 1,
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "DY732TgtI9ARVr2DqB",
+          "name": "Super Bass",
+          "url": "https://event.kkbox.com/content/album/DY732TgtI9ARVr2DqB",
+          "explicitness": true,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-07-27",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/298944,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/298944,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/298944,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "DZUlygBozZZ2RZqZ02",
+            "name": "Nicki Minaj",
+            "url": "https://event.kkbox.com/content/artist/DZUlygBozZZ2RZqZ02",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/57683,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/57683,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "WtDoOaBQoKRKV5wXnJ",
+        "name": "That's That S***(SNOOP DOGG)",
+        "duration": 257416,
+        "url": "https://event.kkbox.com/content/song/WtDoOaBQoKRKV5wXnJ",
+        "track_number": 17,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "DZEGYoo_1aDjE6UF1V",
+          "name": "Hip Hop-The Collection V(嘻哈寶典Give Me 5)",
+          "url": "https://event.kkbox.com/content/album/DZEGYoo_1aDjE6UF1V",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-05-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/88787,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/88787,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/88787,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "5aDCHhCxN9BcLJNDNA",
+            "name": "Hip Hop",
+            "url": "https://event.kkbox.com/content/artist/5aDCHhCxN9BcLJNDNA",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/24546,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/24546,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "H-pk43m6CJ6qxFV5Y0",
+        "name": "I Wanna Go",
+        "duration": 210233,
+        "url": "https://event.kkbox.com/content/song/H-pk43m6CJ6qxFV5Y0",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "CnE8v8RV4d6Z3b_cCz",
+          "name": "Femme Fatale (蛇蠍美人)",
+          "url": "https://event.kkbox.com/content/album/CnE8v8RV4d6Z3b_cCz",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-03-29",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/164786,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/164786,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/164786,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "OqcAh822THuFrQa-XY",
+            "name": "Britney Spears",
+            "url": "https://event.kkbox.com/content/artist/OqcAh822THuFrQa-XY",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/6945,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/6945,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "GpiLpFn--IKc0j0zFh",
+        "name": "Back in Time(featured in \"Men In Black III\")",
+        "duration": 205798,
+        "url": "https://event.kkbox.com/content/song/GpiLpFn--IKc0j0zFh",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "L_OA454eYWLlSb34aA",
+          "name": "Back in Time",
+          "url": "https://event.kkbox.com/content/album/L_OA454eYWLlSb34aA",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2012-04-19",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/327729,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/327729,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/327729,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "X_XM2V0xnYXJHTfAVG",
+            "name": "Pitbull",
+            "url": "https://event.kkbox.com/content/artist/X_XM2V0xnYXJHTfAVG",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/29863,0v4/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/29863,0v4/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Havf1XFVE8K3YcKM--",
+        "name": "Work",
+        "duration": 207678,
+        "url": "https://event.kkbox.com/content/song/Havf1XFVE8K3YcKM--",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Or187A5eLG7iPfMkJw",
+          "name": "Ms. Kelly",
+          "url": "https://event.kkbox.com/content/album/Or187A5eLG7iPfMkJw",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-06-26",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/91449,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/91449,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/91449,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "WmxSnuUkUtj1IJApse",
+            "name": "Kelly Rowland",
+            "url": "https://event.kkbox.com/content/artist/WmxSnuUkUtj1IJApse",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/9643,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/9643,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "DYBdzY_rri5YRfRBwZ",
+        "name": "We Don't Care",
+        "duration": 272692,
+        "url": "https://event.kkbox.com/content/song/DYBdzY_rri5YRfRBwZ",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "H_6V_T4H2kp-9MrYgM",
+          "name": "We Don't Care",
+          "url": "https://event.kkbox.com/content/album/H_6V_T4H2kp-9MrYgM",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2013-09-20",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/1816371,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/1816371,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/1816371,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "0kWd8nrRCS2ApCh6gs",
+            "name": "Manian",
+            "url": "https://event.kkbox.com/content/artist/0kWd8nrRCS2ApCh6gs",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/41012,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/41012,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8t-_qAfjsnPsGUex6r",
+        "name": "Maybe",
+        "duration": 201560,
+        "url": "https://event.kkbox.com/content/song/8t-_qAfjsnPsGUex6r",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "HYClirmgU1EtW_1s2W",
+          "name": "My Own Way(走出自我)",
+          "url": "https://event.kkbox.com/content/album/HYClirmgU1EtW_1s2W",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2008-06-07",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/105985,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/105985,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/105985,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4sf3rJdLYqFkBqMcXf",
+            "name": "Jay Sean",
+            "url": "https://event.kkbox.com/content/artist/4sf3rJdLYqFkBqMcXf",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/30907,0v35/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/30907,0v35/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "PaEUfixaWKr829lF78",
+        "name": "When The Lights Go Out (Feat. Kira)-Foxy Brown",
+        "duration": 210604,
+        "url": "https://event.kkbox.com/content/song/PaEUfixaWKr829lF78",
+        "track_number": 10,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "HY3A-rmgU1EtVBMyYr",
+          "name": "Hip Hop Essentials(獨立嘻哈全紀錄)",
+          "url": "https://event.kkbox.com/content/album/HY3A-rmgU1EtVBMyYr",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2008-12-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/117207,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/117207,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/117207,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "SsamoKFoPKLNQcj80b",
+            "name": "Hip Hop Essentials",
+            "url": "https://event.kkbox.com/content/artist/SsamoKFoPKLNQcj80b",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/36765,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/36765,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CmqOOH1VtBWGrK68oa",
+        "name": "Jai Ho! (You Are My Destiny)",
+        "duration": 222354,
+        "url": "https://event.kkbox.com/content/song/CmqOOH1VtBWGrK68oa",
+        "track_number": 17,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "SpMJOo0aS-4BeZ87Za",
+          "name": "Doll Domination",
+          "url": "https://event.kkbox.com/content/album/SpMJOo0aS-4BeZ87Za",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2009-04-17",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/127710,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/127710,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/127710,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "DazsiPBJ8qnEs5hD0R",
+            "name": "Pussycat Dolls",
+            "url": "https://event.kkbox.com/content/artist/DazsiPBJ8qnEs5hD0R",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/13165,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/13165,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OoUXvI9a32AqZcR3kF",
+        "name": "Dirty Dirty",
+        "duration": 262246,
+        "url": "https://event.kkbox.com/content/song/OoUXvI9a32AqZcR3kF",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "TZNSb6uPIu_YcXLvAf",
+          "name": "Thank You(感謝您)",
+          "url": "https://event.kkbox.com/content/album/TZNSb6uPIu_YcXLvAf",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2004-01-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/59531,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/59531,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/59531,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "LXmCEcxRSEf7Tr_AsN",
+            "name": "Jamelia",
+            "url": "https://event.kkbox.com/content/artist/LXmCEcxRSEf7Tr_AsN",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/9780,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/9780,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "GsWUmYRUZ-QUaP9grb",
+        "name": "Poker Face",
+        "duration": 237191,
+        "url": "https://event.kkbox.com/content/song/GsWUmYRUZ-QUaP9grb",
+        "track_number": 12,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "WlEyeubg7wx8px70Rg",
+          "name": "The Fame Monster",
+          "url": "https://event.kkbox.com/content/album/WlEyeubg7wx8px70Rg",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2009-11-27",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/137793,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/137793,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/137793,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "TaEBocy6ixtKeBjCo_",
+            "name": "Lady Gaga",
+            "url": "https://event.kkbox.com/content/artist/TaEBocy6ixtKeBjCo_",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/32733,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/32733,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4sbdn_sjOGRFi-lQV2",
+        "name": "Live Your Life",
+        "duration": 338872,
+        "url": "https://event.kkbox.com/content/song/4sbdn_sjOGRFi-lQV2",
+        "track_number": 5,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "P-_Vy_ljmaj9rOHrO2",
+          "name": "Paper Trail",
+          "url": "https://event.kkbox.com/content/album/P-_Vy_ljmaj9rOHrO2",
+          "explicitness": true,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2008-10-10",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/112919,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/112919,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/112919,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "HXqpYTKP8cmeFfT3eG",
+            "name": "T.I.",
+            "url": "https://event.kkbox.com/content/artist/HXqpYTKP8cmeFfT3eG",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/622,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/622,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "GpHxJZm--IKc2w5E37",
+        "name": "Not The Only One",
+        "duration": 199041,
+        "url": "https://event.kkbox.com/content/song/GpHxJZm--IKc2w5E37",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "-lZJiBcGp_79wD3WkH",
+          "name": "NO.5",
+          "url": "https://event.kkbox.com/content/album/-lZJiBcGp_79wD3WkH",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2015-07-20",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/7088257,1v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/7088257,1v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/7088257,1v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GowuQLYsPJM_sP3B6c",
+            "name": "2PM",
+            "url": "https://event.kkbox.com/content/artist/GowuQLYsPJM_sP3B6c",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/50754,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/50754,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "XXrfIVU4N4kbpQJcKx",
+        "name": "All in",
+        "duration": 190693,
+        "url": "https://event.kkbox.com/content/song/XXrfIVU4N4kbpQJcKx",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "4kw1M-YXF4KmUcFZB6",
+          "name": "THE CLAN pt.1 <LOST>",
+          "url": "https://event.kkbox.com/content/album/4kw1M-YXF4KmUcFZB6",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2016-05-20",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/15784795,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/15784795,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/15784795,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "_ZYjX7W0OU_Zzpo-cl",
+            "name": "MONSTA X",
+            "url": "https://event.kkbox.com/content/artist/_ZYjX7W0OU_Zzpo-cl",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3346479,0v4/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3346479,0v4/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "9YAPlREOtUrZ0wwKUk",
+        "name": "Boy in Luv (Chinese Ver.)",
+        "duration": 234475,
+        "url": "https://event.kkbox.com/content/song/9YAPlREOtUrZ0wwKUk",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "1-dQP1bXCvM0ffMYqc",
+          "name": "Boy in Luv【Chinese Ver.】",
+          "url": "https://event.kkbox.com/content/album/1-dQP1bXCvM0ffMYqc",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2015-03-09",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/5887009,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/5887009,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/5887009,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "PaE4NNTCBoelD0bYjc",
+            "name": "BTS (방탄소년단)",
+            "url": "https://event.kkbox.com/content/artist/PaE4NNTCBoelD0bYjc",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2750938,0v4/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2750938,0v4/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "HZ6OYnJSEYKflmkYcK",
+        "name": "WITCH",
+        "duration": 226742,
+        "url": "https://event.kkbox.com/content/song/HZ6OYnJSEYKflmkYcK",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "MY"
+        ],
+        "album": {
+          "id": "CqdsJLARmpvC8reN1r",
+          "name": "WITCH",
+          "url": "https://event.kkbox.com/content/album/CqdsJLARmpvC8reN1r",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "MY"
+          ],
+          "release_date": "2014-11-10",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/5095565,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/5095565,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/5095565,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4l-8YhX_8ga0tKotwS",
+            "name": "BOYFRIEND",
+            "url": "https://event.kkbox.com/content/artist/4l-8YhX_8ga0tKotwS",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/342469,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/342469,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KkYr0TkD5hrtBYnarU",
+        "name": "Magnetic",
+        "duration": 204277,
+        "url": "https://event.kkbox.com/content/song/KkYr0TkD5hrtBYnarU",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "LYiSIaiiCNxEtK7_M1",
+          "name": "Identify",
+          "url": "https://event.kkbox.com/content/album/LYiSIaiiCNxEtK7_M1",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2014-12-23",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/5417391,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/5417391,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/5417391,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "9XrF7Wg5vg3gb3QsOg",
+            "name": "GOT7",
+            "url": "https://event.kkbox.com/content/artist/9XrF7Wg5vg3gb3QsOg",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2402656,0v8/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2402656,0v8/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Os-dFCok8UtsyQBs4G",
+        "name": "Under The Moonlight (달빛 아래서)",
+        "duration": 199262,
+        "url": "https://event.kkbox.com/content/song/Os-dFCok8UtsyQBs4G",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "CtZKzE-noP3rNHokdy",
+          "name": "Under The Moonlight",
+          "url": "https://event.kkbox.com/content/album/CtZKzE-noP3rNHokdy",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2015-11-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/10446184,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/10446184,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/10446184,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Gp0VnYPEBUDsgqvhqY",
+            "name": "VAV",
+            "url": "https://event.kkbox.com/content/artist/Gp0VnYPEBUDsgqvhqY",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/4418091,0v4/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/4418091,0v4/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Gon-j8SwV7_OdcyNYB",
+        "name": "Oh Invisible",
+        "duration": 251983,
+        "url": "https://event.kkbox.com/content/song/Gon-j8SwV7_OdcyNYB",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "9-IWLShimwqbJfqaBn",
+          "name": "Land Dispute",
+          "url": "https://event.kkbox.com/content/album/9-IWLShimwqbJfqaBn",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-09-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/1848672,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/1848672,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/1848672,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8lMTVjOuEe4fT7Byb3",
+            "name": "ThouShaltNot",
+            "url": "https://event.kkbox.com/content/artist/8lMTVjOuEe4fT7Byb3",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/974277,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/974277,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8mGcaXLQJRsamTbNn0",
+        "name": "Month Of May",
+        "duration": 230713,
+        "url": "https://event.kkbox.com/content/song/8mGcaXLQJRsamTbNn0",
+        "track_number": 10,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "PZVWgcN4_n53Uy0b1N",
+          "name": "The Suburbs",
+          "url": "https://event.kkbox.com/content/album/PZVWgcN4_n53Uy0b1N",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2010-08-20",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/154204,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/154204,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/154204,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "5ZaksWda-SScfjD_bx",
+            "name": "Arcade Fire",
+            "url": "https://event.kkbox.com/content/artist/5ZaksWda-SScfjD_bx",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/23999,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/23999,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1Zn6f-6cmUN-4WhiIN",
+        "name": "Jealous (I Ain't With It)",
+        "duration": 228048,
+        "url": "https://event.kkbox.com/content/song/1Zn6f-6cmUN-4WhiIN",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "5-cJjLVpFSVSCCA2KJ",
+          "name": "White Women",
+          "url": "https://event.kkbox.com/content/album/5-cJjLVpFSVSCCA2KJ",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2014-05-12",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/3890968,1v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/3890968,1v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/3890968,1v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "SlHVP0V9bC1ogKVIw3",
+            "name": "Chromeo",
+            "url": "https://event.kkbox.com/content/artist/SlHVP0V9bC1ogKVIw3",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/11499,0v20/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/11499,0v20/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "9_m4RNkOL75jIwLXnj",
+        "name": "If We're Alright",
+        "duration": 220218,
+        "url": "https://event.kkbox.com/content/song/9_m4RNkOL75jIwLXnj",
+        "track_number": 15,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "KsDIznNedkIB81YiC9",
+          "name": "Word Of Mouth",
+          "url": "https://event.kkbox.com/content/album/KsDIznNedkIB81YiC9",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2013-11-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/2135643,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/2135643,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/2135643,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CpoTWztnOiWI6FnAoo",
+            "name": "The Wanted",
+            "url": "https://event.kkbox.com/content/artist/CpoTWztnOiWI6FnAoo",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/58252,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/58252,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OomR8P9q32AqbdJWp8",
+        "name": "love (feat. seung hui from brave new girl group)(love (feat. 승희 from brave new girl group))",
+        "duration": 191843,
+        "url": "https://event.kkbox.com/content/song/OomR8P9q32AqbdJWp8",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "DXDoXQMfYpMkjXl7Vy",
+          "name": "In Love",
+          "url": "https://event.kkbox.com/content/album/DXDoXQMfYpMkjXl7Vy",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-04-02",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/6665223,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/6665223,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/6665223,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "5-lxQXV88AiCKR1DKQ",
+            "name": "ELECTRO BOYZ(일렉트로보이즈)",
+            "url": "https://event.kkbox.com/content/artist/5-lxQXV88AiCKR1DKQ",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3394884,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3394884,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "0pRMcuJVMinpWqSoTc",
+        "name": "Zero For Conduct",
+        "duration": 193619,
+        "url": "https://event.kkbox.com/content/song/0pRMcuJVMinpWqSoTc",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "5_l5LB1aO3eqKVEGpj",
+          "name": "品行ZERO",
+          "url": "https://event.kkbox.com/content/album/5_l5LB1aO3eqKVEGpj",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2015-04-14",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/6372742,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/6372742,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/6372742,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "-lt_yVdXI0rBDtb_Hs",
+            "name": "Block B - BASTARZ",
+            "url": "https://event.kkbox.com/content/artist/-lt_yVdXI0rBDtb_Hs",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3150431,0v4/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3150431,0v4/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "_-DnoRqOB8cu2RMYtP",
+        "name": "Ice Cream Cake",
+        "duration": 190775,
+        "url": "https://event.kkbox.com/content/song/_-DnoRqOB8cu2RMYtP",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "Ok4S8BkKH9M2t5kiFY",
+          "name": "Ice Cream Cake",
+          "url": "https://event.kkbox.com/content/album/Ok4S8BkKH9M2t5kiFY",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2015-03-17",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/5944562,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/5944562,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/5944562,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "-t2RuUTrdRktDz_AnA",
+            "name": "Red Velvet",
+            "url": "https://event.kkbox.com/content/artist/-t2RuUTrdRktDz_AnA",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2719924,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2719924,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "PXg2WVVr8IwsANFtdH",
+        "name": "Monster",
+        "duration": 221309,
+        "url": "https://event.kkbox.com/content/song/PXg2WVVr8IwsANFtdH",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "4rXy3FjQFoOyahXaN3",
+          "name": "LOTTO",
+          "url": "https://event.kkbox.com/content/album/4rXy3FjQFoOyahXaN3",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2016-08-18",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/16208507,1v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/16208507,1v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/16208507,1v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "OpW9xoRSE_QnEOZJo5",
+            "name": "EXO",
+            "url": "https://event.kkbox.com/content/artist/OpW9xoRSE_QnEOZJo5",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/850466,0v13/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/850466,0v13/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "HZKoOIJSEYKfkJ36S7",
+        "name": "I Wish",
+        "duration": 199923,
+        "url": "https://event.kkbox.com/content/song/HZKoOIJSEYKfkJ36S7",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "Ckkxy-lzW4Ta1gM9Xr",
+          "name": "家內手工業",
+          "url": "https://event.kkbox.com/content/album/Ckkxy-lzW4Ta1gM9Xr",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2015-04-16",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/6371801,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/6371801,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/6371801,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "L_u28Vz6gunFOf-6Jf",
+            "name": "金希澈&金政模",
+            "url": "https://event.kkbox.com/content/artist/L_u28Vz6gunFOf-6Jf",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/185234,0v4/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/185234,0v4/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "GsuF2NRkZ-QUaC-9ah",
+        "name": "London Queen",
+        "duration": 171441,
+        "url": "https://event.kkbox.com/content/song/GsuF2NRkZ-QUaC-9ah",
+        "track_number": 1,
+        "explicitness": true,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "GqF09frAKRoy9yBF_5",
+          "name": "London Queen",
+          "url": "https://event.kkbox.com/content/album/GqF09frAKRoy9yBF_5",
+          "explicitness": true,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2014-11-07",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/5151746,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/5151746,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/5151746,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GnyAsURjnXAaS1LfTo",
+            "name": "CHARLI XCX",
+            "url": "https://event.kkbox.com/content/artist/GnyAsURjnXAaS1LfTo",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/479404,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/479404,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4ooOngqKtWt5lukOCI",
+        "name": "BOUNCE",
+        "duration": 196336,
+        "url": "https://event.kkbox.com/content/song/4ooOngqKtWt5lukOCI",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "MY"
+        ],
+        "album": {
+          "id": "TZP9-luPIu_Ydksxge",
+          "name": "BOYFRIEND in Wonderland",
+          "url": "https://event.kkbox.com/content/album/TZP9-luPIu_Ydksxge",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "MY"
+          ],
+          "release_date": "2015-03-23",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/6230401,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/6230401,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/6230401,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4l-8YhX_8ga0tKotwS",
+            "name": "BOYFRIEND",
+            "url": "https://event.kkbox.com/content/artist/4l-8YhX_8ga0tKotwS",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/342469,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/342469,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "PZUOSEGlfVd6jg-AEM",
+        "name": "Magic",
+        "duration": 188731,
+        "url": "https://event.kkbox.com/content/song/PZUOSEGlfVd6jg-AEM",
+        "track_number": 10,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "-lZJiBcGp_79wD3WkH",
+          "name": "NO.5",
+          "url": "https://event.kkbox.com/content/album/-lZJiBcGp_79wD3WkH",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2015-07-20",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/7088257,1v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/7088257,1v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/7088257,1v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GowuQLYsPJM_sP3B6c",
+            "name": "2PM",
+            "url": "https://event.kkbox.com/content/artist/GowuQLYsPJM_sP3B6c",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/50754,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/50754,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Kq1llFiR3UapHVdpPS",
+        "name": "Why So Serious?",
+        "duration": 219614,
+        "url": "https://event.kkbox.com/content/song/Kq1llFiR3UapHVdpPS",
+        "track_number": 12,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "SoGmlV0tFOcHeuZnbp",
+          "name": "The misconceptions of us",
+          "url": "https://event.kkbox.com/content/album/SoGmlV0tFOcHeuZnbp",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2013-08-08",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/1717612,0v2/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/1717612,0v2/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/1717612,0v2/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "P_1ppt5yVKWxsEkIsJ",
+            "name": "SHINee",
+            "url": "https://event.kkbox.com/content/artist/P_1ppt5yVKWxsEkIsJ",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/43629,0v10/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/43629,0v10/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4tnN0Ke4LX0lFZBP-J",
+        "name": "Bonfire Heart",
+        "duration": 234397,
+        "url": "https://event.kkbox.com/content/song/4tnN0Ke4LX0lFZBP-J",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "8lXD45zOIXErQx_wMm",
+          "name": "Bonfire Heart",
+          "url": "https://event.kkbox.com/content/album/8lXD45zOIXErQx_wMm",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-07-30",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/1678626,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/1678626,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/1678626,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4miEGK6fNyolaVUl-c",
+            "name": "James Blunt",
+            "url": "https://event.kkbox.com/content/artist/4miEGK6fNyolaVUl-c",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/12672,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/12672,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "P_4T1fIqadNrhRP0Qe",
+        "name": "Ok",
+        "duration": 230800,
+        "url": "https://event.kkbox.com/content/song/P_4T1fIqadNrhRP0Qe",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "-mTFfE0tLXM74t9yZ4",
+          "name": "The 1st. Mini Album",
+          "url": "https://event.kkbox.com/content/album/-mTFfE0tLXM74t9yZ4",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2014-10-16",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/4914837,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/4914837,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/4914837,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Ot50KJhrlH1BOzxXi9",
+            "name": "Strawberry Milk",
+            "url": "https://event.kkbox.com/content/artist/Ot50KJhrlH1BOzxXi9",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2714026,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2714026,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4sGGKuszOGRFhzCpO4",
+        "name": "Dance in Berlin (feat. Lili Sommerfeld)",
+        "duration": 213394,
+        "url": "https://event.kkbox.com/content/song/4sGGKuszOGRFhzCpO4",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "9YOcSS0HpTG8K--3b-",
+          "name": "Soul. Electrified. [feat. Lili Sommerfeld]",
+          "url": "https://event.kkbox.com/content/album/9YOcSS0HpTG8K--3b-",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2013-10-18",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/2058456,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/2058456,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/2058456,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KnDEMAl82J54h9ocx_",
+            "name": "DDIY",
+            "url": "https://event.kkbox.com/content/artist/KnDEMAl82J54h9ocx_",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/1163910,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/1163910,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "0mY7ilEM-zGvPnTIfV",
+        "name": "Like a Cat",
+        "duration": 219585,
+        "url": "https://event.kkbox.com/content/song/0mY7ilEM-zGvPnTIfV",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "4tPmaNaFtitQ_32wNP",
+          "name": "Like A Cat",
+          "url": "https://event.kkbox.com/content/album/4tPmaNaFtitQ_32wNP",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2014-11-12",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/5122505,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/5122505,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/5122505,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KrdjvWYDyXr4k1iCjs",
+            "name": "AOA",
+            "url": "https://event.kkbox.com/content/artist/KrdjvWYDyXr4k1iCjs",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2530757,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2530757,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "D-cIswFmldMikinoxa",
+        "name": "Naivety",
+        "duration": 228484,
+        "url": "https://event.kkbox.com/content/song/D-cIswFmldMikinoxa",
+        "track_number": 5,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "D_SXAlHKsaFcNyKv8M",
+          "name": "I Mean",
+          "url": "https://event.kkbox.com/content/album/D_SXAlHKsaFcNyKv8M",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2015-10-13",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/9777452,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/9777452,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/9777452,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "StetB88RxUXeTnVVWk",
+            "name": "BTOB",
+            "url": "https://event.kkbox.com/content/artist/StetB88RxUXeTnVVWk",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/207038,0v5/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/207038,0v5/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CoazHEedHOVZgSmIHk",
+        "name": "Put Them Up",
+        "duration": 189939,
+        "url": "https://event.kkbox.com/content/song/CoazHEedHOVZgSmIHk",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "Kqjhg7zKOnJP70pON1",
+          "name": "MAD",
+          "url": "https://event.kkbox.com/content/album/Kqjhg7zKOnJP70pON1",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2015-11-06",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/10513819,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/10513819,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/10513819,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "9XrF7Wg5vg3gb3QsOg",
+            "name": "GOT7",
+            "url": "https://event.kkbox.com/content/artist/9XrF7Wg5vg3gb3QsOg",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2402656,0v8/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2402656,0v8/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CkoPhZv6nNz6_K_nZy",
+        "name": "Sorry About That",
+        "duration": 513347,
+        "url": "https://event.kkbox.com/content/song/CkoPhZv6nNz6_K_nZy",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "KnCkHC1ZbvUVIHyjES",
+          "name": "Summer Madness EP",
+          "url": "https://event.kkbox.com/content/album/KnCkHC1ZbvUVIHyjES",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-09-17",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/1856796,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/1856796,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/1856796,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "1-ZNvhhINgmCPCGOUT",
+            "name": "Whats Happenin",
+            "url": "https://event.kkbox.com/content/artist/1-ZNvhhINgmCPCGOUT",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/1066617,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/1066617,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Os_UOCr08UtsxlLvTQ",
+        "name": "Prism",
+        "duration": 191529,
+        "url": "https://event.kkbox.com/content/song/Os_UOCr08UtsxlLvTQ",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "WqtnMA54G8C8nyAzk0",
+          "name": "1 of 1",
+          "url": "https://event.kkbox.com/content/album/WqtnMA54G8C8nyAzk0",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2016-10-05",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/18952793,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/18952793,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/18952793,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "P_1ppt5yVKWxsEkIsJ",
+            "name": "SHINee",
+            "url": "https://event.kkbox.com/content/artist/P_1ppt5yVKWxsEkIsJ",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/43629,0v10/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/43629,0v10/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5Zh2h5bBsZjzt1baPn",
+        "name": "SHAKE THAT BRASS",
+        "duration": 193607,
+        "url": "https://event.kkbox.com/content/song/5Zh2h5bBsZjzt1baPn",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "1a-Fj06SgvBgM0V8eg",
+          "name": "首張迷你專輯 Beautiful",
+          "url": "https://event.kkbox.com/content/album/1a-Fj06SgvBgM0V8eg",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2015-02-13",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/5799901,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/5799901,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/5799901,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "-qJwEkHlGb0vPdETAD",
+            "name": "AMBER",
+            "url": "https://event.kkbox.com/content/artist/-qJwEkHlGb0vPdETAD",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3107633,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3107633,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4m9aFb3nf387qbzrsX",
+        "name": "Talk",
+        "duration": 214459,
+        "url": "https://event.kkbox.com/content/song/4m9aFb3nf387qbzrsX",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "ClJ3rB3BhWIkD9ccCF",
+          "name": "I Just Wanna Dance",
+          "url": "https://event.kkbox.com/content/album/ClJ3rB3BhWIkD9ccCF",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2016-05-11",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/15644355,1v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/15644355,1v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/15644355,1v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8pvXgpOTL2RacqC7yB",
+            "name": "Tiffany",
+            "url": "https://event.kkbox.com/content/artist/8pvXgpOTL2RacqC7yB",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/5006432,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/5006432,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OnfN7C07o9axNBhyvp",
+        "name": "Papi",
+        "duration": 185620,
+        "url": "https://event.kkbox.com/content/song/OnfN7C07o9axNBhyvp",
+        "track_number": 8,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "_ZSYAQ2lKVWPuDNG-4",
+          "name": "4 Walls",
+          "url": "https://event.kkbox.com/content/album/_ZSYAQ2lKVWPuDNG-4",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2015-10-27",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/10204593,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/10204593,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/10204593,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "HXFicTKP8cmeGtMADK",
+            "name": "f(x)",
+            "url": "https://event.kkbox.com/content/artist/HXFicTKP8cmeGtMADK",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/46034,0v5/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/46034,0v5/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KpE6nqF0sGgkpCT85V",
+        "name": "On Fire (2015 Remastered)",
+        "duration": 180950,
+        "url": "https://event.kkbox.com/content/song/KpE6nqF0sGgkpCT85V",
+        "track_number": 11,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "D_Y3nvHKsaFcMwpq1f",
+          "name": "Van Halen",
+          "url": "https://event.kkbox.com/content/album/D_Y3nvHKsaFcMwpq1f",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "1978-02-10",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/6240262,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/6240262,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/6240262,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8k9MQkSEC4BFWFPMy0",
+            "name": "Van Halen",
+            "url": "https://event.kkbox.com/content/artist/8k9MQkSEC4BFWFPMy0",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/4535,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/4535,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CqNQmNFCUh-7_2-W2J",
+        "name": "Tic Toc",
+        "duration": 213530,
+        "url": "https://event.kkbox.com/content/song/CqNQmNFCUh-7_2-W2J",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "SqjyFX2lKtRJRwQ-Lo",
+          "name": "Over The Top",
+          "url": "https://event.kkbox.com/content/album/SqjyFX2lKtRJRwQ-Lo",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2014-06-09",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/4090344,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/4090344,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/4090344,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CokM21uNdysV1KdIWh",
+            "name": "INFINITE",
+            "url": "https://event.kkbox.com/content/artist/CokM21uNdysV1KdIWh",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/766877,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/766877,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "9ZxFdag-s_ZpF7VMxT",
+        "name": "BANG BANG BANG",
+        "duration": 220212,
+        "url": "https://event.kkbox.com/content/song/9ZxFdag-s_ZpF7VMxT",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "X-gbLj5J0SAElPUtDW",
+          "name": "A",
+          "url": "https://event.kkbox.com/content/album/X-gbLj5J0SAElPUtDW",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2015-06-02",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/6587809,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/6587809,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/6587809,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "_Z047IW0OU_ZyemxdA",
+            "name": "BIGBANG",
+            "url": "https://event.kkbox.com/content/artist/_Z047IW0OU_ZyemxdA",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/43934,0v4/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/43934,0v4/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "X-RgwfgL-uxSg1l3c1",
+        "name": "Good Luck",
+        "duration": 203313,
+        "url": "https://event.kkbox.com/content/song/X-RgwfgL-uxSg1l3c1",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "L-deI8xVKwYNqnY4QG",
+          "name": "Good Luck",
+          "url": "https://event.kkbox.com/content/album/L-deI8xVKwYNqnY4QG",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2014-06-18",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/4154310,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/4154310,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/4154310,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Crsju6x2Y7UDCsUUiu",
+            "name": "BEAST",
+            "url": "https://event.kkbox.com/content/artist/Crsju6x2Y7UDCsUUiu",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/49487,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/49487,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "9-nUK3P_F6qQ0Hk4Po",
+        "name": "Disco Love",
+        "duration": 201085,
+        "url": "https://event.kkbox.com/content/song/9-nUK3P_F6qQ0Hk4Po",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "TXx5PV9oOtk92QkM-e",
+          "name": "Disco Love",
+          "url": "https://event.kkbox.com/content/album/TXx5PV9oOtk92QkM-e",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-10-07",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/1986950,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/1986950,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/1986950,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Kq2ghUJYQwYglPigUM",
+            "name": "The Saturdays",
+            "url": "https://event.kkbox.com/content/artist/Kq2ghUJYQwYglPigUM",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/41800,0v9/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/41800,0v9/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "HZEw5FJSEYKfk0FuWe",
+        "name": "T-Shirt Weather",
+        "duration": 194211,
+        "url": "https://event.kkbox.com/content/song/HZEw5FJSEYKfk0FuWe",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "1-08f0bXCvM0cXTmMZ",
+          "name": "T-Shirt Weather",
+          "url": "https://event.kkbox.com/content/album/1-08f0bXCvM0cXTmMZ",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2015-02-12",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/5771399,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/5771399,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/5771399,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Otp463hrlH1BOr3prA",
+            "name": "Circa Waves",
+            "url": "https://event.kkbox.com/content/artist/Otp463hrlH1BOr3prA",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/1549802,0v13/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/1549802,0v13/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "D-2wyoE2ldMimBAq8M",
+        "name": "1, 2, 3, 4",
+        "duration": 186915,
+        "url": "https://event.kkbox.com/content/song/D-2wyoE2ldMimBAq8M",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4kP52RYXF4KmVGCy-G",
+          "name": "2015 2nd Mini Album 'FM'",
+          "url": "https://event.kkbox.com/content/album/4kP52RYXF4KmVGCy-G",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2015-03-31",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/6231463,1v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/6231463,1v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/6231463,1v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "DXhsugQF1asjGiYYMr",
+            "name": "CRAYON POP",
+            "url": "https://event.kkbox.com/content/artist/DXhsugQF1asjGiYYMr",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/777758,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/777758,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "DaWmu0ZJK9m6GHuzKJ",
+        "name": "FOLLOW ME (韓文版)",
+        "duration": 192261,
+        "url": "https://event.kkbox.com/content/song/DaWmu0ZJK9m6GHuzKJ",
+        "track_number": 5,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG"
+        ],
+        "album": {
+          "id": "CleeIw3BhWIkD7xuCu",
+          "name": "FULL BLOOM (韓文版)",
+          "url": "https://event.kkbox.com/content/album/CleeIw3BhWIkD7xuCu",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG"
+          ],
+          "release_date": "2013-11-08",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/2043549,1v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/2043549,1v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/2043549,1v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GqPzoJigyaDAmm7zNw",
+            "name": "KARA",
+            "url": "https://event.kkbox.com/content/artist/GqPzoJigyaDAmm7zNw",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/54004,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/54004,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4meIJS1Hf387qNC5rX",
+        "name": "bad girls' anthem",
+        "duration": 218592,
+        "url": "https://event.kkbox.com/content/song/4meIJS1Hf387qNC5rX",
+        "track_number": 8,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Kr1pclykQPhDBsMdP4",
+          "name": "CHAM",
+          "url": "https://event.kkbox.com/content/album/Kr1pclykQPhDBsMdP4",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2014-12-18",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/6572019,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/6572019,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/6572019,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8tAVzvpHItW_iO0XuB",
+            "name": "Lil Cham",
+            "url": "https://event.kkbox.com/content/artist/8tAVzvpHItW_iO0XuB",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2203129,0v9/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2203129,0v9/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4neX7o0Y3TYuqCLtAf",
+        "name": "Pray (feat. Molly. D, 두훈)",
+        "duration": 211580,
+        "url": "https://event.kkbox.com/content/song/4neX7o0Y3TYuqCLtAf",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Ha5osfqP_dvJJycPud",
+          "name": "Sizzle Season 1 Sunny Side Up",
+          "url": "https://event.kkbox.com/content/album/Ha5osfqP_dvJJycPud",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2011-08-30",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/2214323,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/2214323,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/2214323,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Ws3VL0Tku7eU2B_xTZ",
+            "name": "Young Jun (Brown Eyed Soul)",
+            "url": "https://event.kkbox.com/content/artist/Ws3VL0Tku7eU2B_xTZ",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/1232594,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/1232594,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OlsWNMioS497a7sawb",
+        "name": "迷路",
+        "duration": 189753,
+        "url": "https://event.kkbox.com/content/song/OlsWNMioS497a7sawb",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "-sEo0hVFs6muv9yLt4",
+          "name": "The 1st Mini Album",
+          "url": "https://event.kkbox.com/content/album/-sEo0hVFs6muv9yLt4",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2014-03-10",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/3137249,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/3137249,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/3137249,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CmfOkKnT1F5sNpTrQv",
+            "name": "Toheart (WOOHYUN & KEY)",
+            "url": "https://event.kkbox.com/content/artist/CmfOkKnT1F5sNpTrQv",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/1593836,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/1593836,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Cl0Inwu4FKtg30X8Cf",
+        "name": "Rude Love",
+        "duration": 258298,
+        "url": "https://event.kkbox.com/content/song/Cl0Inwu4FKtg30X8Cf",
+        "track_number": 5,
+        "explicitness": false,
+        "available_territories": [
+          "TW"
+        ],
+        "album": {
+          "id": "_ZSYAQ2lKVWPuDNG-4",
+          "name": "4 Walls",
+          "url": "https://event.kkbox.com/content/album/_ZSYAQ2lKVWPuDNG-4",
+          "explicitness": false,
+          "available_territories": [
+            "TW"
+          ],
+          "release_date": "2015-10-27",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/10204593,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/10204593,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/10204593,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "HXFicTKP8cmeGtMADK",
+            "name": "f(x)",
+            "url": "https://event.kkbox.com/content/artist/HXFicTKP8cmeGtMADK",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/46034,0v5/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/46034,0v5/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "paging": [],
+    "summary": []
+  }
+}

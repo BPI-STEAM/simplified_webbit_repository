@@ -1,0 +1,46 @@
+<template id="head">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>Webduino Blockly Demo 08</title>
+  <script src="components/rtc-session/lib/RTCMultiConnection.min.js"></script>
+  <script src="components/rtc-session/lib/RTCSession.js"></script>
+  <script src="components/jquery/dist/jquery.min.js"></script>
+  <script src="dist/lib/webduino-all.min.js"></script>
+  <script src="dist/MessageTransport.min.js"></script>
+  <script src="dist/webduino-blockly.min.js"></script>
+  <script src="dist/lib/runtime.min.js"></script>
+  <script src="dist/lib/tracking.min.js"></script>
+  <script src="dist/lib/face.min.js"></script>
+  <script src="dist/api.min.js"></script>
+</template>
+<template id="css">
+#demo-area-08-content {
+  position: relative;
+  width: 100%;
+  max-width: 300px;
+  height: 200px;
+  pointer-events: auto!important;
+}
+
+#demo-area-08-video {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#demo-area-08-canvas {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+</template>
+<template id="body">
+  <div id="demo-area-08-content">
+    <video id="demo-area-08-video" preload autoplay loop muted controls></video>
+    <canvas id="demo-area-08-canvas"></canvas>
+  </div>
+</template>

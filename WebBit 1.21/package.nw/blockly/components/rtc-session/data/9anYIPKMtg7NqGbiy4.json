@@ -1,0 +1,6195 @@
+{
+  "id": "9anYIPKMtg7NqGbiy4",
+  "name": "Tipsy Night",
+  "images": [
+    {
+      "height": 300,
+      "width": 300,
+      "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_623.png"
+    }
+  ],
+  "tracks": {
+    "data": [
+      {
+        "id": "8nrJCu4lMjx8TEGPFo",
+        "name": "Mack the Knife -Ella Fitzgerald",
+        "duration": 285152,
+        "url": "https://event.kkbox.com/content/song/8nrJCu4lMjx8TEGPFo",
+        "track_number": 5,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "GkulpkGex3YZJDmV-N",
+          "name": "50 Best of Jazz Woman",
+          "url": "https://event.kkbox.com/content/album/GkulpkGex3YZJDmV-N",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2016-06-17",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/16458910,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/16458910,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/16458910,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Oq_FJ822THuFqg6RQ2",
+            "name": "貴族精選",
+            "url": "https://event.kkbox.com/content/artist/Oq_FJ822THuFqg6RQ2",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/16813,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/16813,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5XeJOIA_ELRufVZ6oY",
+        "name": "On The Record",
+        "duration": 566520,
+        "url": "https://event.kkbox.com/content/song/5XeJOIA_ELRufVZ6oY",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "9_b6Id1NrjpYZyNJIn",
+          "name": "Off The Record(超越紀錄)",
+          "url": "https://event.kkbox.com/content/album/9_b6Id1NrjpYZyNJIn",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/93457,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/93457,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/93457,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "H-WNLZ60vbB0UaU0Tm",
+            "name": "Ronny Jordan",
+            "url": "https://event.kkbox.com/content/artist/H-WNLZ60vbB0UaU0Tm",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14168,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14168,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "D-If4nEGldMikLpVc1",
+        "name": "For All We Know",
+        "duration": 173290,
+        "url": "https://event.kkbox.com/content/song/D-If4nEGldMikLpVc1",
+        "track_number": 5,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "CkizHelzW4Ta071M0r",
+          "name": "Un musicien - Une histoire",
+          "url": "https://event.kkbox.com/content/album/CkizHelzW4Ta071M0r",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "1997-09-23",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/70849,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/70849,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/70849,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "L-NQ6EZCGWw2rfzXRk",
+            "name": "Billie Holiday",
+            "url": "https://event.kkbox.com/content/artist/L-NQ6EZCGWw2rfzXRk",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/273,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/273,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KpzjdlFEsGgkryeSnh",
+        "name": "I'm A Fool To Want You",
+        "duration": 203383,
+        "url": "https://event.kkbox.com/content/song/KpzjdlFEsGgkryeSnh",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "CkizHelzW4Ta071M0r",
+          "name": "Un musicien - Une histoire",
+          "url": "https://event.kkbox.com/content/album/CkizHelzW4Ta071M0r",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "1997-09-23",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/70849,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/70849,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/70849,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "L-NQ6EZCGWw2rfzXRk",
+            "name": "Billie Holiday",
+            "url": "https://event.kkbox.com/content/artist/L-NQ6EZCGWw2rfzXRk",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/273,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/273,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "HYYCscI4zKb7d3YbzT",
+        "name": "Easy Living",
+        "duration": 184297,
+        "url": "https://event.kkbox.com/content/song/HYYCscI4zKb7d3YbzT",
+        "track_number": 13,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "-kClt1LxzpOHQVAuEX",
+          "name": "A Working Day",
+          "url": "https://event.kkbox.com/content/album/-kClt1LxzpOHQVAuEX",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2012-05-18",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/716504,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/716504,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/716504,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "L-NQ6EZCGWw2rfzXRk",
+            "name": "Billie Holiday",
+            "url": "https://event.kkbox.com/content/artist/L-NQ6EZCGWw2rfzXRk",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/273,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/273,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Ooa0vO9a32AqbhqUjT",
+        "name": "Tokyo Blue",
+        "duration": 274134,
+        "url": "https://event.kkbox.com/content/song/Ooa0vO9a32AqbhqUjT",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "D-CVBdpddbwdMgo59T",
+          "name": "The Best Of Najee",
+          "url": "https://event.kkbox.com/content/album/D-CVBdpddbwdMgo59T",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "1998-11-06",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/92587,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/92587,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/92587,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "WpZ2-65t_aFRGRNgn9",
+            "name": "Najee",
+            "url": "https://event.kkbox.com/content/artist/WpZ2-65t_aFRGRNgn9",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14625,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14625,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CoAYxXf9HOVZjynZpv",
+        "name": "Stephanie",
+        "duration": 228257,
+        "url": "https://event.kkbox.com/content/song/CoAYxXf9HOVZjynZpv",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "GsKxQV7zG1L3HEoukc",
+          "name": "Twice The Love",
+          "url": "https://event.kkbox.com/content/album/GsKxQV7zG1L3HEoukc",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2010-02-16",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/145055,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/145055,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/145055,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4s5wPJdLYqFkAP1PjE",
+            "name": "George Benson",
+            "url": "https://event.kkbox.com/content/artist/4s5wPJdLYqFkAP1PjE",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/291,0v49/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/291,0v49/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "DX61zFcSg_DL_wMxS_",
+        "name": "The Show Must Go On",
+        "duration": 165233,
+        "url": "https://event.kkbox.com/content/song/DX61zFcSg_DL_wMxS_",
+        "track_number": 38,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "HZk_oEBCAsSpIxRed3",
+          "name": "Dinah Washington - Very Best Of",
+          "url": "https://event.kkbox.com/content/album/HZk_oEBCAsSpIxRed3",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2006-07-12",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/74759,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/74759,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/74759,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Kt8FD9Jnpx6uj4wXw6",
+            "name": "Dinah Washington",
+            "url": "https://event.kkbox.com/content/artist/Kt8FD9Jnpx6uj4wXw6",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/11926,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/11926,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5YdlMs13hYuu3R_G_F",
+        "name": "Angel",
+        "duration": 253328,
+        "url": "https://event.kkbox.com/content/song/5YdlMs13hYuu3R_G_F",
+        "track_number": 8,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "PX2ZeIPXQ7mrz5i7Y1",
+          "name": "Body And Soul",
+          "url": "https://event.kkbox.com/content/album/PX2ZeIPXQ7mrz5i7Y1",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "1997-03-24",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/54510,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/54510,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/54510,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KkejJMlinYMj-FGypY",
+            "name": "Rick Braun",
+            "url": "https://event.kkbox.com/content/artist/KkejJMlinYMj-FGypY",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/11683,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/11683,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "9YGiwJE-tUrZ3VyaQA",
+        "name": "Blue Velvet (with k.d. lang) ",
+        "duration": 274877,
+        "url": "https://event.kkbox.com/content/song/9YGiwJE-tUrZ3VyaQA",
+        "track_number": 5,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "9Y_wiJ0HpTG8KSnPUI",
+          "name": "DuetsII (世紀星讚對唱II)",
+          "url": "https://event.kkbox.com/content/album/9Y_wiJ0HpTG8KSnPUI",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-09-20",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/304158,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/304158,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/304158,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4spjbJdLYqFkBV-hc4",
+            "name": "Tony Bennett",
+            "url": "https://event.kkbox.com/content/artist/4spjbJdLYqFkBV-hc4",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/13410,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/13410,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8pwbaRbb2c2elJrL_L",
+        "name": "Come Rain Or Come Shine",
+        "duration": 222865,
+        "url": "https://event.kkbox.com/content/song/8pwbaRbb2c2elJrL_L",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "5-IqvxVpFSVSAiAkOW",
+          "name": "Judy / Judy In Love",
+          "url": "https://event.kkbox.com/content/album/5-IqvxVpFSVSAiAkOW",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/93258,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/93258,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/93258,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8rHxSKsAsPZqqnv6n8",
+            "name": "Judy Garland",
+            "url": "https://event.kkbox.com/content/artist/8rHxSKsAsPZqqnv6n8",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/10096,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/10096,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Wl0H4A6hHya3BlN-FW",
+        "name": "The Little Drummer Boy",
+        "duration": 138530,
+        "url": "https://event.kkbox.com/content/song/Wl0H4A6hHya3BlN-FW",
+        "track_number": 14,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "SlS78m3NTiaK1TQftX",
+          "name": "The Christmas Album",
+          "url": "https://event.kkbox.com/content/album/SlS78m3NTiaK1TQftX",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/96146,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/96146,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/96146,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CnXe65i5Ft4y69wD3X",
+            "name": "Peggy Lee",
+            "url": "https://event.kkbox.com/content/artist/CnXe65i5Ft4y69wD3X",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/13567,0v717/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/13567,0v717/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "-kX1aslzMveSbisRw6",
+        "name": "Evolution",
+        "duration": 549059,
+        "url": "https://event.kkbox.com/content/song/-kX1aslzMveSbisRw6",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "WqyiQg5oG8C8lWCYWw",
+          "name": "From The Soul",
+          "url": "https://event.kkbox.com/content/album/WqyiQg5oG8C8lWCYWw",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "1992-06-23",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/91429,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/91429,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/91429,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8s4VoWl8zbMOknBVJo",
+            "name": "Joe Lovano",
+            "url": "https://event.kkbox.com/content/artist/8s4VoWl8zbMOknBVJo",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14739,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14739,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Gp0k5vn--IKc2I0_SG",
+        "name": "Breezin'",
+        "duration": 341733,
+        "url": "https://event.kkbox.com/content/song/Gp0k5vn--IKc2I0_SG",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4kwK_PYXF4KmUcjo7n",
+          "name": "Breezin'",
+          "url": "https://event.kkbox.com/content/album/4kwK_PYXF4KmUcjo7n",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-02-12",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/75608,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/75608,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/75608,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4s5wPJdLYqFkAP1PjE",
+            "name": "George Benson",
+            "url": "https://event.kkbox.com/content/artist/4s5wPJdLYqFkAP1PjE",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/291,0v49/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/291,0v49/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "TYJwfHvVGziN6PZYvc",
+        "name": "Faut Se Separer - GISELE FREDETTE",
+        "duration": 342355,
+        "url": "https://event.kkbox.com/content/song/TYJwfHvVGziN6PZYvc",
+        "track_number": 24,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "X_ISJxcUyKgAljojMY",
+          "name": "Chanson de Cabaret (香頌小酒館)",
+          "url": "https://event.kkbox.com/content/album/X_ISJxcUyKgAljojMY",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2010-12-10",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/165174,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/165174,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/165174,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GrCbaJYEMQFlMb51ai",
+            "name": "Chanson de Cabaret",
+            "url": "https://event.kkbox.com/content/artist/GrCbaJYEMQFlMb51ai",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/57800,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/57800,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CrbtyLQRa7_3NWL5qV",
+        "name": "Cleveland Circle",
+        "duration": 301255,
+        "url": "https://event.kkbox.com/content/song/CrbtyLQRa7_3NWL5qV",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Cpkp8VWkaw7YCWgHxs",
+          "name": "Universal Language",
+          "url": "https://event.kkbox.com/content/album/Cpkp8VWkaw7YCWgHxs",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2005-09-14",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/91928,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/91928,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/91928,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8s4VoWl8zbMOknBVJo",
+            "name": "Joe Lovano",
+            "url": "https://event.kkbox.com/content/artist/8s4VoWl8zbMOknBVJo",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14739,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14739,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "DZY7gRx6M7Esp-7XmC",
+        "name": "On The Street Where You Live",
+        "duration": 189753,
+        "url": "https://event.kkbox.com/content/song/DZY7gRx6M7Esp-7XmC",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "9ZWHy8gn_BzuODs0eq",
+          "name": "Let's Fall In Love(最愛情歌精選)",
+          "url": "https://event.kkbox.com/content/album/9ZWHy8gn_BzuODs0eq",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/59359,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/59359,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/59359,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CoQFi-uNdysV17lzH_",
+            "name": "Nat King Cole",
+            "url": "https://event.kkbox.com/content/artist/CoQFi-uNdysV17lzH_",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/9805,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/9805,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Kl4lFBCoBZNAC5qaix",
+        "name": "Fly Me To The Moon (In Other Words)",
+        "duration": 171874,
+        "url": "https://event.kkbox.com/content/song/Kl4lFBCoBZNAC5qaix",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "0tF6YlRsK_vh9R2D2Z",
+          "name": "The Very Best Of Nancy Wilson",
+          "url": "https://event.kkbox.com/content/album/0tF6YlRsK_vh9R2D2Z",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-06-18",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/92524,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/92524,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/92524,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Kr_aTwYDyXr4kKmLHC",
+            "name": "Nancy Wilson",
+            "url": "https://event.kkbox.com/content/artist/Kr_aTwYDyXr4kKmLHC",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/590,0v105/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/590,0v105/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Gn8W3ZnGJNIVJ9qiBe",
+        "name": "Sally Doherty Quartet - Besame Mucho",
+        "duration": 314096,
+        "url": "https://event.kkbox.com/content/song/Gn8W3ZnGJNIVJ9qiBe",
+        "track_number": 9,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "5_FYSi1aO3eqJH2YbO",
+          "name": "Jazz Cinema (爵士電影院) ",
+          "url": "https://event.kkbox.com/content/album/5_FYSi1aO3eqJH2YbO",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2010-01-26",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/142084,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/142084,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/142084,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "L_2AAXz6gunFM6rvrS",
+            "name": "Jazz Cinema",
+            "url": "https://event.kkbox.com/content/artist/L_2AAXz6gunFM6rvrS",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/48369,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/48369,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "P-5KghF2hnTeNK6G91",
+        "name": "Cry Me A River",
+        "duration": 254850,
+        "url": "https://event.kkbox.com/content/song/P-5KghF2hnTeNK6G91",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "5Z9L8zHymfP8Oshpb9",
+          "name": "Crazy Love",
+          "url": "https://event.kkbox.com/content/album/5Z9L8zHymfP8Oshpb9",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-08-05",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/136556,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/136556,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/136556,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8lyfxtOuEe4fRxK9WD",
+            "name": "Michael Bublé",
+            "url": "https://event.kkbox.com/content/artist/8lyfxtOuEe4fRxK9WD",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/5181,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/5181,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "PXQoL3XL8IwsA251lx",
+        "name": "Jolene",
+        "duration": 250967,
+        "url": "https://event.kkbox.com/content/song/PXQoL3XL8IwsA251lx",
+        "track_number": 9,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "CsEDwJ2f0h_Rm9xkxO",
+          "name": "Trouble",
+          "url": "https://event.kkbox.com/content/album/CsEDwJ2f0h_Rm9xkxO",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2004-08-15",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/766959,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/766959,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/766959,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GmSJAK8n1D6m72GuMe",
+            "name": "Ray LaMontagne",
+            "url": "https://event.kkbox.com/content/artist/GmSJAK8n1D6m72GuMe",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/23123,0v9/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/23123,0v9/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5XkgCmA_ELRue2YB3C",
+        "name": "ELLA FITZGERALD (艾拉費茲潔羅) - Can't Help Lovin' Dat Man 無法不愛他",
+        "duration": 165642,
+        "url": "https://event.kkbox.com/content/song/5XkgCmA_ELRue2YB3C",
+        "track_number": 24,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "CrcAXd_ZyWtoiJuA0e",
+          "name": "Jazz Café 3 (爵士經典咖啡館3)",
+          "url": "https://event.kkbox.com/content/album/CrcAXd_ZyWtoiJuA0e",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2012-01-06",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/320602,1v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/320602,1v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/320602,1v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "P-ZlGnmft87W1fGZh2",
+            "name": "JAZZ CAFÉ",
+            "url": "https://event.kkbox.com/content/artist/P-ZlGnmft87W1fGZh2",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/45137,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/45137,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CpHYFNXvXVWGulpQBa",
+        "name": "Give Me The Night",
+        "duration": 219585,
+        "url": "https://event.kkbox.com/content/song/CpHYFNXvXVWGulpQBa",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "8mx-En11iKnsl-UPnc",
+          "name": "The Best Of George Benson",
+          "url": "https://event.kkbox.com/content/album/8mx-En11iKnsl-UPnc",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2015-02-13",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/153262,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/153262,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/153262,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4s5wPJdLYqFkAP1PjE",
+            "name": "George Benson",
+            "url": "https://event.kkbox.com/content/artist/4s5wPJdLYqFkAP1PjE",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/291,0v49/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/291,0v49/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KoREcmehP2VFu1ggAP",
+        "name": "In Orbit",
+        "duration": 279289,
+        "url": "https://event.kkbox.com/content/song/KoREcmehP2VFu1ggAP",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "PaI4MQKRDe7LVm5Fu9",
+          "name": "In Orbit",
+          "url": "https://event.kkbox.com/content/album/PaI4MQKRDe7LVm5Fu9",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-11-05",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/162554,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/162554,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/162554,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "_aj7WlB6qG5He9t-mO",
+            "name": "Clark Terry",
+            "url": "https://event.kkbox.com/content/artist/_aj7WlB6qG5He9t-mO",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/56878,0v228/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/56878,0v228/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CrU4uLQRa7_3MFio-I",
+        "name": "Oh My God (Live)",
+        "duration": 231468,
+        "url": "https://event.kkbox.com/content/song/CrU4uLQRa7_3MFio-I",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "CrI4rY_ZyWtojfgsFm",
+          "name": "Live In Chicago",
+          "url": "https://event.kkbox.com/content/album/CrI4rY_ZyWtojfgsFm",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2001-12-30",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/92937,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/92937,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/92937,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GpkFebPEBUDsjRyLD_",
+            "name": "Kurt Elling",
+            "url": "https://event.kkbox.com/content/artist/GpkFebPEBUDsjRyLD_",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/25706,0v7/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/25706,0v7/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OolQLu9a32AqbhQJPt",
+        "name": "Stranger In Paradise (with Andrea Bocelli)",
+        "duration": 302741,
+        "url": "https://event.kkbox.com/content/song/OolQLu9a32AqbhQJPt",
+        "track_number": 13,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "9Y_wiJ0HpTG8KSnPUI",
+          "name": "DuetsII (世紀星讚對唱II)",
+          "url": "https://event.kkbox.com/content/album/9Y_wiJ0HpTG8KSnPUI",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-09-20",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/304158,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/304158,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/304158,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4spjbJdLYqFkBV-hc4",
+            "name": "Tony Bennett",
+            "url": "https://event.kkbox.com/content/artist/4spjbJdLYqFkBV-hc4",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/13410,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/13410,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OqN2Fy7_MMmVdTi0wG",
+        "name": "One For My Baby (And One More For The Road)  (with John Mayer)",
+        "duration": 177911,
+        "url": "https://event.kkbox.com/content/song/OqN2Fy7_MMmVdTi0wG",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "9Y_wiJ0HpTG8KSnPUI",
+          "name": "DuetsII (世紀星讚對唱II)",
+          "url": "https://event.kkbox.com/content/album/9Y_wiJ0HpTG8KSnPUI",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-09-20",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/304158,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/304158,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/304158,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4spjbJdLYqFkBV-hc4",
+            "name": "Tony Bennett",
+            "url": "https://event.kkbox.com/content/artist/4spjbJdLYqFkBV-hc4",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/13410,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/13410,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Ta-D30unNCtw-JdTPF",
+        "name": "BC Bop",
+        "duration": 148375,
+        "url": "https://event.kkbox.com/content/song/Ta-D30unNCtw-JdTPF",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "__duqvnU8IHVqCPmpO",
+          "name": "He Had A Hat",
+          "url": "https://event.kkbox.com/content/album/__duqvnU8IHVqCPmpO",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-04-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/88134,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/88134,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/88134,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4sjVzJdLYqFkD2jflI",
+            "name": "Jeff Lorber",
+            "url": "https://event.kkbox.com/content/artist/4sjVzJdLYqFkD2jflI",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/24137,0v5/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/24137,0v5/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "HX338oboaXJ8afgQi0",
+        "name": "They Long To Be Close To You (Live)",
+        "duration": 278732,
+        "url": "https://event.kkbox.com/content/song/HX338oboaXJ8afgQi0",
+        "track_number": 14,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "8r6v5qQrLZoqPrGjrz",
+          "name": "The Great American Songbook",
+          "url": "https://event.kkbox.com/content/album/8r6v5qQrLZoqPrGjrz",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2005-07-05",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/522217,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/522217,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/522217,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8sRHUWl8zbMOkYdUDZ",
+            "name": "Carmen McRae",
+            "url": "https://event.kkbox.com/content/artist/8sRHUWl8zbMOkYdUDZ",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/5686,0v512/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/5686,0v512/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4kCjnXwvWkaL_0SgNG",
+        "name": "For All We Know",
+        "duration": 196115,
+        "url": "https://event.kkbox.com/content/song/4kCjnXwvWkaL_0SgNG",
+        "track_number": 16,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "9ZWHy8gn_BzuODs0eq",
+          "name": "Let's Fall In Love(最愛情歌精選)",
+          "url": "https://event.kkbox.com/content/album/9ZWHy8gn_BzuODs0eq",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/59359,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/59359,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/59359,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CoQFi-uNdysV17lzH_",
+            "name": "Nat King Cole",
+            "url": "https://event.kkbox.com/content/artist/CoQFi-uNdysV17lzH_",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/9805,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/9805,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4s9dj9sjOGRFh15NNj",
+        "name": "Memeza",
+        "duration": 136254,
+        "url": "https://event.kkbox.com/content/song/4s9dj9sjOGRFh15NNj",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "9_XkAd1NrjpYYvIwJp",
+          "name": "Smoke 'n' Mirrors",
+          "url": "https://event.kkbox.com/content/album/9_XkAd1NrjpYYvIwJp",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2006-08-28",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/102176,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/102176,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/102176,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4trakujJ8jt7EwUhHE",
+            "name": "Lee Ritenour",
+            "url": "https://event.kkbox.com/content/artist/4trakujJ8jt7EwUhHE",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14901,0v17/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14901,0v17/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KrDojQRH6Il0ATD2B2",
+        "name": "Josie & Rosie",
+        "duration": 412711,
+        "url": "https://event.kkbox.com/content/song/KrDojQRH6Il0ATD2B2",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Cpkp8VWkaw7YCWgHxs",
+          "name": "Universal Language",
+          "url": "https://event.kkbox.com/content/album/Cpkp8VWkaw7YCWgHxs",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2005-09-14",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/91928,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/91928,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/91928,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8s4VoWl8zbMOknBVJo",
+            "name": "Joe Lovano",
+            "url": "https://event.kkbox.com/content/artist/8s4VoWl8zbMOknBVJo",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14739,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14739,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "GouwLDSgV7_Oc3CGMF",
+        "name": "Just Blues (2007 Digital Remaster) (Rudy Van Gelder Edition)",
+        "duration": 522681,
+        "url": "https://event.kkbox.com/content/song/GouwLDSgV7_Oc3CGMF",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "DXXaW0MfYpMkgpTi2C",
+          "name": "Jutta Hipp With Zoot Sims (RVG Edition)",
+          "url": "https://event.kkbox.com/content/album/DXXaW0MfYpMkgpTi2C",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2008-03-11",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/103508,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/103508,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/103508,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KnC_URl82J54gveAgl",
+            "name": "Jutta Hipp with Zoot Sims",
+            "url": "https://event.kkbox.com/content/artist/KnC_URl82J54gveAgl",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/29825,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/29825,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "PXG9uXXL8IwsCNoXdr",
+        "name": "True Confessions",
+        "duration": 255529,
+        "url": "https://event.kkbox.com/content/song/PXG9uXXL8IwsCNoXdr",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "0sRnzor_ljsmdzwX2l",
+          "name": "Private Passion",
+          "url": "https://event.kkbox.com/content/album/0sRnzor_ljsmdzwX2l",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2010-03-23",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/144705,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/144705,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/144705,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4sjVzJdLYqFkD2jflI",
+            "name": "Jeff Lorber",
+            "url": "https://event.kkbox.com/content/artist/4sjVzJdLYqFkD2jflI",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/24137,0v5/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/24137,0v5/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OlMvw6iIS497auAx9S",
+        "name": "Back O'Town",
+        "duration": 30116,
+        "url": "https://event.kkbox.com/content/song/OlMvw6iIS497auAx9S",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Gr2IPXwZSVBLYgcEz4",
+          "name": "107 In The Shade",
+          "url": "https://event.kkbox.com/content/album/Gr2IPXwZSVBLYgcEz4",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "1991-09-10",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/725075,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/725075,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/725075,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "SpxuUOYIHt6I97Hkyo",
+            "name": "Alex Bugnon",
+            "url": "https://event.kkbox.com/content/artist/SpxuUOYIHt6I97Hkyo",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/13768,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/13768,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "9aPtdWSd1jmuIaRL7b",
+        "name": "White Christmas (Album Version)",
+        "duration": 237145,
+        "url": "https://event.kkbox.com/content/song/9aPtdWSd1jmuIaRL7b",
+        "track_number": 18,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "4s7sybsyxHs9AbLk9n",
+          "name": "Michael Buble(同名專輯)",
+          "url": "https://event.kkbox.com/content/album/4s7sybsyxHs9AbLk9n",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2005-01-19",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/76195,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/76195,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/76195,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8lyfxtOuEe4fRxK9WD",
+            "name": "Michael Bublé",
+            "url": "https://event.kkbox.com/content/artist/8lyfxtOuEe4fRxK9WD",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/5181,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/5181,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OkTfvaWHwySdK4QdzN",
+        "name": "Maybe Tonight",
+        "duration": 242128,
+        "url": "https://event.kkbox.com/content/song/OkTfvaWHwySdK4QdzN",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Da54dJFenP603c8Ufx",
+          "name": "Sudden Burst Of Energy",
+          "url": "https://event.kkbox.com/content/album/Da54dJFenP603c8Ufx",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2010-02-16",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/155874,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/155874,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/155874,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "LZkHc3V1w4lbi44AZg",
+            "name": "Earl Klugh",
+            "url": "https://event.kkbox.com/content/artist/LZkHc3V1w4lbi44AZg",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/506,0v9/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/506,0v9/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Gn73DRnGJNIVJeYfsE",
+        "name": "Heavy Soul",
+        "duration": 411596,
+        "url": "https://event.kkbox.com/content/song/Gn73DRnGJNIVJeYfsE",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "T_w6X6mb5SlJ-KgAVR",
+          "name": "Heavy Soul",
+          "url": "https://event.kkbox.com/content/album/T_w6X6mb5SlJ-KgAVR",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2005-02-16",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/96892,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/96892,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/96892,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "9-W8NH8QpgvpPheKD0",
+            "name": "Ike Quebec",
+            "url": "https://event.kkbox.com/content/artist/9-W8NH8QpgvpPheKD0",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/20710,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/20710,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "H_b0nV4Y6JmyzY2bAp",
+        "name": "If It's Magic",
+        "duration": 105465,
+        "url": "https://event.kkbox.com/content/song/H_b0nV4Y6JmyzY2bAp",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "OmqGnpg4P4HnAyZuOE",
+          "name": "Love Songs(情歌愛曲)",
+          "url": "https://event.kkbox.com/content/album/OmqGnpg4P4HnAyZuOE",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2000-03-29",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/91416,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/91416,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/91416,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "WpZ2-65t_aFRGRNgn9",
+            "name": "Najee",
+            "url": "https://event.kkbox.com/content/artist/WpZ2-65t_aFRGRNgn9",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14625,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14625,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4lZDXanq9Z5EZIVWgH",
+        "name": "Rain",
+        "duration": 249521,
+        "url": "https://event.kkbox.com/content/song/4lZDXanq9Z5EZIVWgH",
+        "track_number": 12,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4rOCIwjQFoOyZzRpC8",
+          "name": "Celebration",
+          "url": "https://event.kkbox.com/content/album/4rOCIwjQFoOyZzRpC8",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2010-02-16",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/154908,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/154908,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/154908,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8k59wkSEC4BFWWgaOT",
+            "name": "Norman Brown",
+            "url": "https://event.kkbox.com/content/artist/8k59wkSEC4BFWWgaOT",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2468,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2468,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "9XvK3_gy3wYrCmak6d",
+        "name": "La China Leoncia (Part 3)",
+        "duration": 237865,
+        "url": "https://event.kkbox.com/content/song/9XvK3_gy3wYrCmak6d",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4lDaLwRx6lesd7tYov",
+          "name": "Chapter Four: Alive in New York",
+          "url": "https://event.kkbox.com/content/album/4lDaLwRx6lesd7tYov",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2006-07-06",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/80375,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/80375,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/80375,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "-qIToLHlGb0vPMIuEC",
+            "name": "Gabor Szabo",
+            "url": "https://event.kkbox.com/content/artist/-qIToLHlGb0vPMIuEC",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/20535,0v9/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/20535,0v9/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KsDwx5w3fpSTTiy-Ci",
+        "name": "Boom Boom",
+        "duration": 269061,
+        "url": "https://event.kkbox.com/content/song/KsDwx5w3fpSTTiy-Ci",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4rVkwzjQFoOyYQKGbZ",
+          "name": "Soul Sessions",
+          "url": "https://event.kkbox.com/content/album/4rVkwzjQFoOyYQKGbZ",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-09-07",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/78706,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/78706,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/78706,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "WovRmOPmMb0q465KYz",
+            "name": "Jeff Golub",
+            "url": "https://event.kkbox.com/content/artist/WovRmOPmMb0q465KYz",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/20557,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/20557,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Otk1v1zt3DzwbQOuY9",
+        "name": "Isn't That So?",
+        "duration": 331859,
+        "url": "https://event.kkbox.com/content/song/Otk1v1zt3DzwbQOuY9",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4rVkwzjQFoOyYQKGbZ",
+          "name": "Soul Sessions",
+          "url": "https://event.kkbox.com/content/album/4rVkwzjQFoOyYQKGbZ",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-09-07",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/78706,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/78706,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/78706,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "WovRmOPmMb0q465KYz",
+            "name": "Jeff Golub",
+            "url": "https://event.kkbox.com/content/artist/WovRmOPmMb0q465KYz",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/20557,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/20557,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "PXCp-GXL8IwsABFqH4",
+        "name": "Lush Life (LP Version)",
+        "duration": 260156,
+        "url": "https://event.kkbox.com/content/song/PXCp-GXL8IwsABFqH4",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "9aUhi72DUhQp9XBc06",
+          "name": "Unforgettable(永誌不忘)",
+          "url": "https://event.kkbox.com/content/album/9aUhi72DUhQp9XBc06",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "1991-05-28",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/2827,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/2827,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/2827,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "-kJRNLUKzxULJqRSkG",
+            "name": "Natalie Cole",
+            "url": "https://event.kkbox.com/content/artist/-kJRNLUKzxULJqRSkG",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/938,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/938,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Sq1Bjao9V6ObwSpMgL",
+        "name": "Walk On The Wild Side (ANDRÉ CECCARELLI feat. STEPHY HAIK)",
+        "duration": 332834,
+        "url": "https://event.kkbox.com/content/song/Sq1Bjao9V6ObwSpMgL",
+        "track_number": 31,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "8o6ZPcKQ3_AF50rCqu",
+          "name": "JAZZ CAFÉ (爵士經典咖啡館)",
+          "url": "https://event.kkbox.com/content/album/8o6ZPcKQ3_AF50rCqu",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2009-09-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/134287,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/134287,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/134287,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "P-ZlGnmft87W1fGZh2",
+            "name": "JAZZ CAFÉ",
+            "url": "https://event.kkbox.com/content/artist/P-ZlGnmft87W1fGZh2",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/45137,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/45137,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "HaGrJXFVE8K3YsdVuM",
+        "name": "My Foolish Heart (Live)",
+        "duration": 737187,
+        "url": "https://event.kkbox.com/content/song/HaGrJXFVE8K3YsdVuM",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "CrI4rY_ZyWtojfgsFm",
+          "name": "Live In Chicago",
+          "url": "https://event.kkbox.com/content/album/CrI4rY_ZyWtojfgsFm",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2001-12-30",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/92937,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/92937,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/92937,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GpkFebPEBUDsjRyLD_",
+            "name": "Kurt Elling",
+            "url": "https://event.kkbox.com/content/artist/GpkFebPEBUDsjRyLD_",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/25706,0v7/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/25706,0v7/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "TZFvTC8AH5GcMQa5N8",
+        "name": "More Than You Know (Great Day)",
+        "duration": 199087,
+        "url": "https://event.kkbox.com/content/song/TZFvTC8AH5GcMQa5N8",
+        "track_number": 15,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "5-IqvxVpFSVSAiAkOW",
+          "name": "Judy / Judy In Love",
+          "url": "https://event.kkbox.com/content/album/5-IqvxVpFSVSAiAkOW",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/93258,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/93258,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/93258,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8rHxSKsAsPZqqnv6n8",
+            "name": "Judy Garland",
+            "url": "https://event.kkbox.com/content/artist/8rHxSKsAsPZqqnv6n8",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/10096,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/10096,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "9-_jGtPvF6qQ3d9Yt0",
+        "name": "Tennessee Waltz - ANNE STEELE",
+        "duration": 178607,
+        "url": "https://event.kkbox.com/content/song/9-_jGtPvF6qQ3d9Yt0",
+        "track_number": 15,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "8r_dVvQrLZoqNh3LwY",
+          "name": "Jazz Awards (爵士的喝彩)",
+          "url": "https://event.kkbox.com/content/album/8r_dVvQrLZoqNh3LwY",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2011-03-25",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/187646,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/187646,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/187646,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GtktbE-Fw6HSAomM1C",
+            "name": "Jazz Awards",
+            "url": "https://event.kkbox.com/content/artist/GtktbE-Fw6HSAomM1C",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/63930,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/63930,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "XZlLgs_ZIDECpt4Epg",
+        "name": "I Like To Lead When I Dance - JOE COUGHLIN",
+        "duration": 248314,
+        "url": "https://event.kkbox.com/content/song/XZlLgs_ZIDECpt4Epg",
+        "track_number": 27,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "8r_dVvQrLZoqNh3LwY",
+          "name": "Jazz Awards (爵士的喝彩)",
+          "url": "https://event.kkbox.com/content/album/8r_dVvQrLZoqNh3LwY",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2011-03-25",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/187646,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/187646,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/187646,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GtktbE-Fw6HSAomM1C",
+            "name": "Jazz Awards",
+            "url": "https://event.kkbox.com/content/artist/GtktbE-Fw6HSAomM1C",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/63930,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/63930,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4pix3ZHBiO7N5F7TLi",
+        "name": "Dreamsville",
+        "duration": 231270,
+        "url": "https://event.kkbox.com/content/song/4pix3ZHBiO7N5F7TLi",
+        "track_number": 14,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "H-r1rR5ZibEcWMO6Xy",
+          "name": "Sarah For Lovers",
+          "url": "https://event.kkbox.com/content/album/H-r1rR5ZibEcWMO6Xy",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-04-01",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/78713,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/78713,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/78713,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Klk8KzYxd1n-A8C6Cz",
+            "name": "Sarah Vaughan",
+            "url": "https://event.kkbox.com/content/artist/Klk8KzYxd1n-A8C6Cz",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/1992,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/1992,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4n2Ki20I3TYuqmYcYV",
+        "name": "NAT KING COLE (納金高) - Don't Blame Me 別怪我",
+        "duration": 203964,
+        "url": "https://event.kkbox.com/content/song/4n2Ki20I3TYuqmYcYV",
+        "track_number": 13,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "CrcAXd_ZyWtoiJuA0e",
+          "name": "Jazz Café 3 (爵士經典咖啡館3)",
+          "url": "https://event.kkbox.com/content/album/CrcAXd_ZyWtoiJuA0e",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2012-01-06",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/320602,1v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/320602,1v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/320602,1v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "P-ZlGnmft87W1fGZh2",
+            "name": "JAZZ CAFÉ",
+            "url": "https://event.kkbox.com/content/artist/P-ZlGnmft87W1fGZh2",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/45137,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/45137,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "WmbFAJMnZLaw6z-IIw",
+        "name": "I Won't Dance",
+        "duration": 277478,
+        "url": "https://event.kkbox.com/content/song/WmbFAJMnZLaw6z-IIw",
+        "track_number": 19,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "OrM8TF5eLG7iPF3IRW",
+          "name": "Candid Moments- The Collection",
+          "url": "https://event.kkbox.com/content/album/OrM8TF5eLG7iPF3IRW",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-07-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/290781,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/290781,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/290781,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "_auk2lB6qG5Hce4fYf",
+            "name": "Stacey Kent",
+            "url": "https://event.kkbox.com/content/artist/_auk2lB6qG5Hce4fYf",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/9755,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/9755,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "_--WJ2q-B8cu2018GK",
+        "name": "Just A Boy",
+        "duration": 366596,
+        "url": "https://event.kkbox.com/content/song/_--WJ2q-B8cu2018GK",
+        "track_number": 8,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "D_sqiwHKsaFcPnaxq8",
+          "name": "We Are In Love",
+          "url": "https://event.kkbox.com/content/album/D_sqiwHKsaFcPnaxq8",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "1990-07-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/59863,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/59863,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/59863,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KtWnj9Jnpx6uhgWLWr",
+            "name": "Harry Connick, Jr.",
+            "url": "https://event.kkbox.com/content/artist/KtWnj9Jnpx6uhgWLWr",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/1596,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/1596,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "X-vhhegr-uxSjkCLCx",
+        "name": "Fiesta(節日)",
+        "duration": 278465,
+        "url": "https://event.kkbox.com/content/song/X-vhhegr-uxSjkCLCx",
+        "track_number": 24,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "DYpjuTgtI9ARV5LcFx",
+          "name": "JABBERLOOP台灣特選輯",
+          "url": "https://event.kkbox.com/content/album/DYpjuTgtI9ARV5LcFx",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2011-12-02",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/313737,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/313737,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/313737,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "XX-14goqvXP53BTKsM",
+            "name": "JABBERLOOP",
+            "url": "https://event.kkbox.com/content/artist/XX-14goqvXP53BTKsM",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/207064,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/207064,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "L_fkRumZ_NyBoj3Pcc",
+        "name": "Easy Goin' Evening (Edit)",
+        "duration": 231781,
+        "url": "https://event.kkbox.com/content/song/L_fkRumZ_NyBoj3Pcc",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "OmqGnpg4P4HnAyZuOE",
+          "name": "Love Songs(情歌愛曲)",
+          "url": "https://event.kkbox.com/content/album/OmqGnpg4P4HnAyZuOE",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2000-03-29",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/91416,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/91416,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/91416,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "WpZ2-65t_aFRGRNgn9",
+            "name": "Najee",
+            "url": "https://event.kkbox.com/content/artist/WpZ2-65t_aFRGRNgn9",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14625,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14625,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4nILiQ0I3TYup8H57E",
+        "name": "Stardust",
+        "duration": 345327,
+        "url": "https://event.kkbox.com/content/song/4nILiQ0I3TYup8H57E",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "LZ978Ogu2Z7b3q7qGw",
+          "name": "The Best Of The Concord Years",
+          "url": "https://event.kkbox.com/content/album/LZ978Ogu2Z7b3q7qGw",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2008-09-29",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/141049,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/141049,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/141049,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "1_NfZuAaypywbYLplf",
+            "name": "Mel Tormé",
+            "url": "https://event.kkbox.com/content/artist/1_NfZuAaypywbYLplf",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/12522,0v431/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/12522,0v431/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CnRfm0ypUCArpAAbDM",
+        "name": "Riviera Life    ",
+        "duration": 208329,
+        "url": "https://event.kkbox.com/content/song/CnRfm0ypUCArpAAbDM",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "CmP1g54WAc3pws5nPn",
+          "name": "Deleted Scenes From The Cutting Room Floor",
+          "url": "https://event.kkbox.com/content/album/CmP1g54WAc3pws5nPn",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2012-03-02",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/320040,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/320040,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/320040,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GkIrkMZnap2pIt8JJZ",
+            "name": "Caro Emerald",
+            "url": "https://event.kkbox.com/content/artist/GkIrkMZnap2pIt8JJZ",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/201617,0v12/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/201617,0v12/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Wt9puZBQoKRKUpKKgC",
+        "name": "Let It Free",
+        "duration": 228112,
+        "url": "https://event.kkbox.com/content/song/Wt9puZBQoKRKUpKKgC",
+        "track_number": 5,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "5YkMmCpHsLpPy8n75c",
+          "name": "Saxophonic(薩克斯風玩家)",
+          "url": "https://event.kkbox.com/content/album/5YkMmCpHsLpPy8n75c",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-09-26",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/93287,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/93287,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/93287,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "9afWUD_q8L4IknqTeh",
+            "name": "Dave Koz",
+            "url": "https://event.kkbox.com/content/artist/9afWUD_q8L4IknqTeh",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3342,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3342,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "-rFBos89J3FgbEwR-Q",
+        "name": "Sunshower",
+        "duration": 604833,
+        "url": "https://event.kkbox.com/content/song/-rFBos89J3FgbEwR-Q",
+        "track_number": 8,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "0qHjR-ZgW0hFkcz7Sg",
+          "name": "Live At Maybeck Recital Hall, Volume 10",
+          "url": "https://event.kkbox.com/content/album/0qHjR-ZgW0hFkcz7Sg",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2008-09-29",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/110634,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/110634,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/110634,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GrGS2JYEMQFlM1-dBr",
+            "name": "Kenny Barron",
+            "url": "https://event.kkbox.com/content/artist/GrGS2JYEMQFlM1-dBr",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/31448,0v14/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/31448,0v14/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5XYTWTA_ELRudWa4S5",
+        "name": "Seven Years",
+        "duration": 145217,
+        "url": "https://event.kkbox.com/content/song/5XYTWTA_ELRudWa4S5",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Sl6won3NTiaK1vfPxg",
+          "name": "Come Away With Me(遠走高飛)",
+          "url": "https://event.kkbox.com/content/album/Sl6won3NTiaK1vfPxg",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2002-04-01",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/49714,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/49714,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/49714,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GplT6bPEBUDsjhpIhf",
+            "name": "Norah Jones",
+            "url": "https://event.kkbox.com/content/artist/GplT6bPEBUDsjhpIhf",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3439,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3439,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "XXIsvNWoN4kbq9VGfN",
+        "name": "Somethin' Else",
+        "duration": 493702,
+        "url": "https://event.kkbox.com/content/song/XXIsvNWoN4kbq9VGfN",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "XX4LTM5qEjhjAXXrO5",
+          "name": "Somethin' Else",
+          "url": "https://event.kkbox.com/content/album/XX4LTM5qEjhjAXXrO5",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "1999-03-09",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/58082,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/58082,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/58082,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "XaG5EdZHejH-lexKw0",
+            "name": "Cannonball Adderley",
+            "url": "https://event.kkbox.com/content/artist/XaG5EdZHejH-lexKw0",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/13583,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/13583,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "L-uos27hXlYLvdp8qz",
+        "name": "Love Changes Everything",
+        "duration": 238190,
+        "url": "https://event.kkbox.com/content/song/L-uos27hXlYLvdp8qz",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "5YkMmCpHsLpPy8n75c",
+          "name": "Saxophonic(薩克斯風玩家)",
+          "url": "https://event.kkbox.com/content/album/5YkMmCpHsLpPy8n75c",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-09-26",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/93287,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/93287,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/93287,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "9afWUD_q8L4IknqTeh",
+            "name": "Dave Koz",
+            "url": "https://event.kkbox.com/content/artist/9afWUD_q8L4IknqTeh",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3342,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3342,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "GnwUjRnGJNIVK45CBk",
+        "name": "Good Old World",
+        "duration": 95248,
+        "url": "https://event.kkbox.com/content/song/GnwUjRnGJNIVK45CBk",
+        "track_number": 15,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "0sSj_rr_ljsme3AZBj",
+          "name": "Temptation(誘惑)",
+          "url": "https://event.kkbox.com/content/album/0sSj_rr_ljsme3AZBj",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/95821,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/95821,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/95821,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "H-k9LZ60vbB0XWNdEQ",
+            "name": "Holly Cole",
+            "url": "https://event.kkbox.com/content/artist/H-k9LZ60vbB0XWNdEQ",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14227,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14227,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Cp5aN_XvXVWGuoY1zn",
+        "name": "Shark Bite",
+        "duration": 372558,
+        "url": "https://event.kkbox.com/content/song/Cp5aN_XvXVWGuoY1zn",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4kwK_PYXF4KmUcjo7n",
+          "name": "Breezin'",
+          "url": "https://event.kkbox.com/content/album/4kwK_PYXF4KmUcjo7n",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-02-12",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/75608,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/75608,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/75608,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4s5wPJdLYqFkAP1PjE",
+            "name": "George Benson",
+            "url": "https://event.kkbox.com/content/artist/4s5wPJdLYqFkAP1PjE",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/291,0v49/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/291,0v49/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Ct7iV4aFUSEGblurkA",
+        "name": "Just Friends",
+        "duration": 181626,
+        "url": "https://event.kkbox.com/content/song/Ct7iV4aFUSEGblurkA",
+        "track_number": 12,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "9XH0xlkXC0_tlf5LwJ",
+          "name": "After Hours",
+          "url": "https://event.kkbox.com/content/album/9XH0xlkXC0_tlf5LwJ",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2010-04-12",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/457843,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/457843,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/457843,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Klk8KzYxd1n-A8C6Cz",
+            "name": "Sarah Vaughan",
+            "url": "https://event.kkbox.com/content/artist/Klk8KzYxd1n-A8C6Cz",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/1992,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/1992,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "SqOrnRo9V6ObzAlKZs",
+        "name": "Luna Park",
+        "duration": 310915,
+        "url": "https://event.kkbox.com/content/song/SqOrnRo9V6ObzAlKZs",
+        "track_number": 1,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Cpkp8VWkaw7YCWgHxs",
+          "name": "Universal Language",
+          "url": "https://event.kkbox.com/content/album/Cpkp8VWkaw7YCWgHxs",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2005-09-14",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/91928,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/91928,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/91928,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8s4VoWl8zbMOknBVJo",
+            "name": "Joe Lovano",
+            "url": "https://event.kkbox.com/content/artist/8s4VoWl8zbMOknBVJo",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14739,0v6/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14739,0v6/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "P_Ne-uIKadNrhDi879",
+        "name": "Just One Of Those Things",
+        "duration": 268190,
+        "url": "https://event.kkbox.com/content/song/P_Ne-uIKadNrhDi879",
+        "track_number": 8,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "T-AIXGmQZiJJVjNYHV",
+          "name": "Reach",
+          "url": "https://event.kkbox.com/content/album/T-AIXGmQZiJJVjNYHV",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/96067,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/96067,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/96067,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4ndawg-K2KLL43a-0-",
+            "name": "Jacky Terrasson",
+            "url": "https://event.kkbox.com/content/artist/4ndawg-K2KLL43a-0-",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/25723,0v5/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/25723,0v5/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "P-CqMnF2hnTeM91L9n",
+        "name": "Gershwin Medley: Soon/For You, For Me, ForeverMore/Love Walked In/Our Love Is Here To Stay",
+        "duration": 475683,
+        "url": "https://event.kkbox.com/content/song/P-CqMnF2hnTeM91L9n",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "H_N2TJ4H2kp-_3ORUX",
+          "name": "Concorde",
+          "url": "https://event.kkbox.com/content/album/H_N2TJ4H2kp-_3ORUX",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2006-09-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/101613,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/101613,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/101613,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CpS82ztnOiWI57J0Vw",
+            "name": "The Modern Jazz Quartet",
+            "url": "https://event.kkbox.com/content/artist/CpS82ztnOiWI57J0Vw",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/7014,0v178/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/7014,0v178/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Gq1AGUAvHxj7OY0EG0",
+        "name": "First Affair",
+        "duration": 373701,
+        "url": "https://event.kkbox.com/content/song/Gq1AGUAvHxj7OY0EG0",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "T-AIXGmQZiJJVjNYHV",
+          "name": "Reach",
+          "url": "https://event.kkbox.com/content/album/T-AIXGmQZiJJVjNYHV",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/96067,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/96067,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/96067,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4ndawg-K2KLL43a-0-",
+            "name": "Jacky Terrasson",
+            "url": "https://event.kkbox.com/content/artist/4ndawg-K2KLL43a-0-",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/25723,0v5/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/25723,0v5/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CplUh-XvXVWGsrk_6o",
+        "name": "The Blues Ain't Nothin' But A Woman Cryin' For Her Man",
+        "duration": 222772,
+        "url": "https://event.kkbox.com/content/song/CplUh-XvXVWGsrk_6o",
+        "track_number": 22,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "HZk_oEBCAsSpIxRed3",
+          "name": "Dinah Washington - Very Best Of",
+          "url": "https://event.kkbox.com/content/album/HZk_oEBCAsSpIxRed3",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2006-07-12",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/74759,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/74759,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/74759,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Kt8FD9Jnpx6uj4wXw6",
+            "name": "Dinah Washington",
+            "url": "https://event.kkbox.com/content/artist/Kt8FD9Jnpx6uj4wXw6",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/11926,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/11926,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "SpnpMD8c1sYnpI85Th",
+        "name": "Encore",
+        "duration": 226812,
+        "url": "https://event.kkbox.com/content/song/SpnpMD8c1sYnpI85Th",
+        "track_number": 11,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "GtZxw0i-PnecfWQK2L",
+          "name": "Heart And Soul",
+          "url": "https://event.kkbox.com/content/album/GtZxw0i-PnecfWQK2L",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2010-06-28",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/151030,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/151030,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/151030,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "SsjOcKFoPKLNRKWtpt",
+            "name": "Kenny G",
+            "url": "https://event.kkbox.com/content/artist/SsjOcKFoPKLNRKWtpt",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/635,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/635,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Cp_MV8XvXVWGv8edo6",
+        "name": "Montmartre",
+        "duration": 145589,
+        "url": "https://event.kkbox.com/content/song/Cp_MV8XvXVWGv8edo6",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "H_eAfI4H2kp-_AjEUr",
+          "name": "The Best Of Django Reinhardt",
+          "url": "https://event.kkbox.com/content/album/H_eAfI4H2kp-_AjEUr",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "1996-03-07",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/61346,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/61346,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/61346,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "ClVSCLYxr1GFR-cswg",
+            "name": "Django Reinhardt",
+            "url": "https://event.kkbox.com/content/artist/ClVSCLYxr1GFR-cswg",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/814,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/814,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "GsFu6-RUZ-QUasRB1h",
+        "name": "BUD POWELL (巴德鮑威爾) - Somebody Loves Me 誰來愛我",
+        "duration": 173740,
+        "url": "https://event.kkbox.com/content/song/GsFu6-RUZ-QUasRB1h",
+        "track_number": 16,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "CrcAXd_ZyWtoiJuA0e",
+          "name": "Jazz Café 3 (爵士經典咖啡館3)",
+          "url": "https://event.kkbox.com/content/album/CrcAXd_ZyWtoiJuA0e",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2012-01-06",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/320602,1v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/320602,1v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/320602,1v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "P-ZlGnmft87W1fGZh2",
+            "name": "JAZZ CAFÉ",
+            "url": "https://event.kkbox.com/content/artist/P-ZlGnmft87W1fGZh2",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/45137,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/45137,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KpL_ZQFEsGgkp0etdr",
+        "name": "One Night (Alone With You)",
+        "duration": 274729,
+        "url": "https://event.kkbox.com/content/song/KpL_ZQFEsGgkp0etdr",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Cl268t3BhWIkCOP79W",
+          "name": "Soda Fountain Shuffle",
+          "url": "https://event.kkbox.com/content/album/Cl268t3BhWIkCOP79W",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2010-02-16",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/156479,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/156479,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/156479,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "LZkHc3V1w4lbi44AZg",
+            "name": "Earl Klugh",
+            "url": "https://event.kkbox.com/content/artist/LZkHc3V1w4lbi44AZg",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/506,0v9/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/506,0v9/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KsYCtzw3fpSTR-fCAq",
+        "name": "If I Had You",
+        "duration": 250403,
+        "url": "https://event.kkbox.com/content/song/KsYCtzw3fpSTR-fCAq",
+        "track_number": 104,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4pdCpPv83PHEZ5rJro",
+          "name": "The Complete Pablo Solo Masterpieces",
+          "url": "https://event.kkbox.com/content/album/4pdCpPv83PHEZ5rJro",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2008-09-22",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/110653,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/110653,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/110653,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KpZAB_hFg8xEua52lB",
+            "name": "Art Tatum",
+            "url": "https://event.kkbox.com/content/artist/KpZAB_hFg8xEua52lB",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2538,0v394/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2538,0v394/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4pkjnTHBiO7N6zJ196",
+        "name": "Where Or When",
+        "duration": 314398,
+        "url": "https://event.kkbox.com/content/song/4pkjnTHBiO7N6zJ196",
+        "track_number": 37,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4pdCpPv83PHEZ5rJro",
+          "name": "The Complete Pablo Solo Masterpieces",
+          "url": "https://event.kkbox.com/content/album/4pdCpPv83PHEZ5rJro",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2008-09-22",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/110653,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/110653,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/110653,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KpZAB_hFg8xEua52lB",
+            "name": "Art Tatum",
+            "url": "https://event.kkbox.com/content/artist/KpZAB_hFg8xEua52lB",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2538,0v394/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2538,0v394/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KpXv5oFEsGgkouE3by",
+        "name": "You Go To My Head",
+        "duration": 293221,
+        "url": "https://event.kkbox.com/content/song/KpXv5oFEsGgkouE3by",
+        "track_number": 75,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4pdCpPv83PHEZ5rJro",
+          "name": "The Complete Pablo Solo Masterpieces",
+          "url": "https://event.kkbox.com/content/album/4pdCpPv83PHEZ5rJro",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2008-09-22",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/110653,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/110653,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/110653,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KpZAB_hFg8xEua52lB",
+            "name": "Art Tatum",
+            "url": "https://event.kkbox.com/content/artist/KpZAB_hFg8xEua52lB",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2538,0v394/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2538,0v394/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KqOHdHiB3UapE-9UoV",
+        "name": "Why Do I Love You?",
+        "duration": 340636,
+        "url": "https://event.kkbox.com/content/song/KqOHdHiB3UapE-9UoV",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "CnOLj-RV4d6Z3_ni1W",
+          "name": "Brubeck Time",
+          "url": "https://event.kkbox.com/content/album/CnOLj-RV4d6Z3_ni1W",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "1998-10-20",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/61593,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/61593,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/61593,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8pag5lOTL2Rad08T2p",
+            "name": "Dave Brubeck",
+            "url": "https://event.kkbox.com/content/artist/8pag5lOTL2Rad08T2p",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/4791,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/4791,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OlcboUiIS497bVqaEZ",
+        "name": "The Way You Look Tonight",
+        "duration": 181580,
+        "url": "https://event.kkbox.com/content/song/OlcboUiIS497bVqaEZ",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "4lWAX2Rx6lesemZJYA",
+          "name": "Easy to Love",
+          "url": "https://event.kkbox.com/content/album/4lWAX2Rx6lesemZJYA",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-03-17",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/499362,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/499362,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/499362,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "L-NQ6EZCGWw2rfzXRk",
+            "name": "Billie Holiday",
+            "url": "https://event.kkbox.com/content/artist/L-NQ6EZCGWw2rfzXRk",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/273,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/273,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5XJLq9A_ELRue5NbaE",
+        "name": "Quand Le Jazz Entre En Lice - ISABELLE ANTENA",
+        "duration": 213205,
+        "url": "https://event.kkbox.com/content/song/5XJLq9A_ELRue5NbaE",
+        "track_number": 21,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "X_ISJxcUyKgAljojMY",
+          "name": "Chanson de Cabaret (香頌小酒館)",
+          "url": "https://event.kkbox.com/content/album/X_ISJxcUyKgAljojMY",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2010-12-10",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/165174,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/165174,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/165174,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "GrCbaJYEMQFlMb51ai",
+            "name": "Chanson de Cabaret",
+            "url": "https://event.kkbox.com/content/artist/GrCbaJYEMQFlMb51ai",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/57800,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/57800,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ClgtqxvYFKtg2MjMXs",
+        "name": "I'Ll Take Romance",
+        "duration": 141502,
+        "url": "https://event.kkbox.com/content/song/ClgtqxvYFKtg2MjMXs",
+        "track_number": 13,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Da5YBKFenP600zJbZq",
+          "name": "Something Cool",
+          "url": "https://event.kkbox.com/content/album/Da5YBKFenP600zJbZq",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Gpg2abPEBUDsgQBzMt",
+            "name": "June Christy",
+            "url": "https://event.kkbox.com/content/artist/Gpg2abPEBUDsgQBzMt",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/21881,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/21881,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "SteXdkyi4xyDJXQynm",
+        "name": "Don't Be That Way",
+        "duration": 161146,
+        "url": "https://event.kkbox.com/content/song/SteXdkyi4xyDJXQynm",
+        "track_number": 48,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "1-bhCrbXCvM0emdMcg",
+          "name": "Always Frank",
+          "url": "https://event.kkbox.com/content/album/1-bhCrbXCvM0emdMcg",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2012-11-27",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/509754,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/509754,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/509754,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KkOTxJlinYMj_GxkpA",
+            "name": "Frank Sinatra",
+            "url": "https://event.kkbox.com/content/artist/KkOTxJlinYMj_GxkpA",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/336864,0v19/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/336864,0v19/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "LXkdBp3RU4Yl7b1HIQ",
+        "name": "A Stranger Called The Blues",
+        "duration": 238794,
+        "url": "https://event.kkbox.com/content/song/LXkdBp3RU4Yl7b1HIQ",
+        "track_number": 12,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Da5YBKFenP600zJbZq",
+          "name": "Something Cool",
+          "url": "https://event.kkbox.com/content/album/Da5YBKFenP600zJbZq",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Gpg2abPEBUDsgQBzMt",
+            "name": "June Christy",
+            "url": "https://event.kkbox.com/content/artist/Gpg2abPEBUDsgQBzMt",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/21881,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/21881,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CqZiTzFiUh-79LZdny",
+        "name": "Rio Funk",
+        "duration": 396318,
+        "url": "https://event.kkbox.com/content/song/CqZiTzFiUh-79LZdny",
+        "track_number": 13,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "8tFYo8N8ZgqWef4rha",
+          "name": "The Very Best Of Lee Ritenour",
+          "url": "https://event.kkbox.com/content/album/8tFYo8N8ZgqWef4rha",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-06-30",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/79240,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/79240,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/79240,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "4trakujJ8jt7EwUhHE",
+            "name": "Lee Ritenour",
+            "url": "https://event.kkbox.com/content/artist/4trakujJ8jt7EwUhHE",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14901,0v17/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14901,0v17/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CtyMcWaFUSEGan8q-U",
+        "name": "PEARL BAILEY(琵兒貝莉) – Tired(厭倦)",
+        "duration": 201978,
+        "url": "https://event.kkbox.com/content/song/CtyMcWaFUSEGan8q-U",
+        "track_number": 12,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "9-khbMhimwqbIUu1o7",
+          "name": "Lady In Jazz(爵色名伶)",
+          "url": "https://event.kkbox.com/content/album/9-khbMhimwqbIUu1o7",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2010-03-26",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/147923,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/147923,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/147923,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "_ZDuLIW0OU_Zwn1_Oa",
+            "name": "Lady In Jazz",
+            "url": "https://event.kkbox.com/content/artist/_ZDuLIW0OU_Zwn1_Oa",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/51011,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/51011,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8ocKjnsAlULSALmvJO",
+        "name": "That's Life I Guess",
+        "duration": 190032,
+        "url": "https://event.kkbox.com/content/song/8ocKjnsAlULSALmvJO",
+        "track_number": 9,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "4lWAX2Rx6lesemZJYA",
+          "name": "Easy to Love",
+          "url": "https://event.kkbox.com/content/album/4lWAX2Rx6lesemZJYA",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2011-03-17",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/499362,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/499362,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/499362,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "L-NQ6EZCGWw2rfzXRk",
+            "name": "Billie Holiday",
+            "url": "https://event.kkbox.com/content/artist/L-NQ6EZCGWw2rfzXRk",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/273,0v3/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/273,0v3/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "-sGyoNtDgs1-DatAQK",
+        "name": "So Many Stars",
+        "duration": 240698,
+        "url": "https://event.kkbox.com/content/song/-sGyoNtDgs1-DatAQK",
+        "track_number": 5,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "0qXv1-ZgW0hFked-k2",
+          "name": "Breakfast On The Morning Tram",
+          "url": "https://event.kkbox.com/content/album/0qXv1-ZgW0hFked-k2",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2007-09-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/96618,1v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/96618,1v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/96618,1v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "_auk2lB6qG5Hce4fYf",
+            "name": "Stacey Kent",
+            "url": "https://event.kkbox.com/content/artist/_auk2lB6qG5Hce4fYf",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/9755,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/9755,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8m5bagLQJRsakqSps9",
+        "name": "You'Re Making Me Crazy",
+        "duration": 151951,
+        "url": "https://event.kkbox.com/content/song/8m5bagLQJRsakqSps9",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Da5YBKFenP600zJbZq",
+          "name": "Something Cool",
+          "url": "https://event.kkbox.com/content/album/Da5YBKFenP600zJbZq",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Gpg2abPEBUDsgQBzMt",
+            "name": "June Christy",
+            "url": "https://event.kkbox.com/content/artist/Gpg2abPEBUDsgQBzMt",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/21881,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/21881,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "WtKNGfBQoKRKW8igWj",
+        "name": "Time After Time",
+        "duration": 166254,
+        "url": "https://event.kkbox.com/content/song/WtKNGfBQoKRKW8igWj",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "4te6XDaFtitQ9b9Blr",
+          "name": "The Best Of Chet Baker Sings",
+          "url": "https://event.kkbox.com/content/album/4te6XDaFtitQ9b9Blr",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "1994-02-08",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/60044,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/60044,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/60044,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "CtYDaCOex-o4az7WTI",
+            "name": "Chet Baker",
+            "url": "https://event.kkbox.com/content/artist/CtYDaCOex-o4az7WTI",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/423,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/423,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "OpQzmrPgzUmSZSXmL4",
+        "name": "I'm Just A Lucky So And So",
+        "duration": 189056,
+        "url": "https://event.kkbox.com/content/song/OpQzmrPgzUmSZSXmL4",
+        "track_number": 2,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "0kG088zgc5pS7i0fmJ",
+          "name": "The Great Summit - The Master Tapes",
+          "url": "https://event.kkbox.com/content/album/0kG088zgc5pS7i0fmJ",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-03",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/49710,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/49710,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/49710,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "T-1TlXstqP_jKyYQI7",
+            "name": "Louis Armstrong & Duke Ellington",
+            "url": "https://event.kkbox.com/content/artist/T-1TlXstqP_jKyYQI7",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2771,0v15/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2771,0v15/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "KqcClBiB3UapHEtRGX",
+        "name": "Midnight Sun",
+        "duration": 195883,
+        "url": "https://event.kkbox.com/content/song/KqcClBiB3UapHEtRGX",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Da5YBKFenP600zJbZq",
+          "name": "Something Cool",
+          "url": "https://event.kkbox.com/content/album/Da5YBKFenP600zJbZq",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2003-03-04",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/92128,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Gpg2abPEBUDsgQBzMt",
+            "name": "June Christy",
+            "url": "https://event.kkbox.com/content/artist/Gpg2abPEBUDsgQBzMt",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/21881,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/21881,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8lGcsYwnvIvommIHbt",
+        "name": "Good Morning Heartache",
+        "duration": 373701,
+        "url": "https://event.kkbox.com/content/song/8lGcsYwnvIvommIHbt",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "Ks_CDGNedkIB8rwYSk",
+          "name": "To Love Again(再愛一次)",
+          "url": "https://event.kkbox.com/content/album/Ks_CDGNedkIB8rwYSk",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2006-06-16",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/80555,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/80555,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/80555,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8sg1sWl8zbMOlKOQLo",
+            "name": "Chris Botti",
+            "url": "https://event.kkbox.com/content/artist/8sg1sWl8zbMOlKOQLo",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/14577,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/14577,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Kkf5wdkz5hrtCvY7KL",
+        "name": "Softly As In A Morning Sunrise - JULIE DUNN & THE JOHN HORLER TRIO feat. TONY COE",
+        "duration": 229413,
+        "url": "https://event.kkbox.com/content/song/Kkf5wdkz5hrtCvY7KL",
+        "track_number": 8,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK"
+        ],
+        "album": {
+          "id": "Gtq8I0i-Pnecdg9jMn",
+          "name": "Jazz Café 2 (爵士經典咖啡館 2)",
+          "url": "https://event.kkbox.com/content/album/Gtq8I0i-Pnecdg9jMn",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK"
+          ],
+          "release_date": "2011-01-21",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/168762,0v3/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/168762,0v3/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/168762,0v3/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "P-ZlGnmft87W1fGZh2",
+            "name": "JAZZ CAFÉ",
+            "url": "https://event.kkbox.com/content/artist/P-ZlGnmft87W1fGZh2",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/45137,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/45137,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "-rSW778dJ3Fgagttj0",
+        "name": "I Won't Dance",
+        "duration": 236829,
+        "url": "https://event.kkbox.com/content/song/-rSW778dJ3Fgagttj0",
+        "track_number": 9,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY"
+        ],
+        "album": {
+          "id": "4sCXnSsyxHs9AZbU19",
+          "name": "Cheek To Cheek [Deluxe Version]",
+          "url": "https://event.kkbox.com/content/album/4sCXnSsyxHs9AZbU19",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY"
+          ],
+          "release_date": "2014-09-22",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/4758596,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/4758596,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/4758596,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "8lUT9JOuEe4fRUDsd0",
+            "name": "Tony Bennett & Lady Gaga",
+            "url": "https://event.kkbox.com/content/artist/8lUT9JOuEe4fRUDsd0",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/2414501,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/2414501,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "DXHWCVcCg_DL8bZ3Dd",
+        "name": "Cold",
+        "duration": 373841,
+        "url": "https://event.kkbox.com/content/song/DXHWCVcCg_DL8bZ3Dd",
+        "track_number": 7,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "9Y5hyT0HpTG8LRFUQZ",
+          "name": "Beautiful Life",
+          "url": "https://event.kkbox.com/content/album/9Y5hyT0HpTG8LRFUQZ",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-10-14",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/2011143,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/2011143,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/2011143,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Gpsz6bPEBUDsgQf356",
+            "name": "Dianne Reeves",
+            "url": "https://event.kkbox.com/content/artist/Gpsz6bPEBUDsgQf356",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3401,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3401,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "XZHtcu_JIDECo6UTaw",
+        "name": "W. 52nd",
+        "duration": 277896,
+        "url": "https://event.kkbox.com/content/song/XZHtcu_JIDECo6UTaw",
+        "track_number": 3,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "Pa0MIOKRDe7LVaHWVt",
+          "name": "Little Things",
+          "url": "https://event.kkbox.com/content/album/Pa0MIOKRDe7LVaHWVt",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-09-10",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/1850121,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/1850121,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/1850121,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "-nYQpKSsLGYcFYnjRx",
+            "name": "Darshan Ambient",
+            "url": "https://event.kkbox.com/content/artist/-nYQpKSsLGYcFYnjRx",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/1064400,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/1064400,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CkDszSvanNz6-CSGp-",
+        "name": "Lalala",
+        "duration": 188736,
+        "url": "https://event.kkbox.com/content/song/CkDszSvanNz6-CSGp-",
+        "track_number": 4,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "-pMhL-2gReHVSM1Urb",
+          "name": "Shine On Me",
+          "url": "https://event.kkbox.com/content/album/-pMhL-2gReHVSM1Urb",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2015-04-08",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/6298747,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/6298747,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/6298747,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "KoF8p58xAz3An-uGCB",
+            "name": "Min Chae",
+            "url": "https://event.kkbox.com/content/artist/KoF8p58xAz3An-uGCB",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3267266,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3267266,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Cn5-3GwJUCArrjzgK6",
+        "name": "Mood Indigo - Nina Simone",
+        "duration": 246595,
+        "url": "https://event.kkbox.com/content/song/Cn5-3GwJUCArrjzgK6",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "GkulpkGex3YZJDmV-N",
+          "name": "50 Best of Jazz Woman",
+          "url": "https://event.kkbox.com/content/album/GkulpkGex3YZJDmV-N",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2016-06-17",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/16458910,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/16458910,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/16458910,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Oq_FJ822THuFqg6RQ2",
+            "name": "貴族精選",
+            "url": "https://event.kkbox.com/content/artist/Oq_FJ822THuFqg6RQ2",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/16813,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/16813,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "D-lkFwEWldMik_qxFa",
+        "name": "32 Flavors",
+        "duration": 326658,
+        "url": "https://event.kkbox.com/content/song/D-lkFwEWldMik_qxFa",
+        "track_number": 6,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "9Y5hyT0HpTG8LRFUQZ",
+          "name": "Beautiful Life",
+          "url": "https://event.kkbox.com/content/album/9Y5hyT0HpTG8LRFUQZ",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2013-10-14",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/tw/2011143,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/tw/2011143,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/tw/2011143,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Gpsz6bPEBUDsgQf356",
+            "name": "Dianne Reeves",
+            "url": "https://event.kkbox.com/content/artist/Gpsz6bPEBUDsgQf356",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/3401,0v2/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/3401,0v2/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "H_mnCI646JmyzxfNEE",
+        "name": "Try A Little Tenderness",
+        "duration": 196545,
+        "url": "https://event.kkbox.com/content/song/H_mnCI646JmyzxfNEE",
+        "track_number": 12,
+        "explicitness": false,
+        "available_territories": [
+          "TW",
+          "HK",
+          "SG",
+          "MY",
+          "JP"
+        ],
+        "album": {
+          "id": "GkulpkGex3YZJDmV-N",
+          "name": "50 Best of Jazz Woman",
+          "url": "https://event.kkbox.com/content/album/GkulpkGex3YZJDmV-N",
+          "explicitness": false,
+          "available_territories": [
+            "TW",
+            "HK",
+            "SG",
+            "MY",
+            "JP"
+          ],
+          "release_date": "2016-06-17",
+          "images": [
+            {
+              "height": 160,
+              "width": 160,
+              "url": "https://i.kfs.io/album/global/16458910,0v1/fit/160x160.jpg"
+            },
+            {
+              "height": 500,
+              "width": 500,
+              "url": "https://i.kfs.io/album/global/16458910,0v1/fit/500x500.jpg"
+            },
+            {
+              "height": 1000,
+              "width": 1000,
+              "url": "https://i.kfs.io/album/global/16458910,0v1/fit/1000x1000.jpg"
+            }
+          ],
+          "artist": {
+            "id": "Oq_FJ822THuFqg6RQ2",
+            "name": "貴族精選",
+            "url": "https://event.kkbox.com/content/artist/Oq_FJ822THuFqg6RQ2",
+            "images": [
+              {
+                "height": 160,
+                "width": 160,
+                "url": "https://i.kfs.io/artist/global/16813,0v1/fit/160x160.jpg"
+              },
+              {
+                "height": 300,
+                "width": 300,
+                "url": "https://i.kfs.io/artist/global/16813,0v1/fit/300x300.jpg"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "paging": [],
+    "summary": []
+  }
+}

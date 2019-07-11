@@ -1,0 +1,34 @@
+#!/bin/bash
+# /etc/init.d/rtcsession
+
+### BEGIN INIT INFO
+# Provides:          rtcsession
+# Required-Start:    $remote_fs $syslog
+# Required-Stop:     $remote_fs $syslog
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Example initscript
+# Description:       Webduino RTC Session
+### END INIT INFO
+
+
+case "$1" in
+    start)
+        echo "Starting Rtc Session"
+        /usr/local/bin/node /path/to/rtc-session/launcher/launcher.js file:///path/to/rtc-session/source-rpi.html > /dev/null &
+        ;;
+    stop)
+        echo "Stopping Rtc Session"
+        pid=`ps aux | grep '[i]ceweasel' | awk '{print $2}'`
+        kill -9 $pid
+        pid=`ps aux | grep '[l]auncher.js' | awk '{print $2}'`
+        kill -9 $pid
+        sleep 10
+        ;;
+    *)
+        echo "Usage: /etc/init.d/rtcsession start|stop"
+        exit 1
+        ;;
+esac
+
+exit 0

@@ -1,0 +1,12 @@
+{
+  "name": "rtc-session",
+  "version": "1.0.0",
+  "description": "WebRTC Session and Demo Applications",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/static -a 0.0.0.0"
+  },
+  "dependencies": {
+    "node-static": "^0.7.9"
+  }
+}

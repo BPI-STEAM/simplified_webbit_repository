@@ -1,0 +1,631 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <style>
+  body,
+  html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  header {
+    height: 80px;
+    text-align: center;
+    background: #000;
+  }
+  
+  header img {
+    margin-top: 10px;
+  }
+  
+  #panel {
+    display: table;
+    margin: 30px auto;
+    font-size: 16px;
+    /*font-family: 'verdana';*/
+  }
+  
+  #panel label,
+  #panel input,
+  #panel select,
+  #panel button {
+    font-size: 16px;
+  }
+  
+  label {
+    margin-left: 5px;
+  }
+  
+  #panel input {
+    padding: 5px;
+  }
+  
+  #screen {
+    display: inline-block;
+    width: 90%;
+    padding: 20px 20px 20px 10px;
+    height: calc(100% - 260px);
+    margin: 0 auto;
+    position: relative;
+    display: none;
+    max-width: 1000px;
+    max-height: 500px;
+  }
+  
+  video {
+    position: relative;
+    display: block;
+    width: 65%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .styled-select {
+    background: url(imgs/15xvbd5.png) no-repeat 96%;
+    height: 29px;
+    overflow: hidden;
+    width: 240px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background-color: #00aed8;
+    padding: 10px;
+  }
+
+  .styled-select select {
+    color: #fff;
+    background: transparent;
+    border: none;
+    font-size: 18px;
+    height: 29px;
+    width: 268px;
+  }
+
+  #tracksList {
+    border-width: 1px;
+    border-style: dashed;
+    border-color: #ccc;
+    padding: 3px;
+    position: absolute;
+    display: block;
+    top: 5%;
+    left: calc(65% + 15px);
+    z-index: 100;
+    background-color: #fff;
+    height: 100%;
+    overflow: scroll;
+    display: none;
+  }
+
+  #tracksList .close {
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .track img {
+    width: 30px;
+  }
+
+  .track span {
+    margin-left: 3px;
+    font-size: 12px;
+    vertical-align: super;
+  }
+  
+  #piechart {
+    position: absolute;
+    display: block;
+    width: 35%;
+    margin: 0;
+    padding: 0;
+    right: 0;
+  }
+  
+  .faceBox {
+    position: absolute;
+    border: 5px solid #f00;
+    border-radius: 10px;
+  }
+  
+  .faceNote {
+    position: absolute;
+    top: 0;
+    width: 150px;
+    right: -160px;
+    text-align: left;
+    font-size: 26px;
+    line-height: 30px;
+  }
+  
+  #noteBox {
+    position: absolute;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    left: calc(65% + 20px);
+    cursor: pointer;
+  }
+
+  #noteBox > div {
+    float: left;
+  }
+
+  #noteBox span {
+    text-align: center;
+  }
+  
+  #cartoon {
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    background-image: url(imgs/cartoon-0.png);
+    background-size: cover;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    display: none;
+  }
+  
+  @media(max-width: 800px) {
+    #piechart {
+      max-height: 300px;
+    }
+    #noteBox {
+      font-size: 18px;
+      line-height: 26px;
+    }
+  }
+  
+  @media(max-width: 500px) {
+    #piechart {
+      max-height: 200px;
+    }
+    #noteBox {
+      font-size: 16px;
+      line-height: 24px;
+    }
+  }
+
+  #sourceType {
+    outline: 0;
+  }
+
+  .start-btn {
+    border-radius: 40px;
+    padding: 20px 95px;
+    color: #00aed8;
+    border-color: #00aed8;
+    background: #fff;
+    border-style: solid;
+  }
+
+  .start-btn:hover {
+    color: #fff;
+    font-size: 18px;
+    background: #00aed8;
+    border-style: none;
+  }
+
+  .start-btn:focus {
+    outline: 0;
+  }
+  </style>
+</head>
+
+<body>
+  <header>
+    <img src="imgs/logo.png">
+  </header>
+  <div id="panel">
+    <p style="display: none">
+      <label for="sessionId">Session:</label>
+      <input id="sessionId" placeholder="sessionid" size="8" />
+      <label for="password">Password:</label>
+      <input id="password" placeholder="password" size="8" />
+      <input type="radio" id="hostOption" name="openType" value="host" checked />
+      <label for="hostOption">host</label>
+      <input type="radio" id="openOption" name="openType" value="join" />
+      <label for="openOption">join</label>
+    </p>
+    <p style="display: none">
+      <label>Device ID:</label>
+      <input type="text" id="deviceId" size="8">
+      <label>Component:</label>
+      <select id="component">
+        <option value="matrix" selected="seleted">MaxMatrix ( 9 , 10 , 11 )</option>
+        <option value="rgb">RGB LED ( R9 , G10 , B11 )</option>
+      </select>
+    </p>
+    <p>&nbsp;</p>
+    <p>
+      <label>影像來源</label>
+      <div class="styled-select">
+        <select id="sourceType">
+          <option value="user">User Media</option>
+          <option value="remote">Signalling Server</option>
+          <!-- <option value="none">None</option> -->
+        </select>
+      </div>
+    </p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p align="center">
+      <button id="btn" class="start-btn" onclick="connect()">START</button>
+    </p>
+  </div>
+  <div id="screen">
+    <video id="video"></video>
+    <div id="cartoon"></div>
+    <div id="piechart"></div>
+    <div id="noteBox"></div>
+    <div id="tracksList"></div>
+  </div>
+  <script src="bower_components/firebase/firebase.js"></script>
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/facade.js/facade.min.js"></script>
+  <script src="lib/RTCMultiConnection.min.js"></script>
+  <script src="lib/RTCSession.js"></script>
+  <script src="lib/FaceAPI.js"></script>
+  <script src="//www.gstatic.com/charts/loader.js"></script>
+  <script src="//webduino.io/components/webduino-js/dist/webduino-all.min.js"></script>
+  <script src="//blockly.webduino.io/webduino-blockly.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+  <script>
+  var session, faceAPI, emotionAPI, descAPI, matrix, rgb, chart, faceData, matrix;
+  var params = {
+    "returnFaceLandmarks": true,
+    "returnFaceAttributes": "age,gender,headPose,smile,facialHair,glasses"
+  };
+  var screen = document.getElementById('screen');
+  var $screen = $('#screen');
+  var $noteBox = $('#noteBox');
+  var $cartoon = $('#cartoon');
+  var $window = $(window);
+  var $piechart = $('#piechart');
+  var deviceId = document.getElementById('deviceId');
+  var component = document.getElementById('component');
+
+  google.charts.load('current', {
+    'packages': ['corechart']
+  });
+  google.charts.setOnLoadCallback(initChart);
+
+  function initChart() {
+    chart = new google.visualization.PieChart(document.getElementById('piechart'));
+  }
+
+  function drawChart(title, data) {
+    var data = google.visualization.arrayToDataTable(data),
+      options = {
+        title: title,
+        pieSliceText: 'label',
+        pieHole: 0.4,
+        fontSize: 16,
+        // backgroundColor: {
+        //   strokeWidth: 1
+        // },
+        chartArea: {
+          width: '90%',
+          height: '90%'
+        },
+        legend: {
+          position: 'none'
+        }
+      };
+    chart.draw(data, options);
+    $piechart.height($piechart.width());
+    $noteBox.css({
+      top: $piechart.width() * 1.15 + 'px'
+    });
+  }
+
+  function connect() {
+    var sessionId = document.querySelector('#sessionId').value || document.querySelector('#sessionId').placeholder,
+      password = document.querySelector('#password').value || document.querySelector('#password').placeholder,
+      sourceType = document.querySelector('#sourceType').value,
+      openType = document.querySelector('input[name=openType]:checked').value,
+      doCapture = sourceType === 'user';
+
+    session = new RTCSession(sessionId, password, doCapture);
+    faceAPI = new FaceAPI('a58a3cfcb83c472485d70d57a27ed17f', 'detect');
+    emotionAPI = new FaceAPI('e3f40316644542acbfe1474ea28789f6', 'emotion');
+    descAPI = new FaceAPI('783b76c2be2940f3a05d2660f38b18f0', 'describe');
+    screen.style.display = 'block';
+
+    session.onstream = function(evt) {
+      evt.mediaElement.width = 640;
+      evt.mediaElement.style.float = 'left';
+      screen.replaceChild(evt.mediaElement, document.querySelector('video'));
+      delete session.onstream;
+      //document.querySelector('#btn').disabled = 'disabled';
+      document.body.removeChild(document.querySelector('#panel'));
+      faceAPI.detectAndShow(params, evt.mediaElement, 5000, test);
+      emotionAPI.detect(params, evt.mediaElement, 5000, piechartFormatter);
+    };
+    session.onstreamended = function(evt) {
+      faceAPI.stopDetect();
+      evt.mediaElement.style.opacity = 0;
+      setTimeout(function() {
+        if (evt.mediaElement.parentNode) {
+          evt.mediaElement.parentNode.removeChild(evt.mediaElement);
+        }
+      }, 1000);
+    };
+
+    session.onstatechange = function(state) {
+      if (state.name == 'request-rejected') {
+        alert(state.reason);
+      }
+    };
+
+    if (openType === 'host') {
+      session.open();
+    }
+
+    if (sourceType === 'remote') {
+      // session.attachRemote('ws://' + location.hostname + ':8080/stream/webrtc');
+      session.attachRemote('ws://faceapi.local:8080/stream/webrtc');
+    }
+    if (deviceId.value) {
+      boardReady(deviceId.value, function(board) {
+        board.systemReset();
+        board.samplingInterval = 250;
+        if (component.value == 'matrix') {
+          matrix = getMax7219(board, 9, 10, 11);
+          matrix.animateStop();
+          matrix.on("0000000000000000");
+          matrix.on('1026464040462610');
+        } else if (component.value == 'rgb') {
+          rgb = getRGBLed(board, 9, 10, 11);
+        }
+      });
+    }
+  }
+
+  function test(t) {
+    $('.faceBox').remove();
+    var male = 0,
+      female = 0,
+      glassNum = 0;
+    t.forEach(function(item, index) {
+      var color, sex, glass;
+      if (t[index].faceAttributes.gender == 'male') {
+        color = '#0cf';
+        sex = '男生';
+        male = male + 1;
+      } else {
+        color = '#f66';
+        sex = '女生';
+        female = female + 1;
+      }
+      if (t[index].faceAttributes.glasses == 'NoGlasses') {
+        glass = '沒有戴眼鏡';
+      } else {
+        glass = '戴眼鏡';
+        glassNum = glassNum + 1;
+      }
+      $screen.append('<div class="faceBox" style="top:' + t[index].faceRectangle.top + 'px; left:' + t[index].faceRectangle.left + 'px; height:' + t[index].faceRectangle.height + 'px; width:' + t[index].faceRectangle.width + 'px; transform:rotate(' + t[index].faceAttributes.headPose.roll + 'deg); border-color:' + color + ';"><div class="faceNote" style="color:' + color + ';">年齡 ' + t[index].faceAttributes.age + ' 歲<br/>' + sex + '<br/>' + glass + '</div></div>');
+
+      // $noteBox.html('共有 ' + t.length + ' 張人臉<br/>' + male + ' 個男生，' + female + ' 個女生<br/>' + glassNum + ' 副眼鏡');
+
+    });
+  }
+
+  function piechartFormatter(dataList) {
+    var data = [
+        ['情緒指數', '百分比']
+      ];
+    var moodTable = {
+        anger: {description: '生氣', stations: ['Relaxing', 'Chill Out']},
+        contempt: {description: '輕蔑', stations: ['Relaxing', 'Working Time', 'Vacation']},
+        disgust: {description: '厭惡', stations: ['Relaxing', 'Chill Out']},
+        fear: {description: '害怕', stations: ['Relaxing', 'Chill Out']},
+        happiness: {description: '高興', stations: ['Party Animal', 'Work Out', 'Vacation', 'Acoustic Pop', 'Romantic']},
+        neutral: {description: '無感', stations: ['Relaxing', 'Chill Out']},
+        sadness: {description: '傷心', stations: ['Tipsy Night', 'Relaxing']},
+        surprise: {description: '驚喜', stations: ['Party Animal', 'Hardcore']}
+      };
+    var suggestedStations = [];
+    var suggestedTracks = [];
+    
+    if (dataList && dataList.length) {
+      _.each(dataList, function (list) {
+        var scores = list.scores;
+        var sortedMoods = _.fromPairs(_.sortBy(_.toPairs(scores), function(a){return a[1]}).reverse());
+        var auth = 'Bearer L729YuzPvvS+iRD44HMOmQ==';
+
+        for (var topMood in sortedMoods) break;
+        var getStations = $.ajax({
+          // url: 'https://api.kkbox.com/v1.1/mood-stations?territory=TW',
+          url: 'data/mood-station.json',
+          type: 'get',
+          beforeSend: function (xhr) {
+            xhr.setRequestHeader ("Authorization", auth);
+          }
+        });
+
+        getStations.done(function (moodStations) {
+          _.each(moodTable[topMood].stations, function (station) {
+            var stationId = _.filter(moodStations.data, _.matches({'name': station}))[0].id;
+            var queryUrl = 'data/' + stationId + '.json';
+            suggestedStations.push(queryUrl);
+          });
+        }).done(function () {
+          var deferreds = [];
+          _.each(suggestedStations, function (suggestedStation) {
+            var ajax = $.ajax({
+              url: suggestedStation,
+              type: 'get',
+              beforeSend: function (xhr) {
+                xhr.setRequestHeader("Authorization", auth);
+              }
+            });
+            deferreds.push(ajax);
+          });
+          $.when.apply($, deferreds).then(function () {
+            // If all deferreds were resolved
+
+            var data = arguments;
+            var htmlText = '';
+            var tracksText = '';
+
+            $noteBox.html('');
+            data = _.map(data, function (station) {
+              return station[0];
+            });
+            data = _.uniqBy(data, function (station) {
+              return station.name;
+            });
+
+            _.each(data, function (station) {
+              var trackCount = 0;
+              htmlText += '<div><div style="text-align: center;">' + station.name + '</div><img src="' + station.images[0].url +'" style="width: 100px"></div>';
+              
+              station.tracks.data = _.shuffle(station.tracks.data);
+              _.each(station.tracks.data, function (track) {
+                trackCount ++;
+                if (trackCount <= 10) {
+                  tracksText += '<div class="track">'+
+                      '<img src="' + track.album.images[0].url + '">'+
+                      '<span>' + track.album.artist.name + ' - ' + track.name + '</span>'+
+                    '</div>';
+                } else {
+                  return;
+                }
+              });
+            });
+            $('#tracksList').html('<div class="close">X</div>' + tracksText);
+            $noteBox.off('click').html(htmlText).on('click', function () {
+              $('#tracksList').slideDown(200);
+            });
+
+            $('#tracksList .close').off('click').on('click', function () {
+              $('#tracksList').hide(200);
+            });
+          });
+        });
+
+        for (var prop in scores) {
+          data.push([moodTable[prop].description, scores[prop]]);
+        }
+      });
+      if (deviceId.value) {
+        showOnDevice(data);
+      }
+      drawChart('情緒指數', data);
+      var emotions = [
+        {description: '生氣', image: {path: 'imgs/cartoon-0.png'}},
+        {description: '輕蔑', image: {path: 'imgs/cartoon-0.png'}},
+        {description: '厭惡', image: {path: 'imgs/cartoon-2.png'}},
+        {description: '害怕', image: {path: 'imgs/cartoon-3.png'}},
+        {description: '高興', image: {path: 'imgs/cartoon-1.png'}},
+        {description: '無感', image: {path: 'imgs/cartoon-4.png'}},
+        {description: '傷心', image: {path: 'imgs/cartoon-5.png'}},
+        {description: '驚喜', image: {path: 'imgs/cartoon-6.png'}}
+      ];
+      var sortedData = _.sortBy(data, [function (a) {return a[1];}]);
+      $cartoon.css({
+        'background-image': 'url(' + _.find(emotions, function (o) { return o.description === sortedData[sortedData.length - 1][0]}).image.path + ')'
+      });
+      $cartoon.css({
+        'top': $piechart.offset().top - $screen.offset().top + $piechart.height() / 2 - $cartoon.height() / 2 + 'px',
+        'left': $piechart.offset().left - $screen.offset().left + $piechart.width() / 2 - $cartoon.width() / 2 + 'px',
+        'display':'block'
+      });
+    }
+  }
+
+  function showOnDevice(d) {
+    var emotion = [0, 0, 0, 0, 0, 0, 0];
+    var l = d.length;
+    for (var i = 0; i < l; i++) {
+      if (d[i][0] == '生氣') {
+        emotion[0] = emotion[0] + d[i][1];
+      }
+      if (d[i][0] == '輕蔑') {
+        emotion[1] = emotion[1] + d[i][1];
+      }
+      if (d[i][0] == '厭惡') {
+        emotion[2] = emotion[2] + d[i][1];
+      }
+      if (d[i][0] == '害怕') {
+        emotion[3] = emotion[3] + d[i][1];
+      }
+      if (d[i][0] == '高興') {
+        emotion[4] = emotion[4] + d[i][1];
+      }
+      if (d[i][0] == '傷心') {
+        emotion[5] = emotion[5] + d[i][1];
+      }
+      if (d[i][0] == '驚喜') {
+        emotion[6] = emotion[6] + d[i][1];
+      }
+    }
+    var max = Math.max.apply(Math, emotion);
+    emotion.forEach(function(item, index) {
+      if (component.value == 'matrix') {
+        if (emotion[index] == max) {
+          switch (index) {
+            case 0:
+              matrix.on('03c62c20202cc603');
+              break;
+            case 1:
+              matrix.on('2442444040444224');
+              break;
+            case 2:
+              matrix.on('11caa4a0a0a4ca11');
+              break;
+            case 3:
+              matrix.on('08c826202026c808');
+              break;
+            case 4:
+              matrix.on('244e848080844e24');
+              break;
+            case 5:
+              matrix.on('029e424040429e02');
+              break;
+            case 6:
+              matrix.on('3555959292955535');
+              break;
+          }
+        }
+      } else if (component.value == 'rgb') {
+        rgb.setColor('#000000');
+        if (emotion[index] == max) {
+          switch (index) {
+            case 0:
+              rgb.setColor('#ff0000');
+              break;
+            case 1:
+              rgb.setColor('#ff8888');
+              break;
+            case 2:
+              rgb.setColor('#999900');
+              break;
+            case 3:
+              rgb.setColor('#990099');
+              break;
+            case 4:
+              rgb.setColor('#ffff00');
+              break;
+            case 5:
+              rgb.setColor('#0000ff');
+              break;
+            case 6:
+              rgb.setColor('#ffffff');
+              break;
+          }
+        }
+      }
+    });
+  }
+  </script>
+</body>
+
+</html>

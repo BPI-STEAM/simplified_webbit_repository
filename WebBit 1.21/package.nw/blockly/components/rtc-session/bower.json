@@ -1,0 +1,15 @@
+{
+  "name": "rtc-session",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firebase": "^3.0.0",
+    "jquery": "^2.1",
+    "facade.js": "master"
+  }
+}

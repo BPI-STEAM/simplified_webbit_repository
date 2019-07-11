@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "StGZp2ToWq92diPHS7",
+      "name": "Work Out",
+      "images": [
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_616.png"
+        }
+      ]
+    },
+    {
+      "id": "CqKi7kny7nlTW42w5M",
+      "name": "Party Animal",
+      "images": [
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_617.png"
+        }
+      ]
+    },
+    {
+      "id": "CmJ_Y5mRTWygkTXsYl",
+      "name": "Relaxing",
+      "images": [
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_618.png"
+        }
+      ]
+    },
+    {
+      "id": "TZZ4fMCHdJNYqHEf-p",
+      "name": "Working Time",
+      "images": [
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_619.png"
+        }
+      ]
+    },
+    {
+      "id": "4tmrBI125HMtMlO9OF",
+      "name": "Romantic",
+      "images": [
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_620.png"
+        }
+      ]
+    },
+    {
+      "id": "8oxjHzAAeM8PU8KCw5",
+      "name": "Vacation",
+      "images": [
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_621.png"
+        }
+      ]
+    },
+    {
+      "id": "HXvnvb5yEReQJAiNMB",
+      "name": "Chill Out",
+      "images": [
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_622.png"
+        }
+      ]
+    },
+    {
+      "id": "9anYIPKMtg7NqGbiy4",
+      "name": "Tipsy Night",
+      "images": [
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_623.png"
+        }
+      ]
+    },
+    {
+      "id": "-msVbZnpWLE4CpWBJo",
+      "name": "Acoustic Pop",
+      "images": [
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_624.png"
+        }
+      ]
+    },
+    {
+      "id": "OkN0EhmweNQdIEGkor",
+      "name": "Hardcore",
+      "images": [
+        {
+          "height": 300,
+          "width": 300,
+          "url": "https://a.kfs.io/banner/theme-channel/grey_center/channel_625.png"
+        }
+      ]
+    }
+  ],
+  "paging": [],
+  "summary": []
+}

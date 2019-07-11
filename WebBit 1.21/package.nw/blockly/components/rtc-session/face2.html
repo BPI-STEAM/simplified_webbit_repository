@@ -1,0 +1,152 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <script src="bower_components/firebase/firebase.js"></script>
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/facade.js/facade.min.js"></script>
+  <script src="lib/RTCMultiConnection.min.js"></script>
+  <script src="lib/RTCSession.js"></script>
+  <script src="lib/FaceAPI.js"></script>
+  <script src="//www.gstatic.com/charts/loader.js"></script>
+  <script>
+  var chart;
+
+  google.charts.load('current', {
+    'packages': ['corechart']
+  });
+  google.charts.setOnLoadCallback(initChart);
+
+  function initChart() {
+    chart = new google.visualization.PieChart(document.getElementById('piechart'));
+  }
+
+  function drawChart(title, data) {
+    var data = google.visualization.arrayToDataTable(data),
+      options = {
+        title: title,
+        is3D: true,
+        pieSliceText: 'label',
+        fontSize: 20
+      };
+
+    chart.draw(data, options);
+  }
+  </script>
+</head>
+
+<body>
+  <div id="panel">
+    <p>
+      <label for="sessionId">Session</label>
+      <input id="sessionId" placeholder="sessionid" size="8" />
+      <label for="password">Password</label>
+      <input id="password" placeholder="password" size="8" />
+    </p>
+    <p>
+      <input type="radio" id="hostOption" name="openType" value="host" checked />
+      <label for="hostOption">host</label>
+      <input type="radio" id="openOption" name="openType" value="join" />
+      <label for="openOption">join</label>
+    </p>
+    <p>
+      <span>Source</span>
+      <select id="sourceType">
+        <option value="none">None</option>
+        <option value="remote">Signalling Server</option>
+        <option value="user">User Media</option>
+      </select>
+      <button id="btn" onclick="connect()">START</button>
+    </p>
+  </div>
+  <video></video>
+  <div id="piechart" style="width:480px;height:480px;float:left"></div>
+  <script>
+  var session, faceAPI, emotionAPI, descAPI;
+  var params = {
+    "returnFaceLandmarks": true,
+    "returnFaceAttributes": "age,gender,headPose,smile,facialHair,glasses"
+  };
+
+  function connect() {
+    var sessionId = document.querySelector('#sessionId').value || document.querySelector('#sessionId').placeholder,
+      password = document.querySelector('#password').value || document.querySelector('#password').placeholder,
+      sourceType = document.querySelector('#sourceType').value,
+      openType = document.querySelector('input[name=openType]:checked').value,
+      doCapture = sourceType === 'user';
+
+    session = new RTCSession(sessionId, password, doCapture);
+    faceAPI = new FaceAPI('d7968929cf5e4d45816bc18182c8c852', 'detect');
+    emotionAPI = new FaceAPI('425fab09e22842a8ac147b294449be98', 'emotion');
+    descAPI = new FaceAPI('783b76c2be2940f3a05d2660f38b18f0', 'describe');
+    // var faceAPI = new FaceAPI('d7968929cf5e4d45816bc18182c8c852'); // BizSpark + detect
+
+    session.onstream = function(evt) {
+      evt.mediaElement.width = 640;
+      evt.mediaElement.style.float = 'left';
+      document.body.replaceChild(evt.mediaElement, document.querySelector('video'));
+      delete session.onstream;
+      document.querySelector('#btn').disabled = 'disabled';
+      document.body.removeChild(document.querySelector('#panel'));
+      faceAPI.detectAndShow(params, evt.mediaElement, 3000);
+      emotionAPI.detect(params, evt.mediaElement, 3000, piechartFormatter);
+    };
+
+    session.onstreamended = function(evt) {
+      faceAPI.stopDetect();
+      evt.mediaElement.style.opacity = 0;
+      setTimeout(function() {
+        if (evt.mediaElement.parentNode) {
+          evt.mediaElement.parentNode.removeChild(evt.mediaElement);
+        }
+      }, 1000);
+    };
+
+    session.onstatechange = function(state) {
+      if (state.name == 'request-rejected') {
+        alert(state.reason);
+      }
+    };
+
+    if (openType === 'host') {
+      session.open();
+    }
+
+    if (sourceType === 'remote') {
+      session.attachRemote('ws://' + location.hostname + ':8080/stream/webrtc');
+    }
+  }
+
+  function piechartFormatter(dataList) {
+    var data = [
+        ['情緒指數', '百分比']
+      ],
+      moodTable = {
+        anger: '生氣',
+        contempt: '滿足',
+        disgust: '厭惡',
+        fear: '害怕',
+        happiness: '高興',
+        neutral: '無感',
+        sadness: '傷心',
+        surprise: '驚喜'
+      };
+
+    if (dataList && dataList.length) {
+      dataList.forEach(function(list) {
+        var scores = list.scores;
+        for (var prop in scores) {
+          if (prop !== 'neutral') {
+            data.push([moodTable[prop], scores[prop]]);
+          }
+        }
+      });
+      drawChart('情緒指數', data);
+    }
+  }
+  </script>
+</body>
+
+</html>
