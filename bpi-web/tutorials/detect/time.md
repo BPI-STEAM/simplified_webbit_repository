@@ -6,13 +6,13 @@
 
 「日期」积木能够取得目前的年、月、日，「时间」积木能够取得目前的小时、分钟、秒，小时采用 24 小时计算，如果是下午三点会显示 15。
 
-![日期＆时间](../images/zh-tw/docs/webbit/detect/time-01.jpg)
+![日期＆时间](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/time-01.jpg)
 
 ## 时钟
 
 因为取得日期和时间的积木「*只会取得一次*」目前的日期时间，所以如果要持续侦测，可以搭配重复回圈，每一秒侦测一次时间，网页执行后就能呈显时钟效果。
 
-![日期＆时间](../images/zh-tw/docs/webbit/detect/time-02.gif)
+![日期＆时间](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/time-02.gif)
 
 ## 闹钟
 
@@ -20,4 +20,4 @@
 
 > 判断时间到了之后，可以透过停止重复的积木将时间停止，避免时间继续显示。
 
-![日期＆时间](../images/zh-tw/docs/webbit/detect/time-03.gif)
+![日期＆时间](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/time-03.gif)

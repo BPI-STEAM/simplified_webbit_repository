@@ -6,7 +6,7 @@
 
 广播积木包含一块负责发送广播讯号的积木、一块负责接收广播讯号的积木和一块呈现广播讯号的积木。
 
-![网路广播](../images/zh-tw/docs/webbit/extension/broadcast-01.jpg)
+![网路广播](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/extension/broadcast-01.jpg)
 
 ## 发送广播讯息
 
@@ -14,7 +14,7 @@
 
 > 「发送广播讯息」积木属于「*发送完成才会继续执行后方程序*」的类型( 点击前方问号小图示会提示)，当编辑画面中有这块积木，*执行时当程序遇到这块积木会暂停，直到发送广播讯息后才会再继续*。
 
-![网路广播](../images/zh-tw/docs/webbit/extension/broadcast-02.jpg)
+![网路广播](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/extension/broadcast-02.jpg)
 
 ## 接收广播讯息
 
@@ -22,20 +22,20 @@
 
 > 「接收广播讯息」积木属于「*不间断收听频道*」的类型 ( 点击前方问号小图示会提示 )，不需要放在重复回圈内，就会自行不断收听频道讯息。
 
-![网路广播](../images/zh-tw/docs/webbit/extension/broadcast-03.jpg)
+![网路广播](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/extension/broadcast-03.jpg)
 
 举例来说，使用者A 可以在「点击小怪兽」的同时，向频道test 发送广播讯号，而使用者B 和C 负责收听test 频道，如果有收到，就让的小怪兽显示收到的广播讯号。
 
-![网路广播](../images/zh-tw/docs/webbit/extension/broadcast-04.gif)
+![网路广播](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/extension/broadcast-04.gif)
 
 又或者可以使用 开发板的按钮开关，按下 A 的时候向 test 频道发送文字 A，按下 B 的时候发送文字 B。
 
-![网路广播](../images/zh-tw/docs/webbit/extension/broadcast-05.jpg)
+![网路广播](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/extension/broadcast-05.jpg)
 
 收听 test 频道的的开发板可以撰写逻辑判断，当收到 A 的时候显示红色的 A，收到 B 的时候显示蓝色的 B。
 
-![网路广播](../images/zh-tw/docs/webbit/extension/broadcast-06.jpg)
+![网路广播](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/extension/broadcast-06.jpg)
 
 两块开发板的程序都执行后，点击负责发送广播的开发板的按钮开关，就可以看到另外一块开发板显示对应的讯号。
 
-![网路广播](../images/zh-tw/docs/webbit/extension/broadcast-07.gif)
+![网路广播](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/extension/broadcast-07.gif)

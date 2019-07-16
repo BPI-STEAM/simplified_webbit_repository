@@ -12,7 +12,7 @@
 
 打开安装版后，最上方会出现安装版的「版本号码」以及「扫描 USB 装置」的提示讯息，此时可以将 硬体开发板使用 USB 线连接电脑，让软件进行扫描。
 
-![硬体 ( 初始化设定 )](../images/zh-tw/docs/webbit/info/setup-01.jpg)
+![硬体 ( 初始化设定 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-01.jpg)
 
 扫描到开发板后，*上方会出现开发板的Device ID 以及版本号码*，接着按下电脑键盘的*`Ctrl + W`* 开启工具列，用滑鼠选择「*工具> 设定WiFi*」，开始进行初始化更新。
 
@@ -23,14 +23,14 @@
 > - [初始化方法 2：连线到开发板进行初始化](#step2)
 > - [更新韧体方法 2：透过 Wi-Fi 远端更新](ota.html#step2)
 
-![硬体 ( 初始化设定 )](../images/zh-tw/docs/webbit/info/setup-02.jpg)
+![硬体 ( 初始化设定 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-02.jpg)
 
 
 ### 步骤 2、设定 Wi-Fi SSID 与密码
 
 点选设定 WiFi 后，会弹出一个对话视窗，询问欲连线的 WiFi 基地台 SSID 名称和连线密码。 ( 这里就填入所在场所例如：公司、学校或家里的 Wi-Fi 基地台的帐号和密码 )
 
-![硬体 ( 初始化设定 )](../images/zh-tw/docs/webbit/info/setup-03.jpg)
+![硬体 ( 初始化设定 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-03.jpg)
 
 设定完成后，会弹出一个对话视窗，询问是否关闭USB 连线，如果选择「确定」，开发板就会透过刚刚设定的Wi-Fi SSID 与密码，连线到指定的Wi-Fi 基地台，如果选择「取消」，就会关闭Wi-Fi 连线功能，仅能使用USB 连线操作。
 
@@ -38,7 +38,7 @@
 
 > 简单来说，*在Wi-Fi 连线操控的状态下，可以使用远端操控* ( 例如将开发板接行动电源远离电脑、在公司或学校控制家里的开发板)，而*透过USB 操控必须将开发板连接控制的电脑*，虽然说无法远距操控，但可以在没有Wi-Fi 的情形下进行操作体验。
 
-![硬体 ( 初始化设定 )](../images/zh-tw/docs/webbit/info/setup-04.jpg)
+![硬体 ( 初始化设定 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-04.jpg)
 
 
 ## 初始化方法 2：连线到开发板进行初始化
@@ -49,11 +49,11 @@
 
 把接上电源，一开始在开发板正面的全彩LED 点矩阵，会透过跑马灯显示一串文字( *预设是bit 三个英文字加上四个数字* )，这串文字对应到电脑或行动装置WiFi 搜寻里的SSID 名称，例如显示bit1234，在WiFi 搜寻中就会看到bit1234 的名称，**注意，这串文字「不是」操控开发板的Device ID，是识别用的SSID** ！
 
-![硬体 ( 初始化设定 )](../images/zh-tw/docs/webbit/info/setup-05.gif)
+![硬体 ( 初始化设定 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-05.gif)
 
 由于开发板尚未初始化设定完成，也就无法连线至区域网路，所以一开始*会闪红灯，或者红灯恒亮*。这时请准备一台具备WiFi 功能的电脑、笔电或行动装置，使用这台装置进行Wi-Fi 搜寻刚刚看到为「bitXXXX」的装置( 以上述的例子就是搜寻bit1234 )，找到该装置后，输入预设密码*12345678*，进行连线。
 
-![硬体 ( 初始化设定 )](../images/zh-tw/docs/webbit/info/setup-06.jpg)
+![硬体 ( 初始化设定 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-06.jpg)
 
 
 ### 步骤 2、设定 WiFi 帐号密码与显示名称
@@ -65,8 +65,8 @@
 - **Device SSID、PWD**：装置*在 WiFi 搜寻中所显示的名称和密码*，若不填写会自动产生 SSID 以及预设密码 12345678。
 - **MQTT Server**：开发板要连接的伺服器，预设 Global，中国地区请选择 China。
 
-![硬体 ( 初始化设定 )](../images/zh-tw/docs/webbit/info/setup-07.jpg)
+![硬体 ( 初始化设定 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-07.jpg)
 
 设定完成后按下SUBMIT 储存，出现SAVE OK 的字样表示储存成功，此时开发板会重启并闪烁红灯，当红灯熄灭且绿灯亮起一次之后，表示Bit 开发板已经成功连结上家里或环境内的WiFi 基地台。 ( 若红灯持续闪烁或恒亮，请移除电源，重新操作步骤1 与步骤2，若红灯闪完后亮起「蓝灯」而不是绿灯，表示已有新版本可以进行下载更新，请参考[更新韧体](ota.html) 一文。 )
 
-![硬体 ( 初始化设定 )](../images/zh-tw/docs/webbit/info/setup-08.jpg)
+![硬体 ( 初始化设定 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-08.jpg)

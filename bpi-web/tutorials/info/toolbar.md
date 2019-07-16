@@ -8,7 +8,7 @@
 
 打开安装版之后按下电脑键盘的 *`Ctrl + W`* 可以打开工具列，工具列里分别有「*系统*」、「*工具*」和「*资讯*」三个主要功能列表。
 
-![编辑器 ( 安装版工具列 )](../images/zh-tw/docs/webbit/info/toolbar-01.gif)
+![编辑器 ( 安装版工具列 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/toolbar-01.gif)
 
 ### 系统 > 以浏览器开启
 
@@ -22,7 +22,7 @@
 
 在操作上也可以透过下拉选单区隔 Wi-Fi 操控或 USB 连线操控。 ( 详细操作方式会在后面的篇幅介绍 )
 
-![编辑器 ( 安装版工具列 )](../images/zh-tw/docs/webbit/info/toolbar-02.jpg)
+![编辑器 ( 安装版工具列 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/toolbar-02.jpg)
 
 ### 工具 > 设定 WiFi
 
@@ -37,7 +37,7 @@
 > - [更新韧体方法 2：透过 Wi-Fi 远端更新](ota.html#step2)
 
 
-![硬体 ( 初始化设定 )](../images/zh-tw/docs/webbit/info/setup-03.jpg)
+![硬体 ( 初始化设定 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-03.jpg)
 
 ### 工具 > 更新韧体
 
@@ -51,12 +51,12 @@
 > - [初始化方法 2：连线到开发板进行初始化](#step2)
 > - [更新韧体方法 2：透过 Wi-Fi 远端更新](ota.html#step2)
 
-![硬体 ( 更新韧体 )](../images/zh-tw/docs/webbit/info/ota-04.jpg)
+![硬体 ( 更新韧体 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-04.jpg)
 
-![硬体 ( 更新韧体 )](../images/zh-tw/docs/webbit/info/ota-02.jpg)
+![硬体 ( 更新韧体 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-02.jpg)
 
 ### 资讯 > 版本、复制装置 ID、快捷键说明
 
 版本功能会显示目前 的韧体版本，复制装置 ID 可以将 开发板的 Device ID 复制到剪贴簿，而快捷键会显示安装版支援的各种快捷键。
 
-![编辑器 ( 安装版工具列 )](../images/zh-tw/docs/webbit/info/toolbar-03.jpg)
+![编辑器 ( 安装版工具列 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/toolbar-03.jpg)

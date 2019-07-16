@@ -13,27 +13,27 @@
 > - [初始化方法 2：连线到开发板进行初始化](#step2)
 > - [更新韧体方法 2：透过 Wi-Fi 远端更新](ota.md#step2)
 
-![硬体 ( 更新韧体 )](../images/zh-tw/docs/webbit/info/ota-01.jpg)
+![硬体 ( 更新韧体 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-01.jpg)
 
 如果系统有侦测到有新版本韧体，也会在连接电脑后弹出视窗提示。
 
-![硬体 ( 更新韧体 )](../images/zh-tw/docs/webbit/info/ota-02.jpg)
+![硬体 ( 更新韧体 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-02.jpg)
 
 如果没有弹出视窗提示，亦会在上方的讯息文字里，出现提示更新的讯息。
 
-![硬体 ( 更新韧体 )](../images/zh-tw/docs/webbit/info/ota-04.jpg)
+![硬体 ( 更新韧体 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-04.jpg)
 
 点选更新后，会再度提示请勿关闭程序或移除 USB 线，按下确认后就开始更新。
 
-![硬体 ( 更新韧体 )](../images/zh-tw/docs/webbit/info/ota-03.jpg)
+![硬体 ( 更新韧体 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-03.jpg)
 
 更新时最上方的讯息文字，会同步显示更新的进度。
 
-![硬体 ( 更新韧体 )](../images/zh-tw/docs/webbit/info/ota-05.jpg)
+![硬体 ( 更新韧体 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-05.jpg)
 
 更新直到 100% 之后会显示目前的版本号码，表示 开发板韧体已经更新完成。 ( 下图范例已经从 0.1.07_0105 更新为 0.1.09_0401_01 )
 
-![硬体 ( 更新韧体 )](../images/zh-tw/docs/webbit/info/ota-06.jpg)
+![硬体 ( 更新韧体 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-06.jpg)
 
 ## 更新韧体方法 2：透过 Wi-Fi 远端更新
 
@@ -43,11 +43,11 @@
 - 步骤 2、移除开发板电源。
 - 步骤3、接上开发板电源，**在白色跑马灯灯显示文字的时候，按住按钮A，持续按住按钮A，直到开发板闪完红灯、绿灯熄灭上线后，此时会再听到蜂鸣器发出轻微的一个声响，再放开按钮A**。
 
-  ![硬体 ( 更新韧体 )](../images/zh-tw/docs/webbit/info/ota-06.gif)
+  ![硬体 ( 更新韧体 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-06.gif)
 
 - 步骤 4、完成后会看到开发板的点矩阵，由第一颗灯开始亮蓝灯，表示开始进行更新，*当蓝灯全部亮起接着熄灭后，表示更新完成*。
 
-  ![硬体 ( 更新韧体 )](../images/zh-tw/docs/webbit/info/ota-07.gif)
+  ![硬体 ( 更新韧体 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-07.gif)
 
 - 步骤6、更新完成后开发板会闪红灯自动进行连线，连线成功会亮绿灯后绿灯熄灭，表示远端更新完成，此时也可以透过WiFi 连线开发板，由192.168.4.1 进入设定画面，在设定画面最下方会看到开发板的版本号变成新的版本。
 

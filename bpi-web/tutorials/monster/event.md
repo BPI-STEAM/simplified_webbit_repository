@@ -6,7 +6,7 @@
 
 互动＆舞台的积木分别有滑鼠点击小怪兽、滑鼠接触小怪兽、小怪兽互相碰撞、小怪兽碰撞画面、碰到画面边缘就反弹、更换舞台背景和设定全萤幕。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-01.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-01.jpg)
 
 ## 滑鼠点击
 
@@ -14,11 +14,11 @@
 
 > 滑鼠点击积木「*不需要放在重复回圈内*」就可重复侦测。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-02.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-02.jpg)
 
 下图的例子，点击绿色小怪兽时会说话，点击红色小怪兽会放大，点击黄色小怪兽会旋转，点击蓝色小怪兽会改变情绪。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-03.gif)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-03.gif)
 
 ## 滑鼠碰触
 
@@ -26,11 +26,11 @@
 
 > 注意，离开的行为一定会接续在碰触之后，滑鼠碰触积木「*不需要放在重复回圈内*」就可重复侦测。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-04.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-04.jpg)
 
 下图的例子，在滑鼠碰触到绿色小怪兽时，小怪兽的情绪会开心，滑鼠离开后小怪兽又恢复正常的情绪。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-05.gif)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-05.gif)
 
 ## 互相碰触
 
@@ -38,11 +38,11 @@
 
 > 互相碰触积木「*只会侦测一次*」，必须*搭配重复回圈*，才能重复侦测。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-06.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-06.jpg)
 
 以下图为例，搭配重复回圈，就能不断侦测小怪兽是否互相碰触，用滑鼠拉动小怪兽，当俩俩互相碰到时，小怪兽就变成惊讶的情绪，分开后又恢复正常。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-07.gif)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-07.gif)
 
 ## 碰触舞台画面
 
@@ -50,11 +50,11 @@
 
 > 碰撞舞台画面积木「*只会侦测一次*」，必须*搭配重复回圈*，才能重复侦测。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-08.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-08.jpg)
 
 以下图为例，搭配重复回圈，就能让小怪兽碰到舞台画面上缘或下缘时，变成开心的情绪，碰到左边或右边则呈现生气的情绪，没有碰到时则是正常情绪。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-09.gif)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-09.gif)
 
 ## 碰触舞台画面就反弹
 
@@ -62,38 +62,38 @@
 
 > 碰触舞台画面就反弹积木「*只会侦测一次*」，必须*搭配重复回圈*，才能重复侦测。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-10.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-10.jpg)
 
 以下图为例，搭配重复回圈，就能让小怪兽碰到舞台画面移动，碰到舞台边缘时就会反弹。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-11.gif)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-11.gif)
 
 ## 更换舞台背景颜色或图片
 
 「更换舞台背景颜色」和「更换舞台背景图片」，可以改变怪兽舞台背景为指定的颜色或图片，图片只要填入图片网址，执行后就会更换。 ( 图片支援 jpg、jpeg、png 和 gif )
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-12.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-12.jpg)
 
 举例来说，找一张[清明上河图](https://theme.npm.edu.tw/opendata/att/collectionPic/04015934/17024347.jpg#_blank)的图片网址，将网址贴上在背景图片的文字积木内，网页执行后就会看见舞台背景变成清明上壳图了
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-13.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-13.jpg)
 
 ## 设定舞台为全萤幕
 
 「设定舞台为全萤幕」积木不影响任何操作，只会在「网页执行时」把怪兽互动舞台变成全萤幕大小。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-14.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-14.jpg)
 
 如果不想使用该功能，也可以手动操作，点选怪兽互动舞台右上方的小按钮，也可以进行全萤幕的切换。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-15.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-15.jpg)
 
 ## 取得舞台尺寸
 
 「取得舞台尺寸」积木可以取得当下怪兽互动舞台的宽度或高度。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-16.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-16.jpg)
 
 下图的例子会在网页执行的时候，绿色小怪兽讲出舞台宽度，红色小怪兽讲出舞台高度。
 
-![小怪兽互动＆舞台](../images/zh-tw/docs/webbit/monster/event-17.jpg)
+![小怪兽互动＆舞台](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/monster/event-17.jpg)

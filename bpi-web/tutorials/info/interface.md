@@ -18,17 +18,17 @@
 - **缩放按钮**：够快速缩放画面积木或删除积木。
 - **画面收折按钮**：快速收折开发板模拟器和小怪兽互动区，让积木编辑区域放大或缩小。
 
-![编辑器 ( 操作介面 )](../images/zh-tw/docs/webbit/info/interface-01.jpg)
+![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-01.jpg)
 
 ## 程序积木是什么？
 
 对于第一次接触的人来说，会不太清楚「程序积木」的由来，「积木」是翻译自「block」这个英文单字，其操作方式类似「组装积木」或「拼图」的概念，透过互相堆叠和搭配组合，就能判断不同的逻辑或依据指定的排列顺序，实现对应的动作。
 
-![编辑器 ( 操作介面 )](../images/zh-tw/docs/webbit/info/interface-02.gif)
+![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-02.gif)
 
 编辑器是基于Google 的图像式程序编辑工具Blockly 所开发出的编辑工具，每块积木都有对应的功能和用途，如果想了解该积木的使用方式，可以「*使用滑鼠在指定的积木上按右键*」，就能开启积木的功能列表，点击「教学」可以阅读该积木的教学文件，如果该积木有「小工具」，则可以点击小工具打开更多进阶功能。
 
-![编辑器 ( 操作介面 )](../images/zh-tw/docs/webbit/info/interface-03.jpg)
+![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-03.jpg)
 
 ## 云端部署
 
@@ -38,17 +38,17 @@
 > - *第一种，开发板网路断线超过 20 分钟。 *
 > - *第二种，重新云端部署，或点击编辑器的「执行」按钮。 *
 
-![编辑器 ( 操作介面 )](../images/zh-tw/docs/webbit/info/interface-06.jpg)
+![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-06.jpg)
 
 ## 网页版、安装版的主功能选单差异
 
 右上方的主功能选单，包含编辑器的主要功能，但「网页版」和「安装版」编辑器的选单略有不同，在网页版可以使用「档案> 分享连结」而安装版不行，分享连结可以帮助我们快速存档产生一段「网址」，下次再开启这个网址就可以开启档案，因为安装版无法开启网址，所以无法使用该选项。
 
-![编辑器 ( 操作介面 )](../images/zh-tw/docs/webbit/info/interface-04.jpg)
+![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-04.jpg)
 
 在网页版主选单的「更多」里头，也包含「下载安装版」的选项，点击后会下载安装版的压缩档，解压缩安装就可以使用安装版。 ( 目前安装版编辑器仅支援 Windows )
 
-![编辑器 ( 操作介面 )](../images/zh-tw/docs/webbit/info/interface-05.jpg)
+![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-05.jpg)
 
 ## 程序积木小技巧
 
@@ -56,10 +56,10 @@
 
 如果程序积木太长，我们可以用滑鼠在积木上按右键，若该积木支援多行输入，可以点选「*多行输入*」将积木由单行变成多行，也更方便阅读和编辑。
 
-![编辑器 ( 操作介面 )](../images/zh-tw/docs/webbit/info/interface-07.gif)
+![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-07.gif)
 
 ### 小技巧 2、整理积木
 
 在实作程序积木时，往往会遇到积木四面八方散落在画面上的状况，这时可以在编辑区域上按右键，选择「*整理积木*」将积木排列整齐。
 
-![编辑器 ( 操作介面 )](../images/zh-tw/docs/webbit/info/interface-08.gif)
+![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-08.gif)
