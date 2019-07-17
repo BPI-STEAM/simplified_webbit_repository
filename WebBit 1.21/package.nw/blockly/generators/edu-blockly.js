@@ -600,10 +600,10 @@ Blockly.JavaScript['bit_document_keycode'] = function (block) {
 };
 
 /*
-88 88b 88 88""Yb 88   88 888888 
-88 88Yb88 88__dP 88   88   88   
-88 88 Y88 88"""  Y8   8P   88   
-88 88  Y8 88     `YbodP'   88   
+88 88b 88 88""Yb 88   88 888888
+88 88Yb88 88__dP 88   88   88
+88 88 Y88 88"""  Y8   8P   88
+88 88  Y8 88     `YbodP'   88
 */
 
 Blockly.JavaScript['input_text_async'] = function (block) {
@@ -660,17 +660,19 @@ Blockly.JavaScript['speak_async_setting'] = function (block) {
 };
 
 /*
- 88""Yb  dP"Yb     db    88""Yb 8888b.  
-88__dP dP   Yb   dPYb   88__dP  8I  Yb 
-88""Yb Yb   dP  dP__Yb  88"Yb   8I  dY 
-88oodP  YbodP  dP""""Yb 88  Yb 8888Y" 
+ 88""Yb  dP"Yb     db    88""Yb 8888b.
+88__dP dP   Yb   dPYb   88__dP  8I  Yb
+88""Yb Yb   dP  dP__Yb  88"Yb   8I  dY
+88oodP  YbodP  dP""""Yb 88  Yb 8888Y"
 */
 
 Blockly.JavaScript['board'] = function (block) {
-  let dropdown_type_ = block.getFieldValue('type_');
-  let value_device_ = block.getFieldValue('device_');
-  let statements_callbacks_ = Blockly.JavaScript.statementToCode(block, 'callbacks_');
+  const dropdown_type_ = block.getFieldValue('type_');
+  const value_device_ = block.getFieldValue('device_');
+  const statements_callbacks_ = Blockly.JavaScript.statementToCode(block, 'callbacks_');
   let type, samplingInterval, detectTime;
+
+
   switch (dropdown_type_) {
     case 'bit':
       type = "{board: 'Bit', device: 'Webduino Bit', multi: true, transport: 'message', window: window.top.frames[0]}";
@@ -688,57 +690,21 @@ Blockly.JavaScript['board'] = function (block) {
       detectTime = '0';
       break;
   }
-  let arr = [0, 0, 0, 0, 0, 0, 0, 0]; // temp, left, right, azi, acc, gyr, mag, ang
-  if (statements_callbacks_.indexOf('_bit_detected_val_.temp') != -1) {
-    arr[0] = 1; // temp
-  }
-  if (statements_callbacks_.indexOf('_bit_detected_val_.left') != -1) {
-    arr[1] = 1; // left
-  }
-  if (statements_callbacks_.indexOf('_bit_detected_val_.right') != -1) {
-    arr[2] = 1; // right
-  }
-  if (statements_callbacks_.indexOf('_bit_mpu9250_val_.azi') != -1) {
-    arr[3] = 1; // azi
-  }
-  if (statements_callbacks_.indexOf('mpu9250Fn_.faceNorth') != -1 || statements_callbacks_.indexOf('mpu9250Fn_.faceWest') != -1 || statements_callbacks_.indexOf('mpu9250Fn_.faceSouth') != -1 || statements_callbacks_.indexOf('mpu9250Fn_.faceEast') != -1) {
-    arr[3] = 1; // azi
-  }
-  if (statements_callbacks_.indexOf('_bit_mpu9250_val_.acc') != -1 || statements_callbacks_.indexOf('mpu9250Fn_.faceBack') != -1 || statements_callbacks_.indexOf('mpu9250Fn_.faceFront') != -1) {
-    arr[4] = 1; // acc
-  }
-  if (statements_callbacks_.indexOf('_bit_mpu9250_val_.gyr') != -1 || statements_callbacks_.indexOf('mpu9250Fn_.shake') != -1 || statements_callbacks_.indexOf('mpu9250Fn_.peace') != -1) {
-    arr[5] = 1; // gyr
-  }
-  if (statements_callbacks_.indexOf('_bit_mpu9250_val_.mag') != -1) {
-    arr[6] = 1; // mag
-  }
-  if (statements_callbacks_.indexOf('_bit_mpu9250_val_.row') != -1 || statements_callbacks_.indexOf('_bit_mpu9250_val_.pitch') != -1 || statements_callbacks_.indexOf('_bit_mpu9250_val_.yaw') != -1) {
-    arr[7] = 1; // ang
-  }
-  if (statements_callbacks_.indexOf('mpu9250Fn_.row') != -1 || statements_callbacks_.indexOf('mpu9250Fn_.pitch') != -1 || statements_callbacks_.indexOf('_bit_mpu9250_val_.yaw') != -1 || statements_callbacks_.indexOf('mpu9250Fn_.turn') != -1) {
-    arr[7] = 1; // ang
-  }
-  let sumArr = arr.reduce(function (x, y) { return x + y; });
-  let detectCode = '';
-  if (sumArr > 0) {
-    detectCode = 'await detectInit_(_board_, ' + arr + ');\n';
-  }
 
   let code = 'boardReady(' + type + ',async function (board) {\n' +
     'let _board_ = await boardInit_(board, ' + samplingInterval + ', ' + detectTime + ');\n' +
-    detectCode + '\n' +
-    '// main\n'+
+    /* See `Blockly.JavaScript['workspaceToCode]` in code.js */
+    '// sensor init' +
     statements_callbacks_ + '\n' +
     '});\n';
   return code;
 };
 
-/* 
-8b    d8    db    888888 88""Yb 88 Yb  dP 
-88b  d88   dPYb     88   88__dP 88  YbdP  
-88YbdP88  dP__Yb    88   88"Yb  88  dPYb  
-88 YY 88 dP""""Yb   88   88  Yb 88 dP  Yb 
+/*
+8b    d8    db    888888 88""Yb 88 Yb  dP
+88b  d88   dPYb     88   88__dP 88  YbdP
+88YbdP88  dP__Yb    88   88"Yb  88  dPYb
+88 YY 88 dP""""Yb   88   88  Yb 88 dP  Yb
 */
 
 let matrixColorChange = function (color) {
@@ -845,11 +811,11 @@ Blockly.JavaScript['bit_matrix_emoji'] = function (block) {
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 
-/* 
-88""Yb 88   88 888888 888888  dP"Yb  88b 88 
-88__dP 88   88   88     88   dP   Yb 88Yb88 
-88""Yb Y8   8P   88     88   Yb   dP 88 Y88 
-88oodP `YbodP'   88     88    YbodP  88  Y8 
+/*
+88""Yb 88   88 888888 888888  dP"Yb  88b 88
+88__dP 88   88   88     88   dP   Yb 88Yb88
+88""Yb Y8   8P   88     88   Yb   dP 88 Y88
+88oodP `YbodP'   88     88    YbodP  88  Y8
 */
 
 Blockly.JavaScript['bit_button_event'] = function (block) {
@@ -868,7 +834,7 @@ Blockly.JavaScript['bit_button_event'] = function (block) {
         );`
       break;
     case Buttons[2]:
-      code = `btnsEvent_('${dropdown_event_}', 
+      code = `btnsEvent_('${dropdown_event_}',
         async function () { ${statements_do_} }, [_board_.${Buttons[0]}, _board_.${Buttons[1]}]
         );`;
     default:
@@ -880,10 +846,10 @@ Blockly.JavaScript['bit_button_event'] = function (block) {
 
 
 /*
-8888b.  888888 888888 888888  dP""b8 888888 888888 8888b.  
- 8I  Yb 88__     88   88__   dP   `"   88   88__    8I  Yb 
- 8I  dY 88""     88   88""   Yb        88   88""    8I  dY 
-8888Y"  888888   88   888888  YboodP   88   888888 8888Y"  
+8888b.  888888 888888 888888  dP""b8 888888 888888 8888b.
+ 8I  Yb 88__     88   88__   dP   `"   88   88__    8I  Yb
+ 8I  dY 88""     88   88""   Yb        88   88""    8I  dY
+8888Y"  888888   88   888888  YboodP   88   888888 8888Y"
 */
 
 let fn_detectState = ['window._detectStart_ = true;'];
@@ -925,10 +891,10 @@ Blockly.JavaScript['bit_detected_stop'] = function (block) {
 
 
 /*
-88""Yb 88   88 8888P 8888P 888888 88""Yb 
-88__dP 88   88   dP    dP  88__   88__dP 
-88""Yb Y8   8P  dP    dP   88""   88"Yb  
-88oodP `YbodP' d8888 d8888 888888 88  Yb 
+88""Yb 88   88 8888P 8888P 888888 88""Yb
+88__dP 88   88   dP    dP  88__   88__dP
+88""Yb Y8   8P  dP    dP   88""   88"Yb
+88oodP `YbodP' d8888 d8888 888888 88  Yb
 */
 
 Blockly.JavaScript['buzzer_play_plus'] = function (block) {
@@ -1147,10 +1113,10 @@ Blockly.JavaScript['buzzer_load_music'] = function (block) {
 };
 
 /*
-8b    d8 88""Yb 88   88 dP""Yb oP"Yb. 888888  dP"Yb  
-88b  d88 88__dP 88   88 Ybood8 "' dP' 88oo." dP   Yb 
-88YbdP88 88"""  Y8   8P   .8P'   dP'     `8b Yb   dP 
-88 YY 88 88     `YbodP'  .dP'  .d8888 8888P'  YbodP  
+8b    d8 88""Yb 88   88 dP""Yb oP"Yb. 888888  dP"Yb
+88b  d88 88__dP 88   88 Ybood8 "' dP' 88oo." dP   Yb
+88YbdP88 88"""  Y8   8P   .8P'   dP'     `8b Yb   dP
+88 YY 88 88     `YbodP'  .dP'  .d8888 8888P'  YbodP
 */
 
 Blockly.JavaScript['mpu9250_detected'] = function (block) {
@@ -1224,10 +1190,10 @@ Blockly.JavaScript['mpu9250_detected_type'] = function (block) {
 };
 
 /*
-8888b.  888888 8b    d8  dP"Yb  
- 8I  Yb 88__   88b  d88 dP   Yb 
- 8I  dY 88""   88YbdP88 Yb   dP 
-8888Y"  888888 88 YY 88  YbodP  
+8888b.  888888 8b    d8  dP"Yb
+ 8I  Yb 88__   88b  d88 dP   Yb
+ 8I  dY 88""   88YbdP88 Yb   dP
+8888Y"  888888 88 YY 88  YbodP
 */
 
 
@@ -1747,9 +1713,9 @@ let fn_sound_load = [
 ];
 
 /*
-.dP"Y8  dP"Yb  88   88 88b 88 8888b.  
-`Ybo." dP   Yb 88   88 88Yb88  8I  Yb 
-o.`Y8b Yb   dP Y8   8P 88 Y88  8I  dY 
+.dP"Y8  dP"Yb  88   88 88b 88 8888b.
+`Ybo." dP   Yb 88   88 88Yb88  8I  Yb
+o.`Y8b Yb   dP Y8   8P 88 Y88  8I  dY
 8bodP'  YbodP  `YbodP' 88  Y8 8888Y"
 */
 
@@ -1778,7 +1744,7 @@ Blockly.JavaScript['sound_01'] = function (block) {
     Blockly.JavaScript.provideFunction_('fn_lists_sound_01', fn_lists_sound_01);
     code = '$(\'.sound.\'+lists_random_item(sound_list_01, false))[0].play();\n';
   } else {
-    code = 
+    code =
     code = '$(\'.sound.' + dropdown_sound_ + '\')[0].pause();\n' +
       '$(\'.sound.' + dropdown_sound_ + '\')[0].currentTime = 0;\n' +
     '$(\'.sound.' + dropdown_sound_ + '\')[0].play();\n';
@@ -1814,7 +1780,7 @@ Blockly.JavaScript['sound_02'] = function (block) {
     Blockly.JavaScript.provideFunction_('fn_lists_sound_02', fn_lists_sound_02);
     code = '$(\'.sound.\'+lists_random_item(sound_list_02, false))[0].play();\n';
   } else {
-    code = 
+    code =
     code = '$(\'.sound.' + dropdown_sound_ + '\')[0].pause();\n' +
       '$(\'.sound.' + dropdown_sound_ + '\')[0].currentTime = 0;\n' +
     '$(\'.sound.' + dropdown_sound_ + '\')[0].play();\n';
@@ -1846,7 +1812,7 @@ Blockly.JavaScript['sound_03'] = function (block) {
     Blockly.JavaScript.provideFunction_('fn_lists_sound_03', fn_lists_sound_03);
     code = '$(\'.sound.\'+lists_random_item(sound_list_03, false))[0].play();\n';
   } else {
-    code = 
+    code =
     code = '$(\'.sound.' + dropdown_sound_ + '\')[0].pause();\n' +
       '$(\'.sound.' + dropdown_sound_ + '\')[0].currentTime = 0;\n' +
     '$(\'.sound.' + dropdown_sound_ + '\')[0].play();\n';
@@ -1856,10 +1822,10 @@ Blockly.JavaScript['sound_03'] = function (block) {
 
 
 /*
-.dP"Y8 88""Yb 888888 888888  dP""b8 88  88 
-`Ybo." 88__dP 88__   88__   dP   `" 88  88 
-o.`Y8b 88"""  88""   88""   Yb      888888 
-8bodP' 88     888888 888888  YboodP 88  88 
+.dP"Y8 88""Yb 888888 888888  dP""b8 88  88
+`Ybo." 88__dP 88__   88__   dP   `" 88  88
+o.`Y8b 88"""  88""   88""   Yb      888888
+8bodP' 88     888888 888888  YboodP 88  88
 */
 
 Blockly.JavaScript['speech_recognition'] = function (block) {
@@ -1871,4 +1837,32 @@ Blockly.JavaScript['speech_recognition'] = function (block) {
 Blockly.JavaScript['speech_recognition_value'] = function (block) {
   var code = 'speechValue_';
   return [code, Blockly.JavaScript.ORDER_NONE];
+};
+
+
+
+Blockly.JavaScript['pin_read_digital'] = function (block) {
+  var pin = block.getFieldValue('pin_');
+  var code = 'await Pin.init(board, ' + pin + ', 0).read()';
+  return [code, Blockly.JavaScript.ORDER_FUNCTION_CALL];
+};
+
+Blockly.JavaScript['pin_read_analog'] = function (block) {
+  var pin = block.getFieldValue('pin_');
+  var code = 'await Pin.init(board, ' + pin + ', 2).read()';
+  return [code, Blockly.JavaScript.ORDER_FUNCTION_CALL];
+};
+
+Blockly.JavaScript['pin_write_digital'] = function (block) {
+  var pin = block.getFieldValue('pin_');
+  var value = Blockly.JavaScript.valueToCode(block, 'value_', Blockly.JavaScript.ORDER_ATOMIC);
+  var code = 'Pin.init(board, ' + pin + ', 1).write(' + value + ');\n';
+  return code;
+};
+
+Blockly.JavaScript['pin_write_analog'] = function (block) {
+  var pin = block.getFieldValue('pin_');
+  var value = Blockly.JavaScript.valueToCode(block, 'value_', Blockly.JavaScript.ORDER_ATOMIC);
+  var code = 'Pin.init(board, ' + pin + ', 3).write(' + value + ');\n';
+  return code;
 };

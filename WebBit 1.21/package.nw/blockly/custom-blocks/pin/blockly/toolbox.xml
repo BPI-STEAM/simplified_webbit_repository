@@ -1,0 +1,18 @@
+<category id="catPin" COLOUR="50" index="98">
+  <block type="pin_read_digital"></block>
+  <block type="pin_read_analog"></block>
+  <block type="pin_write_analog">
+    <value name="value_">
+      <block type="math_number">
+        <field name="NUM">0</field>
+      </block>
+    </value>
+  </block>
+  <block type="pin_write_digital">
+    <value name="value_">
+      <block type="math_number">
+        <field name="NUM">0</field>
+      </block>
+    </value>
+  </block>
+</category>

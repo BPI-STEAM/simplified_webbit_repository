@@ -1,4 +1,4 @@
-<category id="catLine"  COLOUR="120">
+<category id="catLine"  COLOUR="30" index="4">
   <block type="line_notify">
     <value name="line_notify_token">
       <block type="text">

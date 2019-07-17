@@ -1,4 +1,4 @@
-<category id="catBroadcast"  COLOUR="20">
+<category id="catBroadcast"  COLOUR="20" index="3">
   <block type="radio_channel_set">
     <value name="msg_">
       <block type="text">

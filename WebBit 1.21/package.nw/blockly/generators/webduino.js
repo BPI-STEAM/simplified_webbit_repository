@@ -1047,51 +1047,6 @@ Blockly.JavaScript['board_pin_state'] = function (block) {
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 
-Blockly.JavaScript['pin_get'] = function (block) {
-  var input_pin_block = block.getInputTargetBlock('pin');
-  var value_pin = Blockly.JavaScript.valueToCode(block, 'pin', Blockly.JavaScript.ORDER_ATOMIC);
-  var code = 'getPin(' + (input_pin_block.type === 'pin_board' ? '' : 'board, ') + value_pin + ')';
-  return [code, Blockly.JavaScript.ORDER_FUNCTION_CALL];
-};
-
-Blockly.JavaScript['bit_pin_get'] = function (block) {
-  var dropdown_pin_ = block.getFieldValue('pin_');
-  var code = 'getPin(board, bitGPIO(' + dropdown_pin_ + '))';
-  return [code, Blockly.JavaScript.ORDER_FUNCTION_CALL];
-};
-
-Blockly.JavaScript['pin_num'] = function (block) {
-  var dropdown_pin_ = block.getFieldValue('pin_');
-  var code = dropdown_pin_;
-  return [code, Blockly.JavaScript.ORDER_ATOMIC];
-};
-
-Blockly.JavaScript['pin_board'] = function (block) {
-  var dropdown_board_ = block.getFieldValue('board_');
-  var value_pin_ = Blockly.JavaScript.valueToCode(block, 'pin_', Blockly.JavaScript.ORDER_ATOMIC);
-  var code = dropdown_board_ + ', ' + value_pin_;
-  return [code, Blockly.JavaScript.ORDER_ATOMIC];
-};
-
-Blockly.JavaScript['pin_set_mode'] = function (block) {
-  var variable_pin_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('pin_'), Blockly.Variables.NAME_TYPE);
-  var dropdown_mode_ = block.getFieldValue('mode_');
-  var code = variable_pin_ + '.setMode(' + dropdown_mode_ + ');\n';
-  return code;
-};
-
-Blockly.JavaScript['pin_read'] = function (block) {
-  var variable_pin_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('pin_'), Blockly.Variables.NAME_TYPE);
-  var code = 'await ' + variable_pin_ + '.read()';
-  return [code, Blockly.JavaScript.ORDER_FUNCTION_CALL];
-};
-
-Blockly.JavaScript['pin_write'] = function (block) {
-  var variable_pin_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('pin_'), Blockly.Variables.NAME_TYPE);
-  var value_value_ = Blockly.JavaScript.valueToCode(block, 'value_', Blockly.JavaScript.ORDER_ATOMIC);
-  var code = variable_pin_ + '.write(' + value_value_ + ');\n';
-  return code;
-};
 
 Blockly.JavaScript['led_new'] = function (block) {
   var dropdown_pin_ = block.getFieldValue('pin_');
@@ -1202,45 +1157,6 @@ Blockly.JavaScript['delay'] = function (block) {
 };
 
 
-Blockly.JavaScript['ultrasonic_new'] = function (block) {
-  var dropdown_trig_ = block.getFieldValue('trig_');
-  var dropdown_echo_ = block.getFieldValue('echo_');
-  var code = 'getUltrasonic(board, bitGPIO(' + dropdown_trig_ + '), bitGPIO(' + dropdown_echo_ + '))';
-  return [code, Blockly.JavaScript.ORDER_FUNCTION_CALL];
-};
-
-
-Blockly.JavaScript['ultrasonic_get'] = function (block) {
-  var variable_var_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('var_'), Blockly.Variables.NAME_TYPE);
-  var value_time = Blockly.JavaScript.valueToCode(block, 'time', Blockly.JavaScript.ORDER_ATOMIC);
-  var statements_do = Blockly.JavaScript.statementToCode(block, 'do');
-  var code = variable_var_ + '.ping(async function(cm){\n' +
-    '  console.log(' + variable_var_ + '.distance);\n' +
-    statements_do +
-    '}, ' + value_time + ');\n';
-  return code;
-};
-
-
-Blockly.JavaScript['ultrasonic_get_promise'] = function (block) {
-  var variable_var_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('var_'), Blockly.Variables.NAME_TYPE);
-  var code = 'await ' + variable_var_ + '.ping();\n';
-  return code;
-};
-
-Blockly.JavaScript['ultrasonic_stop'] = function (block) {
-  var variable_var_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('var_'), Blockly.Variables.NAME_TYPE);
-  var code = variable_var_ + '.stopPing();\n';
-  return code;
-};
-
-Blockly.JavaScript['ultrasonic_distance'] = function (block) {
-  var variable_var_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('var_'), Blockly.Variables.NAME_TYPE);
-  var code = variable_var_ + '.distance';
-  return [code, Blockly.JavaScript.ORDER_ATOMIC];
-};
-
-
 Blockly.JavaScript['pir_new'] = function (block) {
   var dropdown_pin_ = block.getFieldValue('pin_');
   var code = 'getPir(board, ' + dropdown_pin_ + ')';
@@ -1255,33 +1171,6 @@ Blockly.JavaScript['pir_status'] = function (block) {
   var code = variable_item_ + '.on("' + dropdown_status_ + '", async function(){\n' +
     statements_var_ + '\n' +
     '});\n';
-  return code;
-};
-
-
-Blockly.JavaScript['sound_new'] = function (block) {
-  var dropdown_pin_ = block.getFieldValue('pin_');
-  var code = 'getSound(board, ' + dropdown_pin_ + ')';
-  return [code, Blockly.JavaScript.ORDER_FUNCTION_CALL];
-};
-
-
-Blockly.JavaScript['sound_status'] = function (block) {
-  var variable_item_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('item_'), Blockly.Variables.NAME_TYPE);
-  var dropdown_status_ = block.getFieldValue('status_');
-  var statements_var_ = Blockly.JavaScript.statementToCode(block, 'var_');
-  var code;
-  if (dropdown_status_ == 'detected') {
-    code = variable_item_ + '.on("' + dropdown_status_ + '", async function(){\n' +
-      '  ' + statements_var_ + '\n' +
-      '});\n';
-  } else {
-    code = variable_item_ + '.on("' + dropdown_status_ + '", async function(){\n' +
-      '  setTimeout(async function(){\n' +
-      '  ' + statements_var_ + '\n' +
-      '  },300);\n' +
-      '});\n';
-  }
   return code;
 };
 
@@ -1354,23 +1243,6 @@ Blockly.JavaScript['servo_new'] = function (block) {
   var dropdown_pin_ = block.getFieldValue('pin_');
   var code = 'getServo(board, bitGPIO(' + dropdown_pin_ + '))';
   return [code, Blockly.JavaScript.ORDER_FUNCTION_CALL];
-};
-
-
-Blockly.JavaScript['servo_angle'] = function (block) {
-  var variable_var_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('var_'), Blockly.Variables.NAME_TYPE);
-  var angle_angle_ = block.getFieldValue('angle_');
-  if (angle_angle_ <= 5) {
-    angle_angle_ = 5;
-  }
-  if (angle_angle_ > 270) {
-    angle_angle_ = 5;
-  }
-  if (angle_angle_ >= 175 && angle_angle_ <= 270) {
-    angle_angle_ = 175;
-  }
-  var code = variable_var_ + '.angle = ' + angle_angle_ + ';\n';
-  return code;
 };
 
 
@@ -1494,33 +1366,6 @@ Blockly.JavaScript['new_object'] = function (block) {
     '}';
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
-
-
-Blockly.JavaScript['car_test_new'] = function (block) {
-  var value_var_ = Blockly.JavaScript.valueToCode(block, 'var_', Blockly.JavaScript.ORDER_ATOMIC);
-  var dropdown_rf_ = block.getFieldValue('rf_');
-  var dropdown_rb_ = block.getFieldValue('rb_');
-  var dropdown_lf_ = block.getFieldValue('lf_');
-  var dropdown_lb_ = block.getFieldValue('lb_');
-  var code = value_var_ + ' = getToyCar(board, ' + dropdown_rf_ + ', ' + dropdown_rb_ + ', ' + dropdown_lf_ + ', ' + dropdown_lb_ + ');\n';
-  return code;
-};
-
-
-Blockly.JavaScript['car_test_move'] = function (block) {
-  var variable_var_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('var_'), Blockly.Variables.NAME_TYPE);
-  var dropdown_move_ = block.getFieldValue('move_');
-  var code = variable_var_ + '.' + dropdown_move_ + '();\n';
-  return code;
-};
-
-Blockly.JavaScript['car_speed'] = function (block) {
-  var variable_var_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('var_'), Blockly.Variables.NAME_TYPE);
-  var dropdown_speed_ = Blockly.JavaScript.valueToCode(block, 'speed_', Blockly.JavaScript.ORDER_ATOMIC);
-  var dropdown_tire_ = block.getFieldValue('tire_');
-  var code = variable_var_ + '.' + dropdown_tire_ + '(' + dropdown_speed_ + ');\n';
-  return code;
-}
 
 
 Blockly.JavaScript['temp_data_set'] = function (block) {
@@ -2070,58 +1915,6 @@ Blockly.JavaScript['soil_val'] = function (block) {
 Blockly.JavaScript['soil_stop'] = function (block) {
   var variable_name_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('name_'), Blockly.Variables.NAME_TYPE);
   var code = variable_name_ + '.off();\n';
-  return code;
-};
-
-
-Blockly.JavaScript['irrecv_new'] = function (block) {
-  var dropdown_pin_ = block.getFieldValue('pin_');
-  var code = 'getIRRecv(board, ' + dropdown_pin_ + ')';
-  return [code, Blockly.JavaScript.ORDER_FUNCTION_CALL];
-};
-
-
-Blockly.JavaScript['irrecv_on'] = function (block) {
-  var variable_name_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('name_'), Blockly.Variables.NAME_TYPE);
-  var statements_on_ = Blockly.JavaScript.statementToCode(block, 'on_');
-  var code = variable_name_ + '.receive(async function(val){\n' +
-    '  ' + variable_name_ + '.onVal = val;\n' +
-    statements_on_ +
-    '},function(){});\n';
-  return code;
-};
-
-
-Blockly.JavaScript['irrecv_val'] = function (block) {
-  var variable_name_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('name_'), Blockly.Variables.NAME_TYPE);
-  var code = variable_name_ + '.onVal';
-  return [code, Blockly.JavaScript.ORDER_ATOMIC];
-};
-
-
-Blockly.JavaScript['irrecv_off'] = function (block) {
-  var variable_name_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('name_'), Blockly.Variables.NAME_TYPE);
-  var code = variable_name_ + '.off();\n';
-  return code;
-};
-
-
-Blockly.JavaScript['irled_new'] = function (block) {
-  var dropdown_pin_ = block.getFieldValue('pin_');
-  var code = 'getIRLed(board, "ffffffff")';
-  return [code, Blockly.JavaScript.ORDER_FUNCTION_CALL];
-};
-
-
-Blockly.JavaScript['irled_launch'] = function (block) {
-  var variable_name_ = Blockly.JavaScript.variableDB_.getName(block.getFieldValue('name_'), Blockly.Variables.NAME_TYPE);
-  var value_code_ = Blockly.JavaScript.valueToCode(block, 'code_', Blockly.JavaScript.ORDER_ATOMIC);
-  var code;
-  if (value_code_.length > 2) {
-    code = variable_name_ + '.send(' + value_code_ + ');\n';
-  } else {
-    code = variable_name_ + '.send("ffffffff");\n';
-  }
   return code;
 };
 

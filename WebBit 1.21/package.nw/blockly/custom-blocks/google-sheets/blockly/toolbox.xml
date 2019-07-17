@@ -1,4 +1,4 @@
-<category id="catGoogleSheetsPlus" COLOUR="90">
+<category id="catGoogleSheetsPlus" COLOUR="90" index="1">
   <block type="sheet_init">
     <value name="sheetUrl">
       <block type="text">

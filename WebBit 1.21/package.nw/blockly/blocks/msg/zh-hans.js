@@ -287,17 +287,17 @@ Blockly.Msg.WEBDUINO_SPEAK_R05 = "很慢";
 
 // Repeat
 
-Blockly.Msg.WEBDUINO_STATUS_REPEAT = "状态切换，循环";
+Blockly.Msg.WEBDUINO_STATUS_REPEAT = "状态切换，重复";
 Blockly.Msg.WEBDUINO_STATUS_NUM = "次";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_STATUSNUM = "状态 ";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_DELAY = " 持续";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_SECS = "秒";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_ADD = "加入状态";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_STATUS = "状态";
-Blockly.Msg.WEBDUINO_STATUS_FOREVER = "状态不停循环";
+Blockly.Msg.WEBDUINO_STATUS_FOREVER = "状态不停重复";
 Blockly.Msg.WEBDUINO_STATUS_FOREVER_NAME = "名称";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_STOP = "停止";
-Blockly.Msg.WEBDUINO_STATUS_REPEAT_STOPCONTENT = "的不停循环";
+Blockly.Msg.WEBDUINO_STATUS_REPEAT_STOPCONTENT = "的不停重复";
 
 // Text logic
 
@@ -359,21 +359,6 @@ Blockly.Msg.WEBDUINO_SMART = "Smart";
 Blockly.Msg.WEBDUINO_MARK = "马克1号";
 Blockly.Msg.WEBDUINO_FLY = "Fly";
 
-// I/O Pins
-
-Blockly.Msg.WEBDUINO_PIN = "脚位";
-Blockly.Msg.WEBDUINO_BIT_PIN = "bit 脚位";
-Blockly.Msg.WEBDUINO_PIN_ON = "于";
-Blockly.Msg.WEBDUINO_PIN_READ = "读取";
-Blockly.Msg.WEBDUINO_PIN_WRITE = "输出";
-Blockly.Msg.WEBDUINO_PIN_VALUE = "数值";
-Blockly.Msg.WEBDUINO_PIN_SET = "设定";
-Blockly.Msg.WEBDUINO_PIN_MODE = "模式";
-Blockly.Msg.WEBDUINO_PIN_DIN = "数位输入";
-Blockly.Msg.WEBDUINO_PIN_DOUT = "数位输出";
-Blockly.Msg.WEBDUINO_PIN_AIN = "类比输入";
-Blockly.Msg.WEBDUINO_PIN_AOUT = "类比输出 (PWM)";
-
 // LED
 
 Blockly.Msg.WEBDUINO_LED = "LED 灯";
@@ -402,17 +387,6 @@ Blockly.Msg.WEBDUINO_RGBLED_RED = "红";
 Blockly.Msg.WEBDUINO_RGBLED_GREEN = "绿";
 Blockly.Msg.WEBDUINO_RGBLED_BLUE = "蓝";
 Blockly.Msg.WEBDUINO_RGBLED_SETCOLOR = "设定颜色";
-
-// Ultrasonic
-
-Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_TRIG = "超音波传感器，Trig";
-Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_ECHO = "  Echo";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET = "撷取距离";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET_DISTANCE = "撷取距离，每";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET_TIME = "毫秒 ( 1/1000 秒 ) 撷取一次";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET_DO = "执行";
-Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE = "所撷取的距离 ( 公分 )";
-Blockly.Msg.WEBDUINO_ULTRASONIC_STOP = "停止撷取距离";
 
 // Smart Servo
 
@@ -457,21 +431,6 @@ Blockly.Msg.WEBDUINO_PIR_STATUS_DETECTED = "有";
 Blockly.Msg.WEBDUINO_PIR_STATUS_ENDED = "没有";
 Blockly.Msg.WEBDUINO_PIR_DETECTED = "侦测到人体红外线变化";
 Blockly.Msg.WEBDUINO_PIR_DO = "执行";
-
-// Sound
-
-Blockly.Msg.WEBDUINO_SOUND = "声音侦测传感器，脚位";
-Blockly.Msg.WEBDUINO_SOUND_WHEN = "当";
-Blockly.Msg.WEBDUINO_SOUND_STATUS_DETECTED = "有";
-Blockly.Msg.WEBDUINO_SOUND_STATUS_ENDED = "没有";
-Blockly.Msg.WEBDUINO_SOUND_DETECTED = "侦测到声音变化";
-Blockly.Msg.WEBDUINO_SOUND_DO = "执行";
-
-// Servo
-
-Blockly.Msg.WEBDUINO_SERVO = "伺服马达，脚位";
-Blockly.Msg.WEBDUINO_SERVO_TEXT = "伺服马达";
-Blockly.Msg.WEBDUINO_SERVO_ANGLE = "   旋转角度 ( 0-180 ) ";
 
 // Max7219
 
@@ -519,19 +478,6 @@ Blockly.Msg.WEBDUINO_SOIL_DO = "执行";
 Blockly.Msg.WEBDUINO_SOIL_VAL = "侦测的数值";
 Blockly.Msg.WEBDUINO_SOIL_STOP = "停止侦测";
 
-// Irrecv
-
-Blockly.Msg.WEBDUINO_IRRECV = "红外线接收，脚位";
-Blockly.Msg.WEBDUINO_IRRECV_ON = "开始接收";
-Blockly.Msg.WEBDUINO_IRRECV_CODE = "接收的代码";
-Blockly.Msg.WEBDUINO_IRRECV_OFF = "停止接收";
-Blockly.Msg.WEBDUINO_IRRECV_DO = "执行";
-
-// IrLed
-
-Blockly.Msg.WEBDUINO_IRLED = "红外线发射，脚位";
-Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "发射代码 ( 十六进位 )";
-
 // ADXL345
 
 Blockly.Msg.WEBDUINO_ADXL345 = "三轴加速度计，SDA";
@@ -559,28 +505,6 @@ Blockly.Msg.WEBDUINO_BARCODE_ON = "开始侦测";
 Blockly.Msg.WEBDUINO_BARCODE_DO = "执行";
 Blockly.Msg.WEBDUINO_BARCODE_VAL = "条码";
 Blockly.Msg.WEBDUINO_BARCODE_OFF = "停止侦测";
-
-// Car
-
-Blockly.Msg.WEBDUINO_TESTCAR = "自走车";
-Blockly.Msg.WEBDUINO_TESTCAR_PINRF = "脚位设定右前";
-Blockly.Msg.WEBDUINO_TESTCAR_PINRB = "右后";
-Blockly.Msg.WEBDUINO_TESTCAR_PINLF = "左前";
-Blockly.Msg.WEBDUINO_TESTCAR_PINLB = "左后";
-Blockly.Msg.WEBDUINO_TESTCAR_ACTION = " 动作";
-Blockly.Msg.WEBDUINO_TESTCAR_GOFRONT = "前进";
-Blockly.Msg.WEBDUINO_TESTCAR_GOBACK = "后退";
-Blockly.Msg.WEBDUINO_TESTCAR_GOLEFT = "左前";
-Blockly.Msg.WEBDUINO_TESTCAR_GORIGHT = "右前";
-Blockly.Msg.WEBDUINO_TESTCAR_BACKLEFT = "左后";
-Blockly.Msg.WEBDUINO_TESTCAR_BACKRIGHT = "右后";
-Blockly.Msg.WEBDUINO_TESTCAR_TURNRIGHT = "原地右转";
-Blockly.Msg.WEBDUINO_TESTCAR_TURNLEFT = "原地左转";
-Blockly.Msg.WEBDUINO_TESTCAR_STOP = "停止";
-Blockly.Msg.WEBDUINO_TESTCAR_SPEED = "速度";
-Blockly.Msg.WEBDUINO_TESTCAR_RIGHT = "右轮";
-Blockly.Msg.WEBDUINO_TESTCAR_LEFT = "左轮";
-Blockly.Msg.WEBDUINO_TESTCAR_PERCENT = "%";
 
 // Firebase
 
@@ -858,10 +782,10 @@ Blockly.Msg.WEBDUINO_GOOGLESHEETS_READDATA = "读取到的资料";
 
 
 /*
- Yb        dP 888888 88""Yb 88""Yb 88 888888 
- Yb  db  dP  88__   88__dP 88__dP 88   88   
-  YbdPYbdP   88""   88""Yb 88""Yb 88   88   
-   YP  YP    888888 88oodP 88oodP 88   88  
+ Yb        dP 888888 88""Yb 88""Yb 88 888888
+ Yb  db  dP  88__   88__dP 88__dP 88   88
+  YbdPYbdP   88""   88""Yb 88""Yb 88   88
+   YP  YP    888888 88oodP 88oodP 88   88
 */
 
 // Web:Bit - Tutorial url
@@ -906,20 +830,20 @@ Blockly.Msg.BIT_LOGIC_IS_EVEN_ARRAY = "序列";
 Blockly.Msg.WEBDUINO_DELAY = "等待";
 Blockly.Msg.WEBDUINO_DELAY_SECONDS = "秒";
 Blockly.Msg.WEBDUINO_DELAY_SECONDS_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop01";
-Blockly.Msg.BIT_LOOP_FOREVER = "循环无限次，允许后台执行";
+Blockly.Msg.BIT_LOOP_FOREVER = "重复无限次，后台执行";
 Blockly.Msg.BIT_LOOP_FOREVER_DO = "执行";
 Blockly.Msg.BIT_LOOP_FOREVER_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop04";
-Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO = "就一直循环，允许后台执行";
+Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO = "就重复无限次，后台执行";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_IF = "如果";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_DO = "执行";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop05";
 Blockly.Msg.BIT_LOOP_STOP = "停止";
 Blockly.Msg.BIT_LOOP_STOP_ALL = "所有的";
 Blockly.Msg.BIT_LOOP_STOP_THIS = "这个";
-Blockly.Msg.BIT_LOOP_STOP_REPEAT = "循环";
+Blockly.Msg.BIT_LOOP_STOP_REPEAT = "重复";
 Blockly.Msg.BIT_LOOP_STOP_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop08";
-Blockly.Msg.BIT_LOOP_EXT_REPEAT = "循环";
-Blockly.Msg.BIT_LOOP_EXT = "次，允许后台执行";
+Blockly.Msg.BIT_LOOP_EXT_REPEAT = "重复";
+Blockly.Msg.BIT_LOOP_EXT = "次，后台执行";
 Blockly.Msg.BIT_LOOP_EXT_DO = "执行";
 Blockly.Msg.BIT_LOOP_EXT_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop02";
 Blockly.Msg.BIT_LOOP_FOR = "计数";
@@ -1224,7 +1148,7 @@ Blockly.Msg.BIT_TIME_HELPURL = Blockly.Msg.TUTORIAL_URL + "detect/time.html";
 Blockly.Msg.BIT_DATE_HELPURL = Blockly.Msg.BIT_TIME_HELPURL;
 Blockly.Msg.BIT_INPUT = "在对话框输入文字";
 Blockly.Msg.BIT_INPUT_COMMENT = "输入文字之后，才会继续执行下方程序";
-Blockly.Msg.BIT_INPUT_VAL = "輸入的文字";
+Blockly.Msg.BIT_INPUT_VAL = "输入的文字";
 Blockly.Msg.BIT_INPUT_HELPURL= Blockly.Msg.TUTORIAL_URL + "detect/input.html";
 
 // Web:Bit - Sound
@@ -1320,6 +1244,15 @@ Blockly.Msg.BIT_BOARD_WIFI = "Wi-Fi";
 Blockly.Msg.BIT_BOARD_CONTROL = "控制";
 Blockly.Msg.BIT_BOARD_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/board.html";
 
+// Web:Bit - I/O Pin
+
+Blockly.Msg.WEBDUINO_PIN_READ = "读取脚位";
+Blockly.Msg.WEBDUINO_PIN_ANALOG_WRITE = "类比输出 ( PWM ) 至脚位";
+Blockly.Msg.WEBDUINO_PIN_DIGITAL_WRITE = "数位输出至脚位";
+Blockly.Msg.WEBDUINO_PIN_VALUE = "数值";
+Blockly.Msg.WEBDUINO_PIN_DIN = "数位输入";;
+Blockly.Msg.WEBDUINO_PIN_AIN = "类比输入";
+
 // Web:Bit - Matrix
 
 Blockly.Msg.BIT_MATRIX_COLOR = "矩阵 LED 灯光为";
@@ -1377,7 +1310,7 @@ Blockly.Msg.BIT_AB_BUTTON_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/ab-button.
 
 // Web:Bit - Detected
 
-Blockly.Msg.BIT_DETECTED = "检测光线＆温度 ( 循环无限次 )";
+Blockly.Msg.BIT_DETECTED = "检测光线＆温度 ( 重复无限次 )";
 Blockly.Msg.BIT_DETECTED_DO = "执行";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL = "亮度";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL_LEFT = "左上";
@@ -1415,7 +1348,7 @@ Blockly.Msg.BIT_BUZZER_PLAY_EVENT_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/bu
 // Web:Bit - MPU9250
 
 Blockly.Msg.BIT_MPU9250_ICON = "bit-mpu9250-icon";
-Blockly.Msg.BIT_MPU9250_TYPE_TITLE_SHAKE = "晃动"; 
+Blockly.Msg.BIT_MPU9250_TYPE_TITLE_SHAKE = "晃动";
 Blockly.Msg.BIT_MPU9250_TYPE_TITLE_UP = "正面朝上";
 Blockly.Msg.BIT_MPU9250_TYPE_TITLE_ROLLBACK = "向后翻转";
 Blockly.Msg.BIT_MPU9250_TYPE_TITLE_ROLLRIGHT = "向右翻转";

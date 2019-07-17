@@ -1653,6 +1653,10 @@ td#copyCode div {
   outline: none;
   background: rgba(30, 50, 60, .7);
   pointer-events: none;
+  display: none;
+}
+.pop-window.show {
+  display: block;
 }
 
 .pop-window.close {
@@ -1671,7 +1675,7 @@ td#copyCode div {
   width: 100%;
   height: 100%;
   overflow: auto;
-  padding: 0 20px 20px;
+  padding: 0 20px 80px;
   text-align: center;
 }
 
@@ -1683,7 +1687,7 @@ td#copyCode div {
 
 .pop-content>div {
   transition: .3s;
-  margin: 5px 8px 30px;
+  margin: 5px 8px 10px;
   width: calc(20% - 30px);
   min-height: 120px;
   display: inline-block;
@@ -1743,7 +1747,6 @@ td#copyCode div {
 .pop-content>div:hover img {
   box-shadow: #f90 0 0 0 6px;
 }
-
 .pop-content>div.add img {
   opacity: .2;
 }
@@ -1752,6 +1755,7 @@ td#copyCode div {
   width: 85vw;
   height: calc(100vh - 80px);
   padding: 0 0 10px;
+  background: url(../media/samples-bg.jpg);
   box-shadow: #fff 0 0 0 7px, rgba(0, 0, 0, .8) 0 20px 100px;
   margin: 0 auto;
   border-radius: 6px;
@@ -1803,169 +1807,37 @@ td#copyCode div {
   transform: rotate(90deg);
 }
 
-.pop-content>div i {
+#extension-menu div[data-source] i {
   display: none;
   font-style: normal;
   color: #999;
 }
 
-.pop-content>div.add i {
+#extension-menu div[data-source].add img{
+  opacity:0.3;
+}
+
+#extension-menu div[data-source].add i:first-of-type {
   display: block;
 }
-
-#extension-menu-bg {
-  background: url(../media/extension-bg.jpg);
+#extension-menu div[data-source].add.fixed{
+  pointer-events: none;
+  user-select: none;
 }
-
-#sample-menu {
+#extension-menu div[data-source].add.fixed i:first-of-type {
   display: none;
-  position: absolute;
-  z-index: 999999;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  font-size: 15px;
-  outline: none;
-  background: rgba(30, 50, 60, .7);
-  pointer-events: none;
 }
-
-#sample-menu * {
-  padding: 0;
-  margin: 0;
-  position: relative;
-  box-sizing: border-box;
-  font-family: sans-serif;
-}
-
-#sample-menu-bg {
-  width: 85vw;
-  height: calc(100vh - 80px);
-  padding: 0 0 10px;
-  background: url(../media/samples-bg.jpg);
-  box-shadow: #fff 0 0 0 7px, rgba(0, 0, 0, .8) 0 20px 100px;
-  margin: 0 auto;
-  border-radius: 6px;
-  margin-top: 40px;
-  pointer-events: auto;
-  border: 7px solid #456;
-  overflow: hidden;
-}
-
-#sample-menu-bg h2 {
-  width: 100%;
-  background: #456;
-  text-align: center;
-  color: #fff;
-  font-size: 20px;
-  padding: 8px 0 15px;
-}
-
-#sample-menu-content {
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  padding: 0 20px 40px;
-  text-align: center;
-}
-
-#sample-menu-content::-webkit-scrollbar {
-  width: 5px;
-}
-
-#sample-menu-content::-webkit-scrollbar-track {
-  background: #f9f9f9;
-}
-
-#sample-menu-content::-webkit-scrollbar-thumb {
-  background: #e9e9e9;
-  border-radius: 5px;
-}
-
-#sample-menu-content h3 {
-  font-size: 24px;
-  margin: 25px 5px 15px;
-  text-align: center;
-}
-
-#sample-menu-content div {
-  transition: .3s;
-  margin: 5px 8px 30px;
-  width: calc(20% - 30px);
-  min-height: 120px;
-  display: inline-block;
-  position: relative;
-  text-align: center;
-  vertical-align: top;
-  cursor: pointer;
-  opacity: .3;
-  pointer-events: none;
-}
-
-#sample-menu-content div[data-source] {
-  opacity: 1;
-  pointer-events: auto;
-}
-
-@media (max-width:1300px) {
-  #sample-menu-content div {
-    width: calc(25% - 30px);
-  }
-}
-
-@media (max-width:1000px) {
-  #sample-menu-content div {
-    width: calc(33% - 30px);
-  }
-}
-
-#sample-menu-content div span {
-  font-size: 16px;
-  color: #000;
-  pointer-events: none;
-  transition: .2s;
-}
-
-#sample-menu-content div:hover span {
-  font-size: 16px;
-  font-weight: bold;
-  color: #f90;
-}
-
-#sample-menu-content div img {
+#extension-menu div[data-source].add.fixed i:last-of-type {
   display: block;
-  width: 100%;
-  margin-bottom: 10px;
-  pointer-events: none;
-  box-shadow: #456 0 0 0 3px;
-  transition: .3s;
-  border-radius: 10px;
 }
-
-#sample-menu-content div:hover img {
-  box-shadow: #f90 0 0 0 6px;
+#extension-menu *[attr-local]{
+  display: none;
 }
-
-#sample-menu-close-btn {
-  widows: 45px;
-  height: 45px;
-  font-size: 45px;
-  line-height: 0;
-  color: #fff;
-  top: 45px;
-  right: calc(7.5% + 8px);
-  z-index: 9999999;
-  position: absolute;
-  text-align: center;
-  cursor: pointer;
-  transition: .2s;
-  pointer-events: auto;
+#extension-menu div[attr-local].show{
+  display: inline-block;
 }
-
-#sample-menu-close-btn:hover {
-  transform: rotate(90deg);
+#extension-menu h3[attr-local].show{
+  display: block;
 }
 
 #demo-frame {

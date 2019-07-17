@@ -1,0 +1,39 @@
+// CarTracker
+Blockly.Msg.WEBDUINO_CARTRACKER_INDUCTION = "当循迹侦测信号为";
+Blockly.Msg.WEBDUINO_CARTRACKER_MOTION = "时，动作";
+Blockly.Msg.WEBDUINO_CARTRACKER_DO = "运行";
+Blockly.Msg.WEBDUINO_CARTRACKER_ON = "启动循迹";
+Blockly.Msg.WEBDUINO_CARTRACKER_OFF = "停止循迹";
+Blockly.Msg.WEBDUINO_CARTRACKER_STOP = "停止";
+Blockly.Msg.WEBDUINO_CARTRACKER_FORWARD = "前进";
+Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT = "原地左转";
+Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT = "原地右转";
+Blockly.Msg.WEBDUINO_CARTRACKER_BACK = "后退";
+Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT_SLOWLY = "原地慢速左转";
+Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT_SLOWLY = "原地慢速右转";
+Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_FORWARD = "左前";
+Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_FORWARD = "右前";
+Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_BACK = "左后";
+Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK = "右后";
+
+Blockly.Msg.WEBDUINO_TOYCAR = "自走车动作";
+Blockly.Msg.WEBDUINO_TOYCAR_GOFRONT = "前进";
+Blockly.Msg.WEBDUINO_TOYCAR_GOBACK = "后退";
+Blockly.Msg.WEBDUINO_TOYCAR_GOLEFT = "左前";
+Blockly.Msg.WEBDUINO_TOYCAR_GORIGHT = "右前";
+Blockly.Msg.WEBDUINO_TOYCAR_STOP = "停止";
+
+Blockly.Msg.WEBDUINO_CARBUTTON_EVENT_WHEN = "当小车按钮被";
+
+Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE = "超音波传感器所截取的距离 ( 公分 )";
+
+Blockly.Msg.WEBDUINO_IRRECV_ON = "红外线开始接收信号";
+Blockly.Msg.WEBDUINO_IRRECV_DO = "运行";
+Blockly.Msg.WEBDUINO_IRRECV_CODE = "红外线接收的代码";
+Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "红外线发射代码 ( 十六进位 )";
+
+Blockly.Msg.WEBDUINO_WS2812_LED_SET = "设定灯环第";
+Blockly.Msg.WEBDUINO_WS2812_LED_COLOR = "颗颜色为";
+Blockly.Msg.WEBDUINO_WS2812_DISPLAY = "显示";
+Blockly.Msg.WEBDUINO_WS2812_BRIGHTBESS = "设定灯环亮度 (0~127)";
+Blockly.Msg.WEBDUINO_WS2812_CLOSE = "关闭灯环";

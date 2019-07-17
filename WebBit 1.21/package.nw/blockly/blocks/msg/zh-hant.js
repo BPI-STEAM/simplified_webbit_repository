@@ -386,21 +386,6 @@ Blockly.Msg.WEBDUINO_SMART = "Smart";
 Blockly.Msg.WEBDUINO_MARK = "馬克1號";
 Blockly.Msg.WEBDUINO_FLY = "Fly";
 
-// I/O Pins
-
-Blockly.Msg.WEBDUINO_PIN = "腳位";
-Blockly.Msg.WEBDUINO_BIT_PIN = "bit 腳位";
-Blockly.Msg.WEBDUINO_PIN_ON = "於";
-Blockly.Msg.WEBDUINO_PIN_READ = "讀取";
-Blockly.Msg.WEBDUINO_PIN_WRITE = "輸出";
-Blockly.Msg.WEBDUINO_PIN_VALUE = "數值";
-Blockly.Msg.WEBDUINO_PIN_SET = "設定";
-Blockly.Msg.WEBDUINO_PIN_MODE = "模式";
-Blockly.Msg.WEBDUINO_PIN_DIN = "數位輸入";
-Blockly.Msg.WEBDUINO_PIN_DOUT = "數位輸出";
-Blockly.Msg.WEBDUINO_PIN_AIN = "類比輸入";
-Blockly.Msg.WEBDUINO_PIN_AOUT = "類比輸出 (PWM)";
-
 // LED
 
 Blockly.Msg.WEBDUINO_LED = "LED 燈";
@@ -429,17 +414,6 @@ Blockly.Msg.WEBDUINO_RGBLED_RED = "紅";
 Blockly.Msg.WEBDUINO_RGBLED_GREEN = "綠";
 Blockly.Msg.WEBDUINO_RGBLED_BLUE = "藍";
 Blockly.Msg.WEBDUINO_RGBLED_SETCOLOR = "設定顏色";
-
-// Ultrasonic
-
-Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_TRIG = "超音波傳感器，Trig";
-Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_ECHO = "  Echo";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET = "擷取距離";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET_DISTANCE = "擷取距離，每";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET_TIME = "毫秒 ( 1/1000 秒 ) 擷取一次";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET_DO = "執行";
-Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE = "所擷取的距離 ( 公分 )";
-Blockly.Msg.WEBDUINO_ULTRASONIC_STOP = "停止擷取距離";
 
 // Smart Servo
 
@@ -484,21 +458,6 @@ Blockly.Msg.WEBDUINO_PIR_STATUS_DETECTED = "有";
 Blockly.Msg.WEBDUINO_PIR_STATUS_ENDED = "沒有";
 Blockly.Msg.WEBDUINO_PIR_DETECTED = "偵測到人體紅外線變化";
 Blockly.Msg.WEBDUINO_PIR_DO = "執行";
-
-// Sound
-
-Blockly.Msg.WEBDUINO_SOUND = "聲音偵測傳感器，腳位";
-Blockly.Msg.WEBDUINO_SOUND_WHEN = "當";
-Blockly.Msg.WEBDUINO_SOUND_STATUS_DETECTED = "有";
-Blockly.Msg.WEBDUINO_SOUND_STATUS_ENDED = "沒有";
-Blockly.Msg.WEBDUINO_SOUND_DETECTED = "偵測到聲音變化";
-Blockly.Msg.WEBDUINO_SOUND_DO = "執行";
-
-// Servo
-
-Blockly.Msg.WEBDUINO_SERVO = "伺服馬達，腳位";
-Blockly.Msg.WEBDUINO_SERVO_TEXT = "伺服馬達";
-Blockly.Msg.WEBDUINO_SERVO_ANGLE = "旋轉角度 ( 0-180 ) ";
 
 // Max7219
 
@@ -546,19 +505,6 @@ Blockly.Msg.WEBDUINO_SOIL_DO = "執行";
 Blockly.Msg.WEBDUINO_SOIL_VAL = "偵測的數值";
 Blockly.Msg.WEBDUINO_SOIL_STOP = "停止偵測";
 
-// Irrecv
-
-Blockly.Msg.WEBDUINO_IRRECV = "紅外線接收，腳位";
-Blockly.Msg.WEBDUINO_IRRECV_ON = "開始接收";
-Blockly.Msg.WEBDUINO_IRRECV_CODE = "接收的代碼";
-Blockly.Msg.WEBDUINO_IRRECV_OFF = "停止接收";
-Blockly.Msg.WEBDUINO_IRRECV_DO = "執行";
-
-// IrLed
-
-Blockly.Msg.WEBDUINO_IRLED = "紅外線發射，腳位";
-Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "發射代碼 ( 十六進位 )";
-
 // ADXL345
 
 Blockly.Msg.WEBDUINO_ADXL345 = "三軸加速度計，SDA";
@@ -586,28 +532,6 @@ Blockly.Msg.WEBDUINO_BARCODE_ON = "開始偵測";
 Blockly.Msg.WEBDUINO_BARCODE_DO = "執行";
 Blockly.Msg.WEBDUINO_BARCODE_VAL = "條碼";
 Blockly.Msg.WEBDUINO_BARCODE_OFF = "停止偵測";
-
-// Car
-
-Blockly.Msg.WEBDUINO_TESTCAR = "自走車";
-Blockly.Msg.WEBDUINO_TESTCAR_PINRF = "腳位設定右前";
-Blockly.Msg.WEBDUINO_TESTCAR_PINRB = "右後";
-Blockly.Msg.WEBDUINO_TESTCAR_PINLF = "左前";
-Blockly.Msg.WEBDUINO_TESTCAR_PINLB = "左後";
-Blockly.Msg.WEBDUINO_TESTCAR_ACTION = " 動作";
-Blockly.Msg.WEBDUINO_TESTCAR_GOFRONT = "前進";
-Blockly.Msg.WEBDUINO_TESTCAR_GOBACK = "後退";
-Blockly.Msg.WEBDUINO_TESTCAR_GOLEFT = "左前";
-Blockly.Msg.WEBDUINO_TESTCAR_GORIGHT = "右前";
-Blockly.Msg.WEBDUINO_TESTCAR_BACKLEFT = "左後";
-Blockly.Msg.WEBDUINO_TESTCAR_BACKRIGHT = "右後";
-Blockly.Msg.WEBDUINO_TESTCAR_TURNRIGHT = "原地右轉";
-Blockly.Msg.WEBDUINO_TESTCAR_TURNLEFT = "原地左轉";
-Blockly.Msg.WEBDUINO_TESTCAR_STOP = "停止";
-Blockly.Msg.WEBDUINO_TESTCAR_SPEED = "速度";
-Blockly.Msg.WEBDUINO_TESTCAR_RIGHT = "右輪";
-Blockly.Msg.WEBDUINO_TESTCAR_LEFT = "左輪";
-Blockly.Msg.WEBDUINO_TESTCAR_PERCENT = "%";
 
 // Firebase
 
@@ -883,10 +807,10 @@ Blockly.Msg.WEBDUINO_GOOGLESHEETS_READDATA = "讀取到的資料";
 
 
 /*
- Yb        dP 888888 88""Yb 88""Yb 88 888888 
- Yb  db  dP  88__   88__dP 88__dP 88   88   
-  YbdPYbdP   88""   88""Yb 88""Yb 88   88   
-   YP  YP    888888 88oodP 88oodP 88   88  
+ Yb        dP 888888 88""Yb 88""Yb 88 888888
+ Yb  db  dP  88__   88__dP 88__dP 88   88
+  YbdPYbdP   88""   88""Yb 88""Yb 88   88
+   YP  YP    888888 88oodP 88oodP 88   88
 */
 
 // Web:Bit - Tutorial url
@@ -934,7 +858,7 @@ Blockly.Msg.WEBDUINO_DELAY_SECONDS_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/l
 Blockly.Msg.BIT_LOOP_FOREVER = "重複無限次，背景執行";
 Blockly.Msg.BIT_LOOP_FOREVER_DO = "執行";
 Blockly.Msg.BIT_LOOP_FOREVER_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop04";
-Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO = "就複無限次，背景執行";
+Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO = "就重複無限次，背景執行";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_IF = "如果";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_DO = "執行";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop05";
@@ -1345,6 +1269,15 @@ Blockly.Msg.BIT_BOARD_WIFI = "Wi-Fi";
 Blockly.Msg.BIT_BOARD_CONTROL = "控制";
 Blockly.Msg.BIT_BOARD_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/board.html";
 
+// Web:Bit - I/O Pin
+
+Blockly.Msg.WEBDUINO_PIN_READ = "讀取腳位";
+Blockly.Msg.WEBDUINO_PIN_ANALOG_WRITE = "類比輸出 ( PWM ) 至腳位";
+Blockly.Msg.WEBDUINO_PIN_DIGITAL_WRITE = "數位輸出至腳位";
+Blockly.Msg.WEBDUINO_PIN_VALUE = "數值";
+Blockly.Msg.WEBDUINO_PIN_DIN = "數位輸入";
+Blockly.Msg.WEBDUINO_PIN_AIN = "類比輸入";
+
 // Web:Bit - Matrix
 
 Blockly.Msg.BIT_MATRIX_COLOR = "矩陣 LED 燈光為";
@@ -1440,7 +1373,7 @@ Blockly.Msg.BIT_BUZZER_PLAY_EVENT_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/bu
 // Web:Bit - MPU9250
 
 Blockly.Msg.BIT_MPU9250_ICON = "bit-mpu9250-icon";
-Blockly.Msg.BIT_MPU9250_TYPE_TITLE_SHAKE = "晃動"; 
+Blockly.Msg.BIT_MPU9250_TYPE_TITLE_SHAKE = "晃動";
 Blockly.Msg.BIT_MPU9250_TYPE_TITLE_UP = "正面朝上";
 Blockly.Msg.BIT_MPU9250_TYPE_TITLE_ROLLBACK = "向後翻轉";
 Blockly.Msg.BIT_MPU9250_TYPE_TITLE_ROLLRIGHT = "向右翻轉";

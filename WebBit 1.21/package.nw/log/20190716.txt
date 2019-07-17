@@ -1,0 +1,23 @@
+2019/7/16 17:53:4 window closed
+2019/7/16 17:55:7 ==========START WEBBIT==========
+2019/7/16 17:55:7 current version: 1.2.1, checking ota from https://ota.webduino.com.cn/WebBitOTA/1.2/...
+2019/7/16 17:55:7 ota version: 1.2.1
+2019/7/16 17:55:7 launch main.js with no ota detected
+2019/7/16 17:55:7 open url: http://localhost:20975/blockly/?lang=zh-hans
+2019/7/16 17:55:7 titleMsg: Web:Bit 总管 V1.2.1 - 扫描 USB 设备...
+2019/7/16 17:55:7 Local Server Started.
+2019/7/16 17:55:7 Server is listening on port 8080
+2019/7/16 17:55:8 chrome.exe path: 
+2019/7/16 17:55:8 titleMsg: Web:Bit 总管 V1.2.1 - 设别 [aPnTbQiGaiLBT42SQd] 使用 USB 连接成功
+2019/7/16 17:55:8 Web:Bit deviceId aPnTbQiGaiLBT42SQd detected
+2019/7/16 17:55:8 Web:Bit firmware 0.1.11_0703_01 detected
+2019/7/16 17:55:8 titleMsg: Web:Bit 总管 V1.2.1 - 设备 [aPnTbQiGaiLBT42SQd] 版本 [0.1.11_0703_01] 使用 USB 连接成功
+2019/7/16 17:55:8 reportToWebPage: {"device":"aPnTbQiGaiLBT42SQd","version":"0.1.11_0703_01","mgrVersion":"1.2.1"}
+2019/7/16 17:55:8 checking firmware ota from https://ota.webduino.com.cn/WebBitFirmware/...
+2019/7/16 17:55:8 Web:Bit MQTT server r.webduino.com.cn detected
+2019/7/16 17:55:8 got bit_version.last = 0.1.11_0703_01
+
+2019/7/16 17:55:15 url loaded
+2019/7/16 17:55:18 reportToWebPage: {"device":"aPnTbQiGaiLBT42SQd","version":"0.1.11_0703_01","mgrVersion":"1.2.1"}
+2019/7/16 17:55:18 nw.js version: 0.36.2
+2019/7/16 18:3:39 window closed

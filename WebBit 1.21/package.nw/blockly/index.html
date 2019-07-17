@@ -20,6 +20,9 @@
   <link rel="stylesheet" href="dist/css/notification.css">
   <script>
     window.origin__ = "https://webbit.webduino.io";
+    if (/localhost|https\:\/\/testwbit/.test(location.origin)) {
+      window.origin__ = location.origin;
+    }
   </script>
   <script src="components/js-cookie/src/js.cookie.js"></script>
   <script src="components/blockly-src/blockly_compressed.js"></script>
@@ -56,7 +59,6 @@
   <script src="blocks/edu-blockly.js"></script>
   <script src="generators/edu-blockly.js"></script>
   <script src="dist/blockdefs-loader.min.js"></script>
-  <script src="dist/loader-config.min.js"></script>
   <script src="dist/checkChromeVersion.min.js"></script>
   <script src="dist/tab-custom.min.js"></script>
   <!-- <script src="dist/notify.min.js"></script> -->

@@ -50,8 +50,8 @@
           </a>
           <b>{{webbitMenuMoreWifiOnly}}</b>
         </div>
-        <div class="disable" attr-type="web, exe"  attr-local="global, china">
-          <a id="eduExtension" class="pop-open">
+        <div attr-type="web, exe"  attr-local="global, china">
+          <a id="eduExtension">
             <i class="icon-puzzle-outline small"></i><span>{{webbitMenuMoreExtension}}</span>
           </a>
           <b>{{webbitMenuMoreCommingSoon}}</b>
@@ -200,32 +200,63 @@
     </div>
   </div>
 </div>
-<div id="extension-menu" class="pop-window close" tabindex="0">
-  <div id="extension-menu-close-btn" class="pop-close"><i class="icon-times"></i></div>
-  <div id="extension-menu-bg" class="pop-bg">
-    <h2>選擇擴充功能</h2>
-    <div id="extension-menu-content" class="pop-content">
-      <h3>網際網路</h3>
-      <div data-source="google-sheets">
-        <div><img data-src="custom-blocks/img/google-sheets.jpg"></div><span>Google 試算表</span><i>( 已經加入 )</i>
+<div id="extension-menu" class="pop-window" tabindex="1">
+  <div class="pop-close"><i class="icon-times"></i></div>
+  <div class="pop-bg">
+    <h2>{{webbitExtensionTitleH2}}</h2>
+    <div class="pop-content">
+      <h3 attr-local="global">{{webbitExtensionTitleH3.internet.title}}</h3>
+      <div data-source="google-sheets" attr-local="global">
+        <div><img data-src="custom-blocks/google-sheets/snapshot.jpg"></div>
+        <span>{{webbitExtensionTitleH3.internet.googleSheet}}</span>
+        <i>( {{webbitExtensionTitleH3.add}} )</i>
+        <i>( {{webbitExtensionTitleH3.fixed}} )</i>
       </div>
-      <div data-source="weather">
-        <div><img data-src="custom-blocks/img/weather.jpg"></div><span>即時氣象</span><i>( 已經加入 )</i>
+      <div data-source="weather" attr-local="global">
+        <div><img data-src="custom-blocks/weather/snapshot.jpg"></div>
+        <span>{{webbitExtensionTitleH3.internet.weather}}</span>
+        <i>( {{webbitExtensionTitleH3.add}}  )</i>
+        <i>( {{webbitExtensionTitleH3.fixed}} )</i>
       </div>
-      <div data-source="radio">
-        <div><img data-src="custom-blocks/img/radio.jpg"></div><span>網路廣播</span><i>( 已經加入 )</i>
+      <div data-source="radio" attr-local="global">
+        <div><img data-src="custom-blocks/radio/snapshot.jpg"></div>
+        <span>{{webbitExtensionTitleH3.internet.radio}}</span>
+        <i>( {{webbitExtensionTitleH3.add}}  )</i>
+        <i>( {{webbitExtensionTitleH3.fixed}} )</i>
       </div>
-      <div data-source="line">
-        <div><img data-src="custom-blocks/img/line.jpg"></div><span>LINE</span><i>( 已經加入 )</i>
+      <div data-source="line" attr-local="global">
+        <div><img data-src="custom-blocks/line/snapshot.jpg"></div>
+        <span>{{webbitExtensionTitleH3.internet.line}}</span>
+        <i>( {{webbitExtensionTitleH3.add}}  )</i>
+        <i>( {{webbitExtensionTitleH3.fixed}} )</i>
+      </div>
+      <h3 attr-local="global, china">{{webbitExtensionTitleH3.package.title}}</h3>
+      <div data-source="basic-package" attr-local="global, china">
+        <div><img data-src="custom-blocks/basic-package/snapshot.jpg"></div>
+        <span>{{webbitExtensionTitleH3.internet.basicPackage}}</span>
+        <i>( {{webbitExtensionTitleH3.add}} )</i>
+        <i>( {{webbitExtensionTitleH3.fixed}} )</i>
+      </div>
+      {{!-- <div data-source="full-package" attr-local="global">
+        <div><img data-src="custom-blocks/full-package/snapshot.jpg"></div>
+        <span>{{webbitExtensionTitleH3.internet.fullPackage}}</span>
+        <i>( {{webbitExtensionTitleH3.add}} )</i>
+        <i>( {{webbitExtensionTitleH3.fixed}} )</i>
+      </div> --}}
+      <div data-source="car-package" attr-local="global, china">
+        <div><img data-src="custom-blocks/car-package/snapshot.jpg"></div>
+        <span>{{webbitExtensionTitleH3.internet.carPackage}}</span>
+        <i>( {{webbitExtensionTitleH3.add}} )</i>
+        <i>( {{webbitExtensionTitleH3.fixed}} )</i>
       </div>
     </div>
   </div>
 </div>
-<div id="sample-menu" tabindex="0">
-  <div id="sample-menu-close-btn"><i class="icon-times"></i></div>
-  <div id="sample-menu-bg">
+<div id="sample-menu" class="pop-window" tabindex="1">
+  <div class="pop-close"><i class="icon-times"></i></div>
+  <div class="pop-bg">
     <h2>{{webbitSampleTitleH2}}</h2>
-    <div id="sample-menu-content">
+    <div class="pop-content">
       <h3>{{webbitSampleTitleH3.s0}}</h3>
       <div data-source="{{webbitSample.s0.s01.json}}"><img
           data-src="{{webbitSample.s0.s01.img}}"><span>{{webbitSample.s0.s01.text}}</span></div>

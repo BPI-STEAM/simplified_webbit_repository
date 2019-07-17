@@ -929,10 +929,10 @@ Blockly.Blocks['speak_async_setting'] = {
 };
 
 /*
-88""Yb  dP"Yb     db    88""Yb 8888b.  
-88__dP dP   Yb   dPYb   88__dP  8I  Yb 
-88""Yb Yb   dP  dP__Yb  88"Yb   8I  dY 
-88oodP  YbodP  dP""""Yb 88  Yb 8888Y" 
+88""Yb  dP"Yb     db    88""Yb 8888b.
+88__dP dP   Yb   dPYb   88__dP  8I  Yb
+88""Yb Yb   dP  dP__Yb  88"Yb   8I  dY
+88oodP  YbodP  dP""""Yb 88  Yb 8888Y"
 */
 
 Blockly.Blocks['board'] = {
@@ -1011,11 +1011,12 @@ Blockly.Blocks['board'] = {
   }
 };
 
-/* 
-8b    d8    db    888888 88""Yb 88 Yb  dP 
-88b  d88   dPYb     88   88__dP 88  YbdP  
-88YbdP88  dP__Yb    88   88"Yb  88  dPYb  
-88 YY 88 dP""""Yb   88   88  Yb 88 dP  Yb 
+
+/*
+8b    d8    db    888888 88""Yb 88 Yb  dP
+88b  d88   dPYb     88   88__dP 88  YbdP
+88YbdP88  dP__Yb    88   88"Yb  88  dPYb
+88 YY 88 dP""""Yb   88   88  Yb 88 dP  Yb
 */
 
 Blockly.Blocks['bit_matrix_color_output'] = {
@@ -1309,11 +1310,11 @@ Blockly.Blocks['bit_matrix_off'] = {
 };
 
 
-/* 
-88""Yb 88   88 888888 888888  dP"Yb  88b 88 
-88__dP 88   88   88     88   dP   Yb 88Yb88 
-88""Yb Y8   8P   88     88   Yb   dP 88 Y88 
-88oodP `YbodP'   88     88    YbodP  88  Y8 
+/*
+88""Yb 88   88 888888 888888  dP"Yb  88b 88
+88__dP 88   88   88     88   dP   Yb 88Yb88
+88""Yb Y8   8P   88     88   Yb   dP 88 Y88
+88oodP `YbodP'   88     88    YbodP  88  Y8
 */
 
 Blockly.Blocks['bit_button_event'] = {
@@ -1321,14 +1322,14 @@ Blockly.Blocks['bit_button_event'] = {
     this.appendDummyInput()
       .appendField(Blockly.Msg.BIT_AB_BUTTON, "當按鈕開關")
       .appendField(new Blockly.FieldDropdown([
-        [Blockly.Msg.BIT_AB_BUTTON_A, "_bit_btnA_"], 
-        [Blockly.Msg.BIT_AB_BUTTON_B, "_bit_btnB_"], 
+        [Blockly.Msg.BIT_AB_BUTTON_A, "_bit_btnA_"],
+        [Blockly.Msg.BIT_AB_BUTTON_B, "_bit_btnB_"],
         [Blockly.Msg.BIT_AB_BUTTON_AB, "_bit_2btn_"]
       ]), "var_")
       .appendField(Blockly.Msg.BIT_AB_BUTTON_S, "被")
       .appendField(new Blockly.FieldDropdown([
-        [Blockly.Msg.BIT_AB_BUTTON_PRESSED, "pressed"], 
-        [Blockly.Msg.BIT_AB_BUTTON_RELEASE, "released"], 
+        [Blockly.Msg.BIT_AB_BUTTON_PRESSED, "pressed"],
+        [Blockly.Msg.BIT_AB_BUTTON_RELEASE, "released"],
         [Blockly.Msg.BIT_AB_BUTTON_LONGPRESS, "longPress"]
       ]), "event_");
     this.appendStatementInput("do_")
@@ -1344,10 +1345,10 @@ Blockly.Blocks['bit_button_event'] = {
 
 
 /*
-8888b.  888888 888888 888888  dP""b8 888888 888888 8888b.  
- 8I  Yb 88__     88   88__   dP   `"   88   88__    8I  Yb 
- 8I  dY 88""     88   88""   Yb        88   88""    8I  dY 
-8888Y"  888888   88   888888  YboodP   88   888888 8888Y"  
+8888b.  888888 888888 888888  dP""b8 888888 888888 8888b.
+ 8I  Yb 88__     88   88__   dP   `"   88   88__    8I  Yb
+ 8I  dY 88""     88   88""   Yb        88   88""    8I  dY
+8888Y"  888888   88   888888  YboodP   88   888888 8888Y"
 */
 
 Blockly.Blocks['bit_detected'] = {
@@ -1370,7 +1371,7 @@ Blockly.Blocks['bit_photocell_val'] = {
     this.appendDummyInput()
       .appendField(Blockly.Msg.BIT_DETECTED_PHOTOCELL, "亮度")
       .appendField(new Blockly.FieldDropdown([
-        [Blockly.Msg.BIT_DETECTED_PHOTOCELL_LEFT, "_l_"], 
+        [Blockly.Msg.BIT_DETECTED_PHOTOCELL_LEFT, "_l_"],
         [Blockly.Msg.BIT_DETECTED_PHOTOCELL_RIGHT, "_r_"]
       ]), "name_")
       .appendField(Blockly.Msg.BIT_DETECTED_PHOTOCELL_VAL, "的數值 ( 流明 )");
@@ -1407,10 +1408,10 @@ Blockly.Blocks['bit_detected_stop'] = {
 
 
 /*
-88""Yb 88   88 8888P 8888P 888888 88""Yb 
-88__dP 88   88   dP    dP  88__   88__dP 
-88""Yb Y8   8P  dP    dP   88""   88"Yb  
-88oodP `YbodP' d8888 d8888 888888 88  Yb 
+88""Yb 88   88 8888P 8888P 888888 88""Yb
+88__dP 88   88   dP    dP  88__   88__dP
+88""Yb Y8   8P  dP    dP   88""   88"Yb
+88oodP `YbodP' d8888 d8888 888888 88  Yb
 */
 
 let notesAndTempos = [
@@ -1724,10 +1725,10 @@ Blockly.Blocks['buzzer_load_music'] = {
 };
 
 /*
-8b    d8 88""Yb 88   88 dP""Yb oP"Yb. 888888  dP"Yb  
-88b  d88 88__dP 88   88 Ybood8 "' dP' 88oo." dP   Yb 
-88YbdP88 88"""  Y8   8P   .8P'   dP'     `8b Yb   dP 
-88 YY 88 88     `YbodP'  .dP'  .d8888 8888P'  YbodP  
+8b    d8 88""Yb 88   88 dP""Yb oP"Yb. 888888  dP"Yb
+88b  d88 88__dP 88   88 Ybood8 "' dP' 88oo." dP   Yb
+88YbdP88 88"""  Y8   8P   .8P'   dP'     `8b Yb   dP
+88 YY 88 88     `YbodP'  .dP'  .d8888 8888P'  YbodP
 */
 
 Blockly.Blocks['mpu9250_detected'] = {
@@ -1849,10 +1850,10 @@ Blockly.Blocks['mpu9250_detected_type'] = {
 
 
 /*
-8888b.  888888 8b    d8  dP"Yb  
- 8I  Yb 88__   88b  d88 dP   Yb 
- 8I  dY 88""   88YbdP88 Yb   dP 
-8888Y"  888888 88 YY 88  YbodP  
+8888b.  888888 8b    d8  dP"Yb
+ 8I  Yb 88__   88b  d88 dP   Yb
+ 8I  dY 88""   88YbdP88 Yb   dP
+8888Y"  888888 88 YY 88  YbodP
 */
 
 var monsterList = [
@@ -2369,10 +2370,10 @@ Blockly.Blocks['sound_03'] = {
 
 
 /*
-.dP"Y8 88""Yb 888888 888888  dP""b8 88  88 
-`Ybo." 88__dP 88__   88__   dP   `" 88  88 
-o.`Y8b 88"""  88""   88""   Yb      888888 
-8bodP' 88     888888 888888  YboodP 88  88 
+.dP"Y8 88""Yb 888888 888888  dP""b8 88  88
+`Ybo." 88__dP 88__   88__   dP   `" 88  88
+o.`Y8b 88"""  88""   88""   Yb      888888
+8bodP' 88     888888 888888  YboodP 88  88
 */
 
 Blockly.Blocks['speech_recognition'] = {
@@ -2405,3 +2406,57 @@ Blockly.Blocks['speech_recognition_value'] = {
 };
 
 
+
+Blockly.Blocks['pin_read_digital'] = {
+  init: function () {
+    this.appendDummyInput()
+      .appendField(Blockly.Msg.WEBDUINO_PIN_READ)
+      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown('digital')), 'pin_')
+      .appendField(Blockly.Msg.WEBDUINO_PIN_DIN);
+    this.setOutput(true);
+    this.setColour(50);
+    this.setTooltip('');
+    this.setHelpUrl('');
+  }
+};
+
+Blockly.Blocks['pin_read_analog'] = {
+  init: function () {
+    this.appendDummyInput()
+      .appendField(Blockly.Msg.WEBDUINO_PIN_READ)
+      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown('analog')), 'pin_')
+      .appendField(Blockly.Msg.WEBDUINO_PIN_AIN);
+    this.setOutput(true);
+    this.setColour(50);
+    this.setTooltip('');
+    this.setHelpUrl('');
+  }
+};
+
+Blockly.Blocks['pin_write_digital'] = {
+  init: function () {
+    this.appendValueInput("value_")
+      .appendField(Blockly.Msg.WEBDUINO_PIN_DIGITAL_WRITE)
+      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown('digital')), 'pin_')
+      .appendField(Blockly.Msg.WEBDUINO_PIN_VALUE);
+    this.setPreviousStatement(true);
+    this.setNextStatement(true);
+    this.setColour(50);
+    this.setTooltip('');
+    this.setHelpUrl('');
+  }
+};
+
+Blockly.Blocks['pin_write_analog'] = {
+  init: function () {
+    this.appendValueInput("value_")
+      .appendField(Blockly.Msg.WEBDUINO_PIN_ANALOG_WRITE)
+      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown('pwm')), 'pin_')
+      .appendField(Blockly.Msg.WEBDUINO_PIN_VALUE);
+    this.setPreviousStatement(true);
+    this.setNextStatement(true);
+    this.setColour(50);
+    this.setTooltip('');
+    this.setHelpUrl('');
+  }
+};

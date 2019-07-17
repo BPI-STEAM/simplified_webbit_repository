@@ -1,0 +1,28 @@
+<category id="catBasicPackage" index="999">
+  <category id="catIR">
+    <block type="irrecv_on"></block>
+    <block type="irrecv_value"></block>
+    <block type="irled_launch">
+      <value name="code_">
+        <block type="text">
+          <field name="TEXT"></field>
+        </block>
+      </value>
+    </block>
+  </category>
+  <category id="catUltrasonic">
+    <block type="ultrasonic_distance">
+      <field name="trig_">3</field>
+      <field name="echo_">9</field>
+    </block>
+  </category>
+  <category id="catServo">
+    <block type="servo_angle"></block>
+  </category>
+  <category id="catSound">
+    <block type="sound_status"></block>
+  </category>
+  <category id="catPhotocell">
+    <block type="photocell_val"></block>
+  </category>
+</category>

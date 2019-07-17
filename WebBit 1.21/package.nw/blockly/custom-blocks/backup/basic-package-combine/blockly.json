@@ -1,0 +1,26 @@
+{
+  "types": [
+    "irled_launch",
+    "irrecv_on",
+    "irrecv_value",
+    "ultrasonic_distance",
+    "servo_angle",
+    "sound_status",
+    "photocell_val"
+  ],
+  "category": "toolbox",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "BitIR-blockly.js",
+    "BitUltrasonic-blockly.js",
+    "BitServo-blockly.js",
+    "BitSound-blockly.js",
+    "BitPhotocell-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}

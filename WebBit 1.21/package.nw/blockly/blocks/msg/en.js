@@ -359,21 +359,6 @@ Blockly.Msg.WEBDUINO_SMART = "Smart";
 Blockly.Msg.WEBDUINO_MARK = "MARK 1";
 Blockly.Msg.WEBDUINO_FLY = "Fly";
 
-// I/O Pins
-
-Blockly.Msg.WEBDUINO_PIN = "Pin";
-Blockly.Msg.WEBDUINO_BIT_PIN = "bit Pin";
-Blockly.Msg.WEBDUINO_PIN_ON = "On";
-Blockly.Msg.WEBDUINO_PIN_READ = "Read Value from";
-Blockly.Msg.WEBDUINO_PIN_WRITE = "Write Value to";
-Blockly.Msg.WEBDUINO_PIN_VALUE = "";
-Blockly.Msg.WEBDUINO_PIN_SET = "Set";
-Blockly.Msg.WEBDUINO_PIN_MODE = "Mode";
-Blockly.Msg.WEBDUINO_PIN_DIN = "Digital Input";
-Blockly.Msg.WEBDUINO_PIN_DOUT = "Digital Output";
-Blockly.Msg.WEBDUINO_PIN_AIN = "Analog Input";
-Blockly.Msg.WEBDUINO_PIN_AOUT = "Analog Output (PWM)";
-
 // LED
 
 Blockly.Msg.WEBDUINO_LED = "LED";
@@ -402,17 +387,6 @@ Blockly.Msg.WEBDUINO_RGBLED_RED = "Red";
 Blockly.Msg.WEBDUINO_RGBLED_GREEN = "Green";
 Blockly.Msg.WEBDUINO_RGBLED_BLUE = "Blue";
 Blockly.Msg.WEBDUINO_RGBLED_SETCOLOR = "Set Color";
-
-// Ultrasonic
-
-Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_TRIG = "Ultrasonic, TRIG:";
-Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_ECHO = "  ECHO:";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET = "Get Distance";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET_DISTANCE = "Detecting Distance Every";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET_TIME = "ms ( 1/1000 sec )";
-Blockly.Msg.WEBDUINO_ULTRASONIC_GET_DO = "Do";
-Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE = "Detected Distance ( cm )";
-Blockly.Msg.WEBDUINO_ULTRASONIC_STOP = "Stop Detecting Distance";
 
 // Smart Servo
 
@@ -457,21 +431,6 @@ Blockly.Msg.WEBDUINO_PIR_STATUS_DETECTED = "Detected";
 Blockly.Msg.WEBDUINO_PIR_STATUS_ENDED = "not Detected";
 Blockly.Msg.WEBDUINO_PIR_DETECTED = "PIR's Change";
 Blockly.Msg.WEBDUINO_PIR_DO = "Do";
-
-// Sound
-
-Blockly.Msg.WEBDUINO_SOUND = "Sound Sensor, Pin:";
-Blockly.Msg.WEBDUINO_SOUND_WHEN = "When";
-Blockly.Msg.WEBDUINO_SOUND_STATUS_DETECTED = "Detected";
-Blockly.Msg.WEBDUINO_SOUND_STATUS_ENDED = "not Detected";
-Blockly.Msg.WEBDUINO_SOUND_DETECTED = "Sound's Change";
-Blockly.Msg.WEBDUINO_SOUND_DO = "Do";
-
-// Servo
-
-Blockly.Msg.WEBDUINO_SERVO = "Servo Motor, Pin";
-Blockly.Msg.WEBDUINO_SERVO_TEXT = "Servo Motor:";
-Blockly.Msg.WEBDUINO_SERVO_ANGLE = " Angle (0-180°) :";
 
 // Buzzer
 
@@ -554,19 +513,6 @@ Blockly.Msg.WEBDUINO_SOIL_DO = "Do";
 Blockly.Msg.WEBDUINO_SOIL_VAL = "Detected Value";
 Blockly.Msg.WEBDUINO_SOIL_STOP = "Stop Detecting";
 
-// Irrecv
-
-Blockly.Msg.WEBDUINO_IRRECV = "IR Receiver, Pin:";
-Blockly.Msg.WEBDUINO_IRRECV_ON = "Start Receiving";
-Blockly.Msg.WEBDUINO_IRRECV_CODE = "Received Code";
-Blockly.Msg.WEBDUINO_IRRECV_OFF = "Stop Receiving";
-Blockly.Msg.WEBDUINO_IRRECV_DO = "Do";
-
-// IrLed
-
-Blockly.Msg.WEBDUINO_IRLED = "IR launch, Pin:";
-Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "Launch Codes (m-16):";
-
 // ADXL345
 
 Blockly.Msg.WEBDUINO_ADXL345 = "ADXL345, SDA";
@@ -594,24 +540,6 @@ Blockly.Msg.WEBDUINO_BARCODE_ON = "Start Detecting";
 Blockly.Msg.WEBDUINO_BARCODE_DO = "Do";
 Blockly.Msg.WEBDUINO_BARCODE_VAL = "Barcode";
 Blockly.Msg.WEBDUINO_BARCODE_OFF = "Stop Detecting";
-
-// Car
-
-Blockly.Msg.WEBDUINO_TESTCAR = "Car";
-Blockly.Msg.WEBDUINO_TESTCAR_PINRF = "Pin: Right(f)";
-Blockly.Msg.WEBDUINO_TESTCAR_PINRB = "Right(b)";
-Blockly.Msg.WEBDUINO_TESTCAR_PINLF = "Left(f)";
-Blockly.Msg.WEBDUINO_TESTCAR_PINLB = "Left(b)";
-Blockly.Msg.WEBDUINO_TESTCAR_ACTION = " Action:";
-Blockly.Msg.WEBDUINO_TESTCAR_GOFRONT = "go front";
-Blockly.Msg.WEBDUINO_TESTCAR_GOBACK = "go back";
-Blockly.Msg.WEBDUINO_TESTCAR_GOLEFT = "go left";
-Blockly.Msg.WEBDUINO_TESTCAR_GORIGHT = "go right";
-Blockly.Msg.WEBDUINO_TESTCAR_BACKLEFT = "back left";
-Blockly.Msg.WEBDUINO_TESTCAR_BACKRIGHT = "back right";
-Blockly.Msg.WEBDUINO_TESTCAR_TURNRIGHT = "turn right";
-Blockly.Msg.WEBDUINO_TESTCAR_TURNLEFT = "turn left";
-Blockly.Msg.WEBDUINO_TESTCAR_STOP = "stop";
 
 // Firebase
 
@@ -817,26 +745,6 @@ Blockly.Msg.WEBDUINO_BUZZER_SHOW_NOTESANDTEMPOS = "'s notes and tempos";
 Blockly.Msg.WEBDUINO_BUZZER_CLICK = "Click";
 Blockly.Msg.WEBDUINO_BUZZER_DO = "do:";
 
-Blockly.Msg.WEBDUINO_TESTCAR = "Car";
-Blockly.Msg.WEBDUINO_TESTCAR_PINRF = "Pin: Right(f)";
-Blockly.Msg.WEBDUINO_TESTCAR_PINRB = "Right(b)";
-Blockly.Msg.WEBDUINO_TESTCAR_PINLF = "Left(f)";
-Blockly.Msg.WEBDUINO_TESTCAR_PINLB = "Left(b)";
-Blockly.Msg.WEBDUINO_TESTCAR_ACTION = " Action:";
-Blockly.Msg.WEBDUINO_TESTCAR_GOFRONT = "go front";
-Blockly.Msg.WEBDUINO_TESTCAR_GOBACK = "go back";
-Blockly.Msg.WEBDUINO_TESTCAR_GOLEFT = "go left";
-Blockly.Msg.WEBDUINO_TESTCAR_GORIGHT = "go right";
-Blockly.Msg.WEBDUINO_TESTCAR_BACKLEFT = "back left";
-Blockly.Msg.WEBDUINO_TESTCAR_BACKRIGHT = "back right";
-Blockly.Msg.WEBDUINO_TESTCAR_TURNRIGHT = "turn right";
-Blockly.Msg.WEBDUINO_TESTCAR_TURNLEFT = "turn left";
-Blockly.Msg.WEBDUINO_TESTCAR_STOP = "stop";
-Blockly.Msg.WEBDUINO_TESTCAR_SPEED = "speed";
-Blockly.Msg.WEBDUINO_TESTCAR_RIGHT = "right wheel";
-Blockly.Msg.WEBDUINO_TESTCAR_LEFT = "left wheel";
-Blockly.Msg.WEBDUINO_TESTCAR_PERCENT = "%";
-
 // Tutorials - Photcell
 
 Blockly.Msg.WEBDUINO_PHOTOCELL_SHOW = "Show Value:";
@@ -894,10 +802,10 @@ Blockly.Msg.WEBDUINO_GOOGLESHEETS_READDATA = "Sheet data";
 
 
 /*
- Yb        dP 888888 88""Yb 88""Yb 88 888888 
- Yb  db  dP  88__   88__dP 88__dP 88   88   
-  YbdPYbdP   88""   88""Yb 88""Yb 88   88   
-   YP  YP    888888 88oodP 88oodP 88   88  
+ Yb        dP 888888 88""Yb 88""Yb 88 888888
+ Yb  db  dP  88__   88__dP 88__dP 88   88
+  YbdPYbdP   88""   88""Yb 88""Yb 88   88
+   YP  YP    888888 88oodP 88oodP 88   88
 */
 
 // Web:Bit - Tutorial url
@@ -1356,6 +1264,15 @@ Blockly.Msg.BIT_BOARD_WIFI = "Wi-Fi";
 Blockly.Msg.BIT_BOARD_CONTROL = "控制";
 Blockly.Msg.BIT_BOARD_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/board.html";
 
+// Web:Bit - I/O Pin
+
+Blockly.Msg.WEBDUINO_PIN_READ = "Read Value from";
+Blockly.Msg.WEBDUINO_PIN_ANALOG_WRITE = "Analog Output to Pin";
+Blockly.Msg.WEBDUINO_PIN_DIGITAL_WRITE = "Digital Output to Pin";
+Blockly.Msg.WEBDUINO_PIN_VALUE = "";
+Blockly.Msg.WEBDUINO_PIN_DIN = "Digital Input";
+Blockly.Msg.WEBDUINO_PIN_AIN = "Analog Input";
+
 // Web:Bit - Matrix
 
 Blockly.Msg.BIT_MATRIX_COLOR = "矩陣 LED 燈光為";
@@ -1451,7 +1368,7 @@ Blockly.Msg.BIT_BUZZER_PLAY_EVENT_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/bu
 // Web:Bit - MPU9250
 
 Blockly.Msg.BIT_MPU9250_ICON = "bit-mpu9250-icon";
-Blockly.Msg.BIT_MPU9250_TYPE_TITLE_SHAKE = "晃動"; 
+Blockly.Msg.BIT_MPU9250_TYPE_TITLE_SHAKE = "晃動";
 Blockly.Msg.BIT_MPU9250_TYPE_TITLE_UP = "正面朝上";
 Blockly.Msg.BIT_MPU9250_TYPE_TITLE_ROLLBACK = "向後翻轉";
 Blockly.Msg.BIT_MPU9250_TYPE_TITLE_ROLLRIGHT = "向右翻轉";

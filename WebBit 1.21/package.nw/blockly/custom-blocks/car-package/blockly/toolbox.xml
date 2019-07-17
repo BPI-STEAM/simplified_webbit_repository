@@ -1,0 +1,41 @@
+<category id="catCarPackage" index="999" COLOUR="170">
+  <block type="car_move"></block>
+
+  <block type="car_tracker_track"></block>
+  <block type="car_tracker_do"></block>
+  <block type="car_tracker_on"></block>
+  <block type="car_tracker_off"></block>
+
+  <block type="car_button_event"></block>
+
+  <block type="car_ultrasonic_distance"></block>
+
+  <block type="car_irrecv_on"></block>
+  <block type="car_irrecv_value"></block>
+  <block type="car_irled_launch">
+    <value name="code_">
+      <block type="text">
+        <field name="TEXT"></field>
+      </block>
+    </value>
+  </block>
+
+  <block type="car_ws2812_print">
+    <value name="led">
+      <block type="math_number">
+        <field name="NUM">0</field>
+      </block>
+    </value>
+    <value name="color">
+      <block type="colour_picker"></block>
+    </value>
+  </block>
+  <block type="car_ws2812_brightness">
+    <value name="brightness">
+      <block type="math_number">
+        <field name="NUM">50</field>
+      </block>
+    </value>
+  </block>
+  <block type="car_ws2812_off"></block>
+</category>

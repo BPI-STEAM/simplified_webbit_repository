@@ -1200,180 +1200,6 @@ Blockly.Blocks['all_board_ready'] = {
   }
 };
 
-//https://blockly-demo.appspot.com/static/demos/blockfactory/index.html#oihtmu
-Blockly.Blocks['board_query_pin_state'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_QUERY_PIN, "偵測腳位");
-    this.appendValueInput("pin")
-      .setCheck("Number");
-    this.appendStatementInput("do_")
-      .appendField(Blockly.Msg.WEBDUINO_PIN_DO, "執行");
-    this.setInputsInline(true);
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setTooltip('');
-    this.setColour(120);
-    this.setHelpUrl(mainUrl + 'basic/blockly/board-pin.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['board_pin_state'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_PIN_STATE, "腳位狀態");
-    this.setOutput(true);
-    this.setTooltip('');
-    this.setColour(160);
-    this.setHelpUrl(mainUrl + 'basic/blockly/board-pin.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['pin_get'] = {
-  init: function () {
-    this.appendValueInput("pin")
-      .appendField(Blockly.Msg.WEBDUINO_PIN, "Pin")
-      .setCheck("Number");
-    this.setOutput(true);
-    this.setColour(270);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/blockly/board-pin.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['bit_pin_get'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_BIT_PIN)
-      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown), 'pin_')
-    this.setOutput(true);
-    this.setTooltip('');
-    this.setColour(230);
-    this.setHelpUrl(mainUrl + 'basic/blockly/board-pin.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['pin_num'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown), "pin_");
-    this.setOutput(true);
-    this.setColour(230);
-    this.setOutput(true, "Number");
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/blockly/board-pin.html' + utmUrl);
-  }
-};
-
-
-Blockly.Blocks['pin_board'] = {
-  init: function () {
-    this.appendValueInput("pin_")
-      .setCheck(["Number", "pin_num"])
-      .appendField(Blockly.Msg.WEBDUINO_BOARD, "Board")
-      .appendField(new Blockly.FieldDropdown(this.getBoardsDropdown), "board_");
-    this.setOutput(true);
-    this.setColour(270);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/blockly/board-pin.html' + utmUrl);
-  },
-  getBoardsDropdown: function () {
-    var nameMap = {
-      '1': Blockly.Msg.WEBDUINO_BOARD_WIFI,
-      '2': Blockly.Msg.WEBDUINO_BOARD_SERIAL,
-      '3': Blockly.Msg.WEBDUINO_BOARD_BLUETOOTH,
-      '4': Blockly.Msg.WEBDUINO_BOARD_WEBSOCKET
-    },
-      xml = Blockly.Xml.workspaceToDom(Code.workspace),
-      boards = xml.querySelectorAll("block[type=board_ready], block[type=smart_ready], block[type=board]"),
-      menus = [];
-
-    if (boards.length < 1) {
-      return [
-        ['', '']
-      ];
-    }
-
-    for (var i = 0; i < boards.length; i++) {
-      var item = boards[i],
-        type = item.querySelector('field[name=type_]').textContent,
-        param = item.querySelector('value[name=device_]').textContent;
-
-      switch (type) {
-        case '1':
-          menus.push(['(' + nameMap['1'] + ') ' + param, "{transport: 'mqtt', device: '" + param + "'}"]);
-          break;
-
-        case '2':
-          menus.push(['(' + nameMap['2'] + ') ' + param, "{transport: 'serial', path: '" + param + "'}"]);
-          break;
-
-        case '3':
-          menus.push(['(' + nameMap['3'] + ') ' + param, "{transport: 'bluetooth', address: '" + param + "'}"]);
-          break;
-
-        case '4':
-          menus.push(['(' + nameMap['4'] + ') ' + param, "{transport: 'websocket', url: '" + param + "'}"]);
-          break;
-
-        default:
-          menus.push(['', '']);
-          break;
-      }
-    }
-
-    return menus;
-  }
-};
-
-Blockly.Blocks['pin_set_mode'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_PIN_SET, "Set")
-      .appendField(new Blockly.FieldVariable("pin"), "pin_")
-      .appendField(Blockly.Msg.WEBDUINO_PIN_MODE, "Mode")
-      .appendField(new Blockly.FieldDropdown([
-        [Blockly.Msg.WEBDUINO_PIN_DIN, "0"],
-        [Blockly.Msg.WEBDUINO_PIN_DOUT, "1"],
-        [Blockly.Msg.WEBDUINO_PIN_AIN, "2"],
-        [Blockly.Msg.WEBDUINO_PIN_AOUT, "3"]
-      ]), "mode_");
-    this.setInputsInline(true);
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setColour(65);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/blockly/board-pin.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['pin_read'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_PIN_READ)
-      .appendField(new Blockly.FieldVariable("pin"), "pin_")
-      .appendField(Blockly.Msg.WEBDUINO_PIN_VALUE);
-    this.setOutput(true);
-    this.setColour(35);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/blockly/board-pin.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['pin_write'] = {
-  init: function () {
-    this.appendValueInput("value_")
-      .appendField(Blockly.Msg.WEBDUINO_PIN_WRITE)
-      .appendField(new Blockly.FieldVariable("pin"), "pin_")
-      .appendField(Blockly.Msg.WEBDUINO_PIN_VALUE);
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setColour(65);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/blockly/board-pin.html' + utmUrl);
-  }
-};
-
 Blockly.Blocks['led_new'] = {
   init: function () {
     this.appendDummyInput()
@@ -1598,79 +1424,6 @@ Blockly.Blocks['delay'] = {
   }
 };
 
-Blockly.Blocks['ultrasonic_new'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_TRIG, "UltraSonic,  Trig:")
-      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown), "trig_")
-      .appendField(Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_ECHO, "  Echo:")
-      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown), "echo_");
-    this.setOutput(true);
-    this.setTooltip('');
-    this.setColour(230);
-    this.setHelpUrl(mainUrl + 'basic/sensor/ultrasonic.html' + utmUrl);
-  }
-};
-
-// https://blockly-demo.appspot.com/static/demos/blockfactory/index.html#s2p7t7
-Blockly.Blocks['ultrasonic_get'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(new Blockly.FieldVariable("ultrasonic"), "var_");
-    this.appendValueInput("time")
-      .setCheck("Number")
-      .appendField(Blockly.Msg.WEBDUINO_ULTRASONIC_GET_DISTANCE, "get distance over every ");
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_ULTRASONIC_GET_TIME, "ms ( 1/1000 sec )");
-    this.appendStatementInput("do")
-      .appendField(Blockly.Msg.WEBDUINO_ULTRASONIC_GET_DO, "do");
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setTooltip('');
-    this.setColour(65);
-    this.setHelpUrl(mainUrl + 'basic/sensor/ultrasonic.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['ultrasonic_get_promise'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(new Blockly.FieldVariable("ultrasonic"), "var_")
-      .appendField(Blockly.Msg.WEBDUINO_ULTRASONIC_GET);
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setColour(65);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/sensor/ultrasonic.html' + utmUrl);
-  }
-};
-
-// https://blockly-demo.appspot.com/static/demos/blockfactory/index.html#vv8fx4
-Blockly.Blocks['ultrasonic_distance'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(new Blockly.FieldVariable("ultrasonic"), "var_")
-      .appendField(Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE, "'s distance");
-    this.setOutput(true);
-    this.setTooltip('');
-    this.setColour(35);
-    this.setHelpUrl(mainUrl + 'basic/sensor/ultrasonic.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['ultrasonic_stop'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(new Blockly.FieldVariable("ultrasonic"), "var_")
-      .appendField(Blockly.Msg.WEBDUINO_ULTRASONIC_STOP, "停止擷取距離");
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setTooltip('');
-    this.setColour(65);
-    this.setHelpUrl(mainUrl + 'basic/sensor/ultrasonic.html' + utmUrl);
-  }
-};
-
 // https://blockly-demo.appspot.com/static/demos/blockfactory/index.html#ninxcs
 Blockly.Blocks['pir_new'] = {
   init: function () {
@@ -1709,7 +1462,7 @@ Blockly.Blocks['sound_new'] = {
   init: function () {
     this.appendDummyInput()
       .appendField(Blockly.Msg.WEBDUINO_SOUND, "Sound ,  pin:")
-      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown), "pin_");
+      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown('digital')), "pin_");
     this.setOutput(true);
     this.setTooltip('');
     this.setColour(230);
@@ -1720,8 +1473,8 @@ Blockly.Blocks['sound_new'] = {
 Blockly.Blocks['sound_status'] = {
   init: function () {
     this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_SOUND_WHEN, "當")
-      .appendField(new Blockly.FieldVariable("sound"), "item_")
+      .appendField(Blockly.Msg.WEBDUINO_SOUND, "Sound ,  pin:")
+      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown('digital')), "pin_")
       .appendField(new Blockly.FieldDropdown([
         [Blockly.Msg.WEBDUINO_SOUND_STATUS_DETECTED, "detected"],
         [Blockly.Msg.WEBDUINO_SOUND_STATUS_ENDED, "ended"]
@@ -1774,24 +1527,7 @@ Blockly.Blocks['smart_servo_new'] = {
   init: function () {
     this.appendDummyInput()
       .appendField(Blockly.Msg.WEBDUINO_SMART_SERVO_NEW, "Smart Servo ,  ID:")
-      .appendField(new Blockly.FieldDropdown([
-        ["1", "1"],
-        ["2", "2"],
-        ["3", "3"],
-        ["4", "4"],
-        ["5", "5"],
-        ["6", "6"],
-        ["7", "7"],
-        ["8", "8"],
-        ["9", "9"],
-        ["10", "10"],
-        ["11", "11"],
-        ["12", "12"],
-        ["13", "13"],
-        ["14", "14"],
-        ["15", "15"],
-        ["16", "16"]
-      ]), "id_");
+      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown('pwm')), "id_");
     this.setOutput(true);
     this.setTooltip('');
     this.setColour(230);
@@ -1874,31 +1610,10 @@ Blockly.Blocks['servo_new'] = {
   init: function () {
     this.appendDummyInput()
       .appendField(Blockly.Msg.WEBDUINO_SERVO, "Servo ,  pin:")
-      .appendField(new Blockly.FieldDropdown([
-        ["0~", "0"],
-        ["1~ ( A4 )", "1"],
-        ["2~ ( A5 )", "2"],
-        ["3~", "3"],
-        ["4~", "4"],
-        ["10~", "10"]
-      ]), "pin_");
+      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown('pwm')), "pin_");
     this.setOutput(true);
     this.setTooltip('');
     this.setColour(230);
-    this.setHelpUrl(mainUrl + 'basic/component/servo.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['servo_angle'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(new Blockly.FieldVariable("servo"), "var_")
-      .appendField(Blockly.Msg.WEBDUINO_SERVO_ANGLE, "旋轉角度：")
-      .appendField(new Blockly.FieldAngle("90"), "angle_");
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setTooltip('');
-    this.setColour(65);
     this.setHelpUrl(mainUrl + 'basic/component/servo.html' + utmUrl);
   }
 };
@@ -2240,79 +1955,6 @@ Blockly.Blocks['new_object'] = {
     }
   },
   newQuote_: Blockly.Blocks['text'].newQuote_
-};
-
-
-
-//https://blockly-demo.appspot.com/static/demos/blockfactory/index.html#85nm6w
-Blockly.Blocks[Blockly.Msg.WEBDUINO_TESTCAR_NEW, 'car_test_new'] = {
-  init: function () {
-    this.appendValueInput("var_")
-      .appendField(Blockly.Msg.WEBDUINO_TESTCAR, "自走車");
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_TESTCAR_PINRF, "腳位設定：右前")
-      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown), "rf_")
-      .appendField(Blockly.Msg.WEBDUINO_TESTCAR_PINRB, "右後")
-      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown), "rb_")
-      .appendField(Blockly.Msg.WEBDUINO_TESTCAR_PINLF, "左前")
-      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown), "lf_")
-      .appendField(Blockly.Msg.WEBDUINO_TESTCAR_PINLB, "左後")
-      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown), "lb_");
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setTooltip('');
-    this.setColour(200);
-    this.setHelpUrl(mainUrl + 'useful/example/toycar-keyboard.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['car_test_move'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_TESTCAR, "自走車")
-      .appendField(new Blockly.FieldVariable("car"), "var_")
-      .appendField(Blockly.Msg.WEBDUINO_TESTCAR_ACTION, " 動作")
-      .appendField(new Blockly.FieldDropdown([
-        [Blockly.Msg.WEBDUINO_TESTCAR_GOFRONT, "goFront"],
-        [Blockly.Msg.WEBDUINO_TESTCAR_GOBACK, "goBack"],
-        [Blockly.Msg.WEBDUINO_TESTCAR_GOLEFT, "goLeft"],
-        [Blockly.Msg.WEBDUINO_TESTCAR_GORIGHT, "goRight"],
-        [Blockly.Msg.WEBDUINO_TESTCAR_BACKLEFT, "backLeft"],
-        [Blockly.Msg.WEBDUINO_TESTCAR_BACKRIGHT, "backRight"],
-        [Blockly.Msg.WEBDUINO_TESTCAR_TURNRIGHT, "turnRight"],
-        [Blockly.Msg.WEBDUINO_TESTCAR_TURNLEFT, "turnLeft"],
-        [Blockly.Msg.WEBDUINO_TESTCAR_STOP, "stop"]
-      ]), "move_");
-    this.setColour(200);
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'useful/example/toycar-keyboard.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['car_speed'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_TESTCAR, "自走車")
-      .appendField(new Blockly.FieldVariable("car"), "var_")
-      .appendField(new Blockly.FieldDropdown([
-        [Blockly.Msg.WEBDUINO_TESTCAR_RIGHT, "setRightSpeed"],
-        [Blockly.Msg.WEBDUINO_TESTCAR_LEFT, "setLeftSpeed"]
-      ]), "tire_")
-      .appendField(Blockly.Msg.WEBDUINO_TESTCAR_SPEED, " 速度");
-    this.appendValueInput("speed_")
-      .setCheck("Number");
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_TESTCAR_PERCENT, "%");
-    this.setColour(200);
-    this.setInputsInline(true);
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setTooltip('');
-    this.setHelpUrl('https://webduino.io');
-
-  }
 };
 
 // https://blockly-demo.appspot.com/static/demos/blockfactory/index.html#e4r57n
@@ -3153,88 +2795,6 @@ Blockly.Blocks['soil_stop'] = {
     this.setColour(65);
     this.setTooltip('');
     this.setHelpUrl(mainUrl + 'basic/sensor/soil.html' + utmUrl);
-  }
-};
-
-
-Blockly.Blocks['irrecv_new'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_IRRECV, "紅外線接收，腳位：")
-      .appendField(new Blockly.FieldDropdown(Code.getPinDropdown), "pin_");
-    this.setOutput(true);
-    this.setColour(230);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/component/ir.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['irrecv_on'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(new Blockly.FieldVariable("irrecv"), "name_")
-      .appendField(Blockly.Msg.WEBDUINO_IRRECV_ON, "開始接收");
-    this.appendStatementInput("on_")
-      .appendField(Blockly.Msg.WEBDUINO_IRRECV_DO, "執行：");
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setColour(65);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/component/ir.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['irrecv_val'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(new Blockly.FieldVariable("irrecv"), "name_")
-      .appendField(Blockly.Msg.WEBDUINO_IRRECV_CODE, "接收的代碼");
-    this.setOutput(true);
-    this.setColour(35);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/component/ir.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['irrecv_off'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(new Blockly.FieldVariable("irrecv"), "name_")
-      .appendField(Blockly.Msg.WEBDUINO_IRRECV_OFF, "停止接收");
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setColour(65);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/component/ir.html' + utmUrl);
-  }
-};
-
-
-Blockly.Blocks['irled_new'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_IRLED, "紅外線發射，腳位：")
-      .appendField(new Blockly.FieldDropdown([
-        ["9", "9"]
-      ]), "pin_");
-    this.setOutput(true);
-    this.setColour(230);
-    this.setTooltip('');
-    this.setHelpUrl(mainUrl + 'basic/component/ir.html' + utmUrl);
-  }
-};
-
-Blockly.Blocks['irled_launch'] = {
-  init: function () {
-    this.appendValueInput("code_")
-      .setCheck("String")
-      .appendField(new Blockly.FieldVariable("irled"), "name_")
-      .appendField(Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE, "發射代碼 ( 十六進位 )：");
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setTooltip('');
-    this.setColour(65);
-    this.setHelpUrl(mainUrl + 'basic/component/ir.html' + utmUrl);
   }
 };
 
