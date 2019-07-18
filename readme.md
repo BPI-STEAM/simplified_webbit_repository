@@ -49,15 +49,19 @@ Webduino 的大陆版的 文档、视频、图片 等内容，受众人群是自
 
 - [建立起了初步的大纲目录](https://demo.codimd.org/Yo4AdMtAQ62DSM4XviQyAg)
 
-- [开发板介绍（已审，存在有问题）](https://demo.codimd.org/XCESTmS6Tw-nCKtt-IGu1Q)
+- [开发板介绍（已审，存在的问题）](https://demo.codimd.org/XCESTmS6Tw-nCKtt-IGu1Q)
 
    - 缺少 尺寸规格图。
    - 是否觉得需要修订 正面与背面 的效果图。
    - XXX 设计一张 两者整合 的图，图中带 LED 编号。
    - 底部金手指定义 的 原始表格 ，限定为 1.4 版本。
 
-- [什么是 Web:Bit 教育版（初稿）](https://demo.codimd.org/jJ2G6dd6Sf63MiWBmMIJFw)
+- [什么是 Web:Bit 教育版（已审，存在的问题）](https://demo.codimd.org/jJ2G6dd6Sf63MiWBmMIJFw)
 
+   - 缺少 3D 效果图。
+   - 编辑器的电脑预览图简体化。
+   - 修复下载链接。
+   
 ## 任务内容
 
 1. 核对板子通用介绍部分的文档，共两篇。
