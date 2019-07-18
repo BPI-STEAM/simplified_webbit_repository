@@ -49,6 +49,10 @@ Webduino 的大陆版的 文档、视频、图片 等内容，受众人群是自
 
 - [建立起了初步的大纲目录](https://demo.codimd.org/Yo4AdMtAQ62DSM4XviQyAg)
 
+- [开发板介绍（已审）](https://demo.codimd.org/XCESTmS6Tw-nCKtt-IGu1Q)
+
+- [什么是 Web:Bit 教育版（初稿）](https://demo.codimd.org/jJ2G6dd6Sf63MiWBmMIJFw)
+
 ## 任务内容
 
 1. 核对板子通用介绍部分的文档，共两篇。
