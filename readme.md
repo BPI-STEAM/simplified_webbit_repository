@@ -68,7 +68,7 @@ Webduino 的大陆版的 文档、视频、图片 等内容，受众人群是自
    - 编辑器的电脑预览图简体化。
    - 修复下载链接。
    
-- [编辑器介绍（初审，请于明天前过目，再导出存在的问题）](https://demo.codimd.org/jJ2G6dd6Sf63MiWBmMIJFw)
+- [编辑器介绍（初审，请于明天前过目，再导出存在的问题）](https://demo.codimd.org/9e-dvxZvRe26RCrmMwV2cw)
 
 ### 2019年7月19日
 
