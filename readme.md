@@ -51,6 +51,8 @@ Webduino 的大陆版的 文档、视频、图片 等内容，受众人群是自
 
 - [建立起了初步的大纲目录](https://demo.codimd.org/Yo4AdMtAQ62DSM4XviQyAg)
 
+- 编辑者应当在编辑之外放下标记，某某校对过等标记。
+
 ### 2019年7月17日
 
 - [开发板介绍（已审，存在的问题）](https://demo.codimd.org/XCESTmS6Tw-nCKtt-IGu1Q)
