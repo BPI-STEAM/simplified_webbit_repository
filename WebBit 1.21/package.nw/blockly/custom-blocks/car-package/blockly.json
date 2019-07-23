@@ -1,6 +1,7 @@
 {
   "types": [
-    "car_move",
+    "car_tracker_move",
+    "car_tracker_speed",
     "car_tracker_track",
     "car_tracker_do",
     "car_tracker_on",
@@ -23,7 +24,6 @@
     "WS2812.js",
     "CarTracker.js",
     "BitIR-blockly.js",
-    "BitToyCar-blockly.js",
     "BitWS2812-blockly.js",
     "BitCarButton-blockly.js",
     "BitCarTracker-blockly.js",

@@ -35,6 +35,7 @@
           }
         }
       });
+
     this._board.send([0xF0, 0x04, SENSOR_CARTRACKER, 0x00, mlf, mlb, mrf, mrb, 0xF7]);
   }
 
@@ -83,6 +84,13 @@
     this._callback[status] = callback;
   }
 
+  proto.action = function (direction, callback) {
+    var cmd = [0xF0, 0x04, SENSOR_CARTRACKER, 0x06, direction, 0xF7];
+    this._board.send(cmd);
+    if (typeof (callback) != 'function') return;
+    CARTRACKEREvent.push(status);
+    this._callback[status] = callback;
+  }
 
   proto.on = function () {
     var cmd = [0xF0, 0x04, SENSOR_CARTRACKER, 0x04, 0xF7];

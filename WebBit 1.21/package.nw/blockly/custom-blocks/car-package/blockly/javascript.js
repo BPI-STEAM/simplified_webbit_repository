@@ -1,29 +1,38 @@
-Blockly.JavaScript['car_move'] = function (block) {
-  var dropdown_move_ = block.getFieldValue('move_');
-  var code = 'ToyCar.init(board).' + dropdown_move_ + '();\n';
+Blockly.JavaScript['car_tracker_move'] = function (block) {
+  var dropdown_direction_ = block.getFieldValue('direction_');
+  var code = 'CarTracker.init(board).action(' + dropdown_direction_ + ');\n';
   return code;
 };
 
-
+Blockly.JavaScript['car_tracker_speed'] = function (block) {
+  var dropdown_speed_ = block.getFieldValue('speed_');
+  var dropdown_tire_ = block.getFieldValue('tire_');
+  var code = 'CarTracker.init(board).' + dropdown_tire_ + '(' + dropdown_speed_ + ');\n';
+  return code;
+}
 
 Blockly.JavaScript['car_tracker_track'] = function (block) {
-  var dropdown_status_ = block.getFieldValue('status_');
-  var dropdown_direction_ = block.getFieldValue('direction_');
-  var code = 'CarTracker.init(board).track(' + dropdown_status_ + ', ' + dropdown_direction_ + ');\n';
-  return code;
-};
-
-Blockly.JavaScript['car_tracker_do'] = function (block) {
-  var dropdown_status_ = block.getFieldValue('status_');
-  var dropdown_direction_ = block.getFieldValue('direction_');
-  var statements_do = Blockly.JavaScript.statementToCode(block, 'do');
-  var code = 'CarTracker.init(board).track(' + dropdown_status_ + ', ' + dropdown_direction_ + ', ' + 'async function () {\n' +
-  statements_do + '});\n';
-  return code;
-};
-
-Blockly.JavaScript['car_tracker_on'] = function (block) {
-  var code = 'CarTracker.init(board).on();\n';
+  var dropdown_status1 = block.getFieldValue('status1');
+  var statements_do1 = Blockly.JavaScript.statementToCode(block, 'do1');
+  var dropdown_status2 = block.getFieldValue('status2');
+  var statements_do2 = Blockly.JavaScript.statementToCode(block, 'do2');
+  var dropdown_status3 = block.getFieldValue('status3');
+  var statements_do3 = Blockly.JavaScript.statementToCode(block, 'do3');
+  var dropdown_status4 = block.getFieldValue('status4');
+  var statements_do4 = Blockly.JavaScript.statementToCode(block, 'do4');
+  var code = `CarTracker.init(board).track('000', ${dropdown_status1}, async function () {
+    ${statements_do1}
+  });
+  CarTracker.init(board).track('001', ${dropdown_status2}, async function () {
+    ${statements_do2}
+  });
+  CarTracker.init(board).track('100', ${dropdown_status3}, async function () {
+    ${statements_do3}
+  });
+  CarTracker.init(board).track('101', ${dropdown_status4}, async function () {
+    ${statements_do4}
+  });
+  CarTracker.init(board).on();\n`;
   return code;
 };
 
@@ -46,7 +55,7 @@ Blockly.JavaScript['car_button_event'] = function (block) {
 
 
 Blockly.JavaScript['car_ultrasonic_distance'] = function (block) {
-  var code = `(await Ultrasonic.init(board).distance || 0`;
+  var code = `(await Ultrasonic.init(board)).distance || 0`;
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 
@@ -81,7 +90,7 @@ Blockly.JavaScript['car_irrecv_on'] = function (block) {
 Blockly.JavaScript['car_ws2812_print'] = function (block) {
   var value_led = Blockly.JavaScript.valueToCode(block, 'led', Blockly.JavaScript.ORDER_ATOMIC);
   var value_color = Blockly.JavaScript.valueToCode(block, 'color', Blockly.JavaScript.ORDER_ATOMIC);
-  var code = 'WS2812.init(board).setColor(' + value_led + ', ' + value_color + ');\n';
+  var code = `WS2812.init(board).setColor(${value_led}-1, ${value_color});\n`;
   return code;
 };
 

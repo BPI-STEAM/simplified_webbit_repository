@@ -22,18 +22,12 @@
     const instances = {};
 
     return {
-      init: async function (board) {
+      init: function (board) {
         const boardID = board._options.device || board._options.url;
         const tagetObject = boardID;
 
         if (!instances[tagetObject]) {
           instances[tagetObject] = new webduino.module.IRRecv(board, board.getDigitalPin(scope.bitGPIO(1)));
-          await new Promise(resolve => {
-            instances[tagetObject].receive(value => {
-              instances[tagetObject].value = value;
-              resolve();
-            }, function () {});
-          });
         }
         return instances[tagetObject];
       }

@@ -11,7 +11,7 @@
         const boardID = board._options.device || board._options.url;
 
         if (!instances[boardID]) {
-          const button = new webduino.module.Button(board, board.getDigitalPin(bitGPIO(7)));
+          const button = new webduino.module.Button(board, board.getDigitalPin(bitGPIO(7)), webduino.module.Button.PULL_UP);
           instances[boardID] = button;
         }
         return instances[boardID];

@@ -56,6 +56,9 @@
         this.setColor64(led, color);
         return;
       }
+      if (led < 0 || led > 7) {
+        return;
+      }
       var data = '';
       var cmd = [0xF0, 0x04, 0x24, 0x03];
       if (arguments.length == 1) {

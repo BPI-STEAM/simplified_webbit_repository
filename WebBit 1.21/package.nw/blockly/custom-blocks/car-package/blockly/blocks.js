@@ -1,99 +1,125 @@
-Blockly.Blocks['car_move'] = {
+Blockly.Blocks['car_tracker_move'] = {
+  init: function () {
+    this.appendDummyInput()
+      .appendField(Blockly.Msg.WEBDUINO_TOYCAR_ACTION)
+      .appendField(new Blockly.FieldDropdown([
+        [Blockly.Msg.WEBDUINO_CARTRACKER_FORWARD, "1"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_BACK, "4"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_FORWARD, "7"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_FORWARD, "8"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_BACK, "9"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK, "10"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT, "3"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT, "2"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"],
+      ]), "direction_");
+    this.setPreviousStatement(true, null);
+    this.setNextStatement(true, null);
+    this.setColour(170);
+    this.setTooltip("");
+    this.setHelpUrl("");
+  }
+};
+
+Blockly.Blocks['car_tracker_speed'] = {
   init: function () {
     this.appendDummyInput()
       .appendField(Blockly.Msg.WEBDUINO_TOYCAR)
       .appendField(new Blockly.FieldDropdown([
-        [Blockly.Msg.WEBDUINO_TOYCAR_GOFRONT, "goFront"],
-        [Blockly.Msg.WEBDUINO_TOYCAR_GOBACK, "goBack"],
-        [Blockly.Msg.WEBDUINO_TOYCAR_GOLEFT, "goLeft"],
-        [Blockly.Msg.WEBDUINO_TOYCAR_GORIGHT, "goRight"],
-        [Blockly.Msg.WEBDUINO_TOYCAR_STOP, "stop"]
-      ]), "move_");
+        [Blockly.Msg.WEBDUINO_TOYCAR_ALL_WHEEL ,"setAllSpeed"],
+        [Blockly.Msg.WEBDUINO_TOYCAR_RIGHT_WHEEL, "setRightSpeed"],
+        [Blockly.Msg.WEBDUINO_TOYCAR_LEFT_WHEEL, "setLeftSpeed"]
+      ]), "tire_")
+      .appendField(Blockly.Msg.WEBDUINO_TOYCAR_SPEED)
+      .appendField(new Blockly.FieldDropdown([
+        [Blockly.Msg.WEBDUINO_TOYCAR_SPEED_FASTEST, "100"],
+        [Blockly.Msg.WEBDUINO_TOYCAR_SPEED_FASTER, "85"],
+        [Blockly.Msg.WEBDUINO_TOYCAR_SPEED_MEDIUM, "70"],
+        [Blockly.Msg.WEBDUINO_TOYCAR_SPEED_SLOW, "55"],
+        [Blockly.Msg.WEBDUINO_TOYCAR_SPEED_SLOWEST, "40"],
+    ]), "speed_");
     this.setColour(170);
+    this.setInputsInline(true);
     this.setPreviousStatement(true);
     this.setNextStatement(true);
     this.setTooltip('');
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
-
-
 
 Blockly.Blocks['car_tracker_track'] = {
   init: function () {
     this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_INDUCTION)
-      .appendField(new Blockly.FieldDropdown([
-        ["○○","\"000\""],
-        ["○●","\"001\""],
-        ["●○","\"100\""],
-        ["●●","\"101\""],
-      ]), "status_")
-      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_MOTION)
-      .appendField(new Blockly.FieldDropdown([
-        [Blockly.Msg.WEBDUINO_CARTRACKER_FORWARD, "1"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_BACK, "4"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_FORWARD, "7"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_FORWARD, "8"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_BACK, "9"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK, "10"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT, "3"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT, "2"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT_SLOWLY, "6"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT_SLOWLY, "5"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"]
-      ]), "direction_");
-    this.setPreviousStatement(true, null);
-    this.setNextStatement(true, null);
-    this.setColour(170);
-    this.setTooltip("");
-    this.setHelpUrl('');
-  }
-};
-
-Blockly.Blocks['car_tracker_do'] = {
-  init: function () {
-    this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_INDUCTION)
-      .appendField(new Blockly.FieldDropdown([
-        ["○○","\"000\""],
-        ["○●","\"001\""],
-        ["●○","\"100\""],
-        ["●●","\"101\""],
-      ]), "status_")
-      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_MOTION)
-      .appendField(new Blockly.FieldDropdown([
-        [Blockly.Msg.WEBDUINO_CARTRACKER_FORWARD, "1"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_BACK, "4"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_FORWARD, "7"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_FORWARD, "8"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_BACK, "9"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK, "10"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT, "3"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT, "2"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT_SLOWLY, "6"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT_SLOWLY, "5"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"]
-      ]), "direction_");
-    this.appendStatementInput("do")
-      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_DO, "執行");
-    this.setPreviousStatement(true);
-    this.setNextStatement(true);
-    this.setColour(170);
-    this.setTooltip("");
-    this.setHelpUrl('');
-  }
-};
-
-Blockly.Blocks['car_tracker_on'] = {
-  init: function () {
-    this.appendDummyInput()
       .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_ON);
+    this.appendDummyInput()
+      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_STATUS_1)
+      .appendField(new Blockly.FieldDropdown([
+        [Blockly.Msg.WEBDUINO_CARTRACKER_FORWARD, "1"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_BACK, "4"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_FORWARD, "7"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_FORWARD, "8"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_BACK, "9"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK, "10"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT, "3"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT, "2"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"]
+      ]), "status1");
+    this.appendStatementInput("do1")
+      .setCheck(null)
+      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_DO);
+    this.appendDummyInput()
+      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_STATUS_2)
+      .appendField(new Blockly.FieldDropdown([
+        [Blockly.Msg.WEBDUINO_CARTRACKER_FORWARD, "1"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_BACK, "4"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_FORWARD, "7"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_FORWARD, "8"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_BACK, "9"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK, "10"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT, "3"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT, "2"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"]
+      ]), "status2");
+    this.appendStatementInput("do2")
+      .setCheck(null)
+      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_DO);
+    this.appendDummyInput()
+      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_STATUS_3)
+      .appendField(new Blockly.FieldDropdown([
+        [Blockly.Msg.WEBDUINO_CARTRACKER_FORWARD, "1"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_BACK, "4"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_FORWARD, "7"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_FORWARD, "8"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_BACK, "9"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK, "10"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT, "3"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT, "2"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"]
+      ]), "status3");
+    this.appendStatementInput("do3")
+      .setCheck(null)
+      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_DO);
+    this.appendDummyInput()
+      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_STATUS_4)
+      .appendField(new Blockly.FieldDropdown([
+        [Blockly.Msg.WEBDUINO_CARTRACKER_FORWARD, "1"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_BACK, "4"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_FORWARD, "7"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_FORWARD, "8"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_BACK, "9"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK, "10"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT, "3"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT, "2"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"]
+      ]), "status4");
+    this.appendStatementInput("do4")
+      .setCheck(null)
+      .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_DO);
     this.setPreviousStatement(true, null);
     this.setNextStatement(true, null);
     this.setColour(170);
     this.setTooltip("");
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
 
@@ -105,7 +131,7 @@ Blockly.Blocks['car_tracker_off'] = {
     this.setNextStatement(true, null);
     this.setColour(170);
     this.setTooltip("");
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
 
@@ -127,7 +153,7 @@ Blockly.Blocks['car_button_event'] = {
     this.setNextStatement(true);
     this.setTooltip('');
     this.setColour(170);
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
 
@@ -140,7 +166,7 @@ Blockly.Blocks['car_ultrasonic_distance'] = {
     this.setOutput(true);
     this.setTooltip('');
     this.setColour(170);
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
 
@@ -156,7 +182,7 @@ Blockly.Blocks['car_irrecv_on'] = {
     this.setNextStatement(true);
     this.setColour(170);
     this.setTooltip('');
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
 
@@ -169,7 +195,7 @@ Blockly.Blocks['car_irled_launch'] = {
     this.setNextStatement(true);
     this.setTooltip('');
     this.setColour(170);
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
 
@@ -180,7 +206,7 @@ Blockly.Blocks['car_irrecv_value'] = {
     this.setOutput(true);
     this.setColour(170);
     this.setTooltip('');
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
 
@@ -199,7 +225,7 @@ Blockly.Blocks['car_ws2812_print'] = {
     this.setNextStatement(true, null);
     this.setColour(170);
     this.setTooltip('');
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
 
@@ -213,7 +239,7 @@ Blockly.Blocks['car_ws2812_brightness'] = {
     this.setNextStatement(true, null);
     this.setColour(170);
     this.setTooltip('');
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
 
@@ -225,6 +251,6 @@ Blockly.Blocks['car_ws2812_off'] = {
     this.setNextStatement(true, null);
     this.setColour(170);
     this.setTooltip('');
-    this.setHelpUrl('');
+    this.setHelpUrl("");
   }
 };
