@@ -256,7 +256,7 @@ var MSG = {
   catBitLedMatrix: "全彩 LED ",
   catBitPin: "I/O 引脚",
   catBitButton: "按钮开关",
-  catBitDetected: "检测光线＆温度",
+  catBitDetected: "光线＆温度",
   catBitBuzzer: "音乐＆声音",
   catBitMpu9250: "九轴体感检测",
   catPin:"I/O 引腳",

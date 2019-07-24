@@ -1310,7 +1310,7 @@ Blockly.Msg.BIT_AB_BUTTON_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/ab-button.
 
 // Web:Bit - Detected
 
-Blockly.Msg.BIT_DETECTED = "检测光线＆温度 ( 重复无限次 )";
+Blockly.Msg.BIT_DETECTED = "光线＆温度 ( 重复无限次 )";
 Blockly.Msg.BIT_DETECTED_DO = "执行";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL = "亮度";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL_LEFT = "左上";
