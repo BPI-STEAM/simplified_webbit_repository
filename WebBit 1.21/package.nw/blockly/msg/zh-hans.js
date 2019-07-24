@@ -258,7 +258,7 @@ var MSG = {
   catBitButton: "按钮开关",
   catBitDetected: "光线＆温度",
   catBitBuzzer: "音乐＆声音",
-  catBitMpu9250: "九轴体感检测",
+  catBitMpu9250: "运动&姿态",
   catPin:"I/O 引腳",
   catBitDemoMonster: "怪兽控制",
   webbitTitle: "Web:Bit 教育版",
