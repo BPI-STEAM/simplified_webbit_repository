@@ -277,7 +277,7 @@ var MSG = {
   webbitMenuMoreWifiOnly: "Wi-Fi 限制",
   webbitMenuMoreCommingSoon: "即将推出",
   webbitMenuMoreDownload: "下载安装",
-  webbitMenuRun: "执行",
+  webbitMenuRun: "运行",
   webbitMenuStop: "停止",
   webbitMenuTutorialsURL: "https://tutorials.webduino.io/zh-tw/docs/webbit/index.html",
   webbitMenuDownloadURL: "https://ota.webduino.com.cn/WebBitInstaller/WebBitSetup.exe",
