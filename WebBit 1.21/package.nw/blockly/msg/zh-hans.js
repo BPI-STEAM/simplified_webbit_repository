@@ -263,7 +263,7 @@ var MSG = {
   catBitDemoMonster: "怪兽控制",
   webbitTitle: "Web:Bit 教育版",
   webbitMenuBlock: "积木",
-  webbitMenuJS: "进程代码",
+  webbitMenuJS: "代码",
   webbitMenuFile: "存档",
   webbitMenuFileLoad: "开启",
   webbitMenuFileSave: "储存",
