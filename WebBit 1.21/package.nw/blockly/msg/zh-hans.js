@@ -94,7 +94,7 @@ var MSG = {
   catKeyCode: "键盘操作",
   catPlus: "进阶",
   catStandard: "基本功能",
-  catMax7219: "LED 矩阵",
+  catMax7219: "全彩 LED 控制",
   catMP3: "MP3 播放器",
   catSSD1306: "OLED 屏幕",
   catSoil: "土壤湿度检测",
@@ -144,7 +144,7 @@ var MSG = {
   samples1_2: "全彩 LED",
   samples1_3: "蜂鸣器",
   samples1_4: "伺服电机",
-  samples1_5: "LED 矩阵",
+  samples1_5: "全彩 LED 控制",
   samples2: "传感器应用",
   samples2_1: "超声波检测距离",
   samples2_2: "检测环境温湿度",
@@ -170,11 +170,11 @@ var MSG = {
   samples5_6: "自走车 ( 虚拟遥控器 )",
   samples5_7: "资料库记录温湿度",
   samples5_8: "RFID 简易门禁系统",
-  samples5_9: "LED 矩阵显示温度",
+  samples5_9: "全彩 LED 控制显示温度",
   samples5_10: "闹钟 ( 蜂鸣器 + LED矩阵 )",
   samples6: "开发板联动",
   samples6_1: "土壤湿度 + LED",
-  samples6_2: "超声波 + LED 矩阵",
+  samples6_2: "超声波 + 全彩 LED 控制",
   samplesBit0: "Webduino Bit 小游戏",
   samplesBit1: "Webduino Bit 全彩LED矩阵",
   samplesBit0_1: "贪吃蛇 ( 按钮开关 )",
@@ -253,7 +253,7 @@ var MSG = {
   loadProjectFailed: "无法读取文件",
   loginToReadLink: "请登录后，再重新打开链接！",
   linkExpired: "链接失效",
-  catBitLedMatrix: "LED 矩阵",
+  catBitLedMatrix: "全彩 LED 控制",
   catBitPin: "I/O 引脚",
   catBitButton: "按钮开关",
   catBitDetected: "检测光线＆温度",
@@ -434,12 +434,12 @@ var MSG = {
     },
     bits: {
       s01: {
-        text: "LED 矩阵展示图形",
+        text: "全彩 LED 控制展示图形",
         img: "samples/img/bit-s-01.jpg",
         json: "samples/bit-s-01.json"
       },
       s02: {
-        text: "LED 矩阵心跳动画",
+        text: "全彩 LED 控制心跳动画",
         img: "samples/img/bit-s-02.jpg",
         json: "samples/bit-s-02.json"
       },
@@ -469,7 +469,7 @@ var MSG = {
         json: "samples/bit-s-07.json"
       },
       s08: {
-        text: "光照度切换LED 矩阵图形",
+        text: "光照度切换全彩 LED 控制图形",
         img: "samples/img/bit-s-08.jpg",
         json: "samples/bit-s-08.json"
       },
