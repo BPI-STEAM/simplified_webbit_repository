@@ -55,7 +55,7 @@ Blockly.JavaScript['car_button_event'] = function (block) {
 
 
 Blockly.JavaScript['car_ultrasonic_distance'] = function (block) {
-  var code = `(await Ultrasonic.init(board)).distance || 0`;
+  var code = `((await Ultrasonic.init(board)).distance || 0)`;
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 
@@ -73,7 +73,7 @@ Blockly.JavaScript['car_irled_launch'] = function (block) {
 };
 
 Blockly.JavaScript['car_irrecv_value'] = function (block) {
-  var code = 'value || \'\'';
+  var code = `(value || '')`;
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 

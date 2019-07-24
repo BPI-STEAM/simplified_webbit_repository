@@ -9,6 +9,7 @@
   var SENSOR_CARTRACKER = 0x46;
   var CARTRACKER_MESSAGE = [0x04, 0x46];
   var CARTRACKEREvent = [];
+  var trackEventMap = [];
   var proto;
 
   var Module = scope.Module,
@@ -78,40 +79,54 @@
   proto.track = function (status, direction, callback) {
     var statusInt = parseInt(status, 2);
     var cmd = [0xF0, 0x04, SENSOR_CARTRACKER, 0x03, statusInt, direction, 0xF7];
-    this._board.send(cmd);
-    if (typeof (callback) != 'function') return;
-    CARTRACKEREvent.push(status);
+
+    if (trackEventMap[status] !== direction) {
+      this._board.send(cmd);
+    }
+    if (typeof (callback) !== 'function') return;
+    if (CARTRACKEREvent.indexOf(status) < 0) {
+      CARTRACKEREvent.push(status);
+    }
+    trackEventMap[status] = direction;
     this._callback[status] = callback;
   }
 
   proto.action = function (direction, callback) {
     var cmd = [0xF0, 0x04, SENSOR_CARTRACKER, 0x06, direction, 0xF7];
     this._board.send(cmd);
-    if (typeof (callback) != 'function') return;
-    CARTRACKEREvent.push(status);
-    this._callback[status] = callback;
+    if (typeof (callback) !== 'function') {
+      return;
+    } else {
+      callback();
+    };
   }
 
   proto.on = function () {
     var cmd = [0xF0, 0x04, SENSOR_CARTRACKER, 0x04, 0xF7];
-    this._board.send(cmd);
-    var self = this;
-    if (this._state == "off") {
-      for (var i in CARTRACKEREvent) {
-        this._board.addListener(CARTRACKEREvent[i], self._callback[CARTRACKEREvent[i]]);
-      }
+
+    if (this._state == 'off') {
+      this._board.send(cmd);
+    }
+    for (var i in CARTRACKEREvent) {
+      this._board.removeAllListeners(CARTRACKEREvent[i]);
+      this._board.addListener(CARTRACKEREvent[i], this._callback[CARTRACKEREvent[i]]);
     }
     this._state = 'on';
   }
 
   proto.off = function () {
     var cmd = [0xF0, 0x04, SENSOR_CARTRACKER, 0x05, 0xF7];
+    if (this._state == 'off') {
+      /* This function should be called only when tracker is off to prevent repeated execution */
+      return;
+    }
     this._board.send(cmd);
     if (this._state == 'on') {
       for (var i in CARTRACKEREvent) {
         this._board.removeAllListeners(CARTRACKEREvent[i]);
       }
     }
+    trackEventMap = [];
     this._state = 'off';
   }
 

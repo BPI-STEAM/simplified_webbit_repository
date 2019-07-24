@@ -10,7 +10,7 @@ Blockly.JavaScript['full_irled_launch'] = function (block) {
 };
 
 Blockly.JavaScript['full_irrecv_value'] = function (block) {
-  var code = 'value || \'\'';
+  var code = `(value || '')`;
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 
@@ -27,7 +27,7 @@ Blockly.JavaScript['full_irrecv_on'] = function (block) {
 Blockly.JavaScript['full_ultrasonic_distance'] = function (block) {
   var dropdown_trig_ = block.getFieldValue('trig_');
   var dropdown_echo_ = block.getFieldValue('echo_');
-  var code = `(await Ultrasonic.init(board, ${dropdown_trig_}, ${dropdown_echo_})).distance || 0`;
+  var code = `((await Ultrasonic.init(board, ${dropdown_trig_}, ${dropdown_echo_})).distance || 0)`;
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 
@@ -76,7 +76,7 @@ Blockly.JavaScript['full_sound_status'] = function (block) {
 Blockly.JavaScript['full_dht_get_number'] = function (block) {
   var dropdown_pin_ = block.getFieldValue('pin_');
   var dropdown_dht_ = block.getFieldValue('dht_');
-  var code = `(DHT.init(board, ${dropdown_pin_})).${dropdown_dht_} || 0`;
+  var code = `((DHT.init(board, ${dropdown_pin_})).${dropdown_dht_} || 0)`;
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 
@@ -105,7 +105,7 @@ Blockly.JavaScript['full_relay_state'] = function (block) {
 
 Blockly.JavaScript['full_soil_value'] = function (block) {
   var dropdown_pin_ = block.getFieldValue('pin_');
-  var code = `(Soil.init(board, ${dropdown_pin_})).value || 0`;
+  var code = `((Soil.init(board, ${dropdown_pin_})).value || 0)`;
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 
@@ -133,6 +133,6 @@ Blockly.JavaScript['full_rgbled_setcolor'] = function (block) {
 
 Blockly.JavaScript['full_photocell_value'] = function (block) {
   var dropdown_pin_ = block.getFieldValue('pin_');
-  var code = `(Photocell.init(board, ${dropdown_pin_})).value || 0`;
+  var code = `((Photocell.init(board, ${dropdown_pin_})).value || 0)`;
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };

@@ -62,7 +62,8 @@ Blockly.Blocks['car_tracker_track'] = {
         [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK, "10"],
         [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT, "3"],
         [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT, "2"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"]
+        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_KEEP, "11"]
       ]), "status1");
     this.appendStatementInput("do1")
       .setCheck(null)
@@ -78,7 +79,8 @@ Blockly.Blocks['car_tracker_track'] = {
         [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK, "10"],
         [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT, "3"],
         [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT, "2"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"]
+        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_KEEP, "11"]
       ]), "status2");
     this.appendStatementInput("do2")
       .setCheck(null)
@@ -94,7 +96,8 @@ Blockly.Blocks['car_tracker_track'] = {
         [Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK, "10"],
         [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_RIGHT, "3"],
         [Blockly.Msg.WEBDUINO_CARTRACKER_TURN_LEFT, "2"],
-        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"]
+        [Blockly.Msg.WEBDUINO_CARTRACKER_STOP, "0"],
+        [Blockly.Msg.WEBDUINO_CARTRACKER_KEEP, "11"]
       ]), "status3");
     this.appendStatementInput("do3")
       .setCheck(null)

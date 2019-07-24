@@ -1,4 +1,4 @@
-Blockly.Msg.WEBBIT_IRRECV_ON = "紅外線接收 ( 腳位 1 )，開始接收訊號";
+Blockly.Msg.WEBBIT_IRRECV_ON = "當紅外線 ( 腳位 1 ) 接收到訊號";
 Blockly.Msg.WEBBIT_IRRECV_DO = "執行";
 Blockly.Msg.WEBBIT_IRRECV_CODE = "紅外線接收的代碼";
 Blockly.Msg.WEBBIT_IRLED_LAUNCHCODE = "紅外線發射 ( 腳位 2 )，發射代碼 ( 十六進位 )";

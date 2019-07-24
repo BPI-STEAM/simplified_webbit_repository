@@ -27,7 +27,7 @@ Blockly.JavaScript['basic_irrecv_on'] = function (block) {
 Blockly.JavaScript['basic_ultrasonic_distance'] = function (block) {
   var dropdown_trig_ = block.getFieldValue('trig_');
   var dropdown_echo_ = block.getFieldValue('echo_');
-  var code = `(await Ultrasonic.init(board, ${dropdown_trig_}, ${dropdown_echo_})).distance || 0`;
+  var code = `((await Ultrasonic.init(board, ${dropdown_trig_}, ${dropdown_echo_})).distance || 0)`;
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };
 
@@ -75,6 +75,6 @@ Blockly.JavaScript['basic_sound_status'] = function (block) {
 
 Blockly.JavaScript['basic_photocell_val'] = function (block) {
   var pin = block.getFieldValue('pin_');
-  var code = '(Photocell.init(board, ' + pin + ')).value || 0';
+  var code = '((Photocell.init(board, ' + pin + ')).value || 0)';
   return [code, Blockly.JavaScript.ORDER_ATOMIC];
 };

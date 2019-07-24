@@ -1,7 +1,7 @@
-Blockly.Msg.WEBDUINO_IRRECV_ON = "Receive Code from IR";
-Blockly.Msg.WEBDUINO_IRRECV_DO = "Do";
-Blockly.Msg.WEBDUINO_IRRECV_CODE = "Received Code from IR Receiver";
-Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "IR Send Codes (HEX):";
+Blockly.Msg.WEBBIT_IRRECV_ON = "When Receive Code from IR Sensor";
+Blockly.Msg.WEBBIT_IRRECV_DO = "Do";
+Blockly.Msg.WEBBIT_IRRECV_CODE = "Received Code from IR Receiver";
+Blockly.Msg.WEBBIT_IRLED_LAUNCHCODE = "IR Send Codes (HEX):";
 
 Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_TRIG = "Ultrasonic, TRIG:";
 Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_ECHO = "  ECHO:";

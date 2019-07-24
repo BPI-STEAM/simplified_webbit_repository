@@ -1,4 +1,4 @@
-Blockly.Msg.WEBBIT_IRRECV_ON = "Receive Code from IR";
+Blockly.Msg.WEBBIT_IRRECV_ON = "When Receive Code from IR Sensor";
 Blockly.Msg.WEBBIT_IRRECV_DO = "Do";
 Blockly.Msg.WEBBIT_IRRECV_CODE = "Received Code from IR Receiver";
 Blockly.Msg.WEBBIT_IRLED_LAUNCHCODE = "IR Send Codes (HEX):";

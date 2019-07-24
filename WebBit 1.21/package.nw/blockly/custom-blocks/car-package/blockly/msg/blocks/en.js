@@ -15,6 +15,7 @@ Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_FORWARD = "forward left";
 Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_FORWARD = "forward right";
 Blockly.Msg.WEBDUINO_CARTRACKER_LEFT_BACK = "back left";
 Blockly.Msg.WEBDUINO_CARTRACKER_RIGHT_BACK = "back right";
+Blockly.Msg.WEBDUINO_CARTRACKER_KEEP = "keep current direction";
 
 Blockly.Msg.WEBDUINO_TOYCAR = "Set";
 Blockly.Msg.WEBDUINO_TOYCAR_ACTION = "Toy Car Action";
@@ -41,7 +42,7 @@ Blockly.Msg.WEBDUINO_CARBUTTON_EVENT_WHEN = "When Car's Button Has Been";
 
 Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE = "Detected Distance from Ultrasonic Sensor ( cm )";
 
-Blockly.Msg.WEBDUINO_IRRECV_ON = "Receive Code from IR Sensor";
+Blockly.Msg.WEBDUINO_IRRECV_ON = "When Receive Code from IR Sensor";
 Blockly.Msg.WEBDUINO_IRRECV_DO = "Do";
 Blockly.Msg.WEBDUINO_IRRECV_CODE = "Received Code from IR Receiver";
 Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "IR Send Codes (HEX):";
