@@ -42,8 +42,8 @@ var MSG = {
   catFunctions: "函数",
   catExec: "等待",
   catRepeat: "状态切换",
-  catBoardGroup: "开发板控制",
-  catBoard: "开发板控制",
+  catBoardGroup: "开发板",
+  catBoard: "开发板",
   catPin: "I/O 引脚",
   catLed: "LED 灯",
   catRelay: "继电器",
@@ -526,7 +526,7 @@ var MSG = {
         json: "samples/bit-a-06.json"
       },
       s07: {
-        text: "转动开发板控制灯号移动",
+        text: "转动开发板灯号移动",
         img: "samples/img/bit-a-07.jpg",
         json: "samples/bit-a-07.json"
       },
