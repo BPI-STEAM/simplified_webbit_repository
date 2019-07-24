@@ -266,7 +266,7 @@ var MSG = {
   webbitMenuJS: "代码",
   webbitMenuFile: "文件",
   webbitMenuFileLoad: "打开",
-  webbitMenuFileSave: "储存",
+  webbitMenuFileSave: "保存",
   webbitMenuFileShare: "分享",
   webbitMenuSample: "范例",
   webbitMenuTutor: "教学",
