@@ -21,7 +21,7 @@
     "HELP_MSG": "==快捷键说明==\\nCtrl+Shift+F: 更新固件\\nCtrl+Shift+R: 回复原厂固件\\nCtrl+Shift+I: 复制设备 ID 到剪贴板\\nCtrl+Shift+W: 设置 WiFi\\nCtrl+Shift+U: 切换 USB 连接\\nCtrl+Shift+1: 设置 MQTT 至全球服务器\\nCtrl+Shift+2: 设置 MQTT 至中国服务器",
     "COPIED_DEVICEID": "设备 ID [{0}] 已复制到剪贴板",
     "DISABLE_USB?": "关闭 USB 连接？",
-    "ENABLE_USB?": "开启 USB 连接？",
+    "ENABLE_USB?": "打开 USB 连接？",
     "SETUP_SSID": "设置 WiFi 连接的 SSID：",
     "SETUP_PWD": "设置 WiFi 连接的密码：",
     "OPEN_BY_BROWSER": "通过浏览器打开",
