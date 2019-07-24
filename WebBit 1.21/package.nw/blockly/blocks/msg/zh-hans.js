@@ -337,8 +337,8 @@ Blockly.Msg.WEBDUINO_DELAY_SECONDS = "秒";
 Blockly.Msg.WEBDUINO_BOARD = "开发板";
 Blockly.Msg.WEBDUINO_BOARD_SERVER = "私有云 Server，IP";
 Blockly.Msg.WEBDUINO_BOARD_WIFI = "Wi-Fi";
-Blockly.Msg.WEBDUINO_BOARD_SERIAL = "数组埠";
-Blockly.Msg.WEBDUINO_BOARD_BLUETOOTH = "蓝芽";
+Blockly.Msg.WEBDUINO_BOARD_SERIAL = "串口";
+Blockly.Msg.WEBDUINO_BOARD_BLUETOOTH = "蓝牙";
 Blockly.Msg.WEBDUINO_BOARD_WEBSOCKET = "WebSocket";
 Blockly.Msg.WEBDUINO_BOARD_SIMULATOR = "模拟器";
 Blockly.Msg.WEBDUINO_BOARD_MULTI = "  协同控制";
@@ -795,7 +795,7 @@ Blockly.Msg.TUTORIAL_URL = "https://tutorials.webduino.io/zh-tw/docs/webbit/";
 // Web:Bit - Variable
 
 Blockly.Msg.BIT_VARIABLES = "变量";
-Blockly.Msg.BIT_VARIABLES_CHANGE = "改变";
+Blockly.Msg.BIT_VARIABLES_CHANGE = "增加";
 Blockly.Msg.BIT_VARIABLES_CHANGE_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/variables.html#change";
 Blockly.Msg.VARIABLES_SET_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/variables.html";
 Blockly.Msg.VARIABLES_GET_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/variables.html#use";
