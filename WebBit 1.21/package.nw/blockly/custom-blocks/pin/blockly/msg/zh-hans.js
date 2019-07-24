@@ -1,1 +1,1 @@
-MSG.catPin = "I/O 引脚";
+MSG.catPin = "输入&输出";
