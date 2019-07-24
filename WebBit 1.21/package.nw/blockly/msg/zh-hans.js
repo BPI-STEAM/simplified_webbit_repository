@@ -68,7 +68,7 @@ var MSG = {
   badXml: "解析 XML 时出现错误：\n%1\n\n选择'确定'以放弃您的更改，或选择'取消'以进一步编辑 XML。",
   catDataTransfer: "资料传输",
   catConsole: "控制",
-  catDetect: "检测",
+  catDetect: "系统功能",
   catEduExtension: "扩展功能",
   catWeather: "气象信息",
   catMathOther: "数据转换",
