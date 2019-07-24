@@ -43,7 +43,7 @@ var MSG = {
   catExec: "等待",
   catRepeat: "状态切换",
   catBoardGroup: "开发板控制",
-  catBoard: "Web:Bit 开发板",
+  catBoard: "开发板控制",
   catPin: "I/O 引脚",
   catLed: "LED 灯",
   catRelay: "继电器",
