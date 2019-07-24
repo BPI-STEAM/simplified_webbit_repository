@@ -12,7 +12,7 @@ var MSG = {
   catText: "文字",
   catLists: "列表",
   catColour: "顏色",
-  catVariables: "變量",
+  catVariables: "变量",
   catFunctions: "流程",
   listVariable: "列表",
   textVariable: "文字",
