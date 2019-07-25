@@ -287,17 +287,17 @@ Blockly.Msg.WEBDUINO_SPEAK_R05 = "很慢";
 
 // Repeat
 
-Blockly.Msg.WEBDUINO_STATUS_REPEAT = "状态切换，重复";
+Blockly.Msg.WEBDUINO_STATUS_REPEAT = "状态切换，循环";
 Blockly.Msg.WEBDUINO_STATUS_NUM = "次";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_STATUSNUM = "状态 ";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_DELAY = " 持续";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_SECS = "秒";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_ADD = "加入状态";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_STATUS = "状态";
-Blockly.Msg.WEBDUINO_STATUS_FOREVER = "状态不停重复";
+Blockly.Msg.WEBDUINO_STATUS_FOREVER = "状态不停循环";
 Blockly.Msg.WEBDUINO_STATUS_FOREVER_NAME = "名称";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_STOP = "停止";
-Blockly.Msg.WEBDUINO_STATUS_REPEAT_STOPCONTENT = "的不停重复";
+Blockly.Msg.WEBDUINO_STATUS_REPEAT_STOPCONTENT = "的不停循环";
 
 // Text logic
 
@@ -830,19 +830,19 @@ Blockly.Msg.BIT_LOGIC_IS_EVEN_ARRAY = "数组";
 Blockly.Msg.WEBDUINO_DELAY = "等待";
 Blockly.Msg.WEBDUINO_DELAY_SECONDS = "秒";
 Blockly.Msg.WEBDUINO_DELAY_SECONDS_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop01";
-Blockly.Msg.BIT_LOOP_FOREVER = "重复无限次，后台执行";
+Blockly.Msg.BIT_LOOP_FOREVER = "循环无限次，后台执行";
 Blockly.Msg.BIT_LOOP_FOREVER_DO = "执行";
 Blockly.Msg.BIT_LOOP_FOREVER_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop04";
-Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO = "就重复无限次，后台执行";
+Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO = "就循环无限次，后台执行";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_IF = "如果";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_DO = "执行";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop05";
 Blockly.Msg.BIT_LOOP_STOP = "停止";
 Blockly.Msg.BIT_LOOP_STOP_ALL = "所有的";
 Blockly.Msg.BIT_LOOP_STOP_THIS = "这个";
-Blockly.Msg.BIT_LOOP_STOP_REPEAT = "重复";
+Blockly.Msg.BIT_LOOP_STOP_REPEAT = "循环";
 Blockly.Msg.BIT_LOOP_STOP_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop08";
-Blockly.Msg.BIT_LOOP_EXT_REPEAT = "重复";
+Blockly.Msg.BIT_LOOP_EXT_REPEAT = "循环";
 Blockly.Msg.BIT_LOOP_EXT = "次，后台执行";
 Blockly.Msg.BIT_LOOP_EXT_DO = "执行";
 Blockly.Msg.BIT_LOOP_EXT_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop02";
@@ -1310,7 +1310,7 @@ Blockly.Msg.BIT_AB_BUTTON_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/ab-button.
 
 // Web:Bit - Detected
 
-Blockly.Msg.BIT_DETECTED = "光线＆温度 ( 重复无限次 )";
+Blockly.Msg.BIT_DETECTED = "光线＆温度 ( 循环无限次 )";
 Blockly.Msg.BIT_DETECTED_DO = "执行";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL = "亮度";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL_LEFT = "左上";
