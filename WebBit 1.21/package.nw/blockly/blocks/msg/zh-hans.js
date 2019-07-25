@@ -85,7 +85,7 @@ Blockly.Msg.COLOUR_BLEND_HELPURL= Blockly.Msg.COLOUR_PICKER_HELPURL;
 
 Blockly.Msg.VARIABLES_SET = "设定 %1 为 %2";
 Blockly.Msg.LISTS_CREATE_WITH_INPUT_WITH = "建立列表";
-Blockly.Msg.TEXT_JOIN_TITLE_CREATEWITH = "建立字串";
+Blockly.Msg.TEXT_JOIN_TITLE_CREATEWITH = "建立字符串";
 
 // Math
 
@@ -104,7 +104,7 @@ Blockly.Msg.NUMBER_BINARY = "二进位";
 Blockly.Msg.NUMBER_OCTAL = "八进位";
 Blockly.Msg.NUMBER_DECTIMAL = "十进位";
 Blockly.Msg.NUMBER_HEX = "十六进位";
-Blockly.Msg.NUMBER_STRING = "字串";
+Blockly.Msg.NUMBER_STRING = "字符串";
 
 // Demo
 
@@ -213,9 +213,9 @@ Blockly.Msg.PIE_AUTO_REFRESH_SEC = "秒自动更新圆饼图显示";
 Blockly.Msg.DATA_TRANSFER_SET = "设定";
 Blockly.Msg.DATA_TRANSFER_USE = "使用";
 Blockly.Msg.DATA_TRANSFER_FORMAT = "传输资料,资料格式为";
-Blockly.Msg.DATA_TRANSFER_SEND_STRING = "传送字串";
-Blockly.Msg.DATA_TRANSFER_RTN_STRING = "接收字串后执行";
-Blockly.Msg.DATA_TRANSFER_RECV_STRING = "接收的字串";
+Blockly.Msg.DATA_TRANSFER_SEND_STRING = "传送字符串";
+Blockly.Msg.DATA_TRANSFER_RTN_STRING = "接收字符串后执行";
+Blockly.Msg.DATA_TRANSFER_RECV_STRING = "接收的字符串";
 
 // Console
 
@@ -904,20 +904,20 @@ Blockly.Msg.TEXT_ISEMPTY_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html";
 Blockly.Msg.TEXT_PRINT_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html";
 Blockly.Msg.BIT_TEXT_WRAP = "换行";
 Blockly.Msg.BIT_TEXT_WRAP_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html#text02";
-Blockly.Msg.BIT_TEXT_APPEND = "在字串";
+Blockly.Msg.BIT_TEXT_APPEND = "在字符串";
 Blockly.Msg.BIT_TEXT_APPEND_TO = "后方加入文字";
 Blockly.Msg.BIT_TEXT_APPEND_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html#text03";
-Blockly.Msg.BIT_TEXT_REPLACE = "把字串";
+Blockly.Msg.BIT_TEXT_REPLACE = "把字符串";
 Blockly.Msg.BIT_TEXT_REPLACE_WHICH = "的";
 Blockly.Msg.BIT_TEXT_REPLACE_FIRST = "第一个";
 Blockly.Msg.BIT_TEXT_REPLACE_ALL = "全部";
 Blockly.Msg.BIT_TEXT_REPLACE_TO = "取代为";
 Blockly.Msg.BIT_TEXT_REPLACE_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html#text04";
-Blockly.Msg.BIT_TEXT_INDEXOF = "在字串";
+Blockly.Msg.BIT_TEXT_INDEXOF = "在字符串";
 Blockly.Msg.BIT_TEXT_INDEXOF_FIND = "找出";
 Blockly.Msg.BIT_TEXT_INDEXOF_FIRST = "第一个";
 Blockly.Msg.BIT_TEXT_INDEXOF_LAST = "最后一个";
-Blockly.Msg.BIT_TEXT_INDEXOF_STRING = "出现字串";
+Blockly.Msg.BIT_TEXT_INDEXOF_STRING = "出现字符串";
 Blockly.Msg.BIT_TEXT_INDEXOF_POSITION = "的位置";
 Blockly.Msg.BIT_TEXT_INDEXOF_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html#text05";
 Blockly.Msg.BIT_TEXT_CHARAT = "得到字符串";

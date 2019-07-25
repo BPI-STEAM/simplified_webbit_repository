@@ -969,7 +969,7 @@ Blockly.Blocks['number_to_string'] = {
         [Blockly.Msg.NUMBER_DECTIMAL, ""],
         [Blockly.Msg.NUMBER_HEX, "16"]
       ]), "string_")
-      .appendField(Blockly.Msg.NUMBER_STRING, "字串");
+      .appendField(Blockly.Msg.NUMBER_STRING, "字符串");
     this.setOutput(true);
     this.setTooltip('');
     this.setColour(160);
@@ -1013,7 +1013,7 @@ Blockly.Blocks['data_string_send'] = {
     this.appendValueInput("NAME")
       .setCheck("String")
       .appendField(new Blockly.FieldVariable("dataCtrl"), "dataCtrl")
-      .appendField(Blockly.Msg.DATA_TRANSFER_SEND_STRING, "傳送字串");
+      .appendField(Blockly.Msg.DATA_TRANSFER_SEND_STRING, "傳送字符串");
     this.setPreviousStatement(true, null);
     this.setNextStatement(true, null);
     this.setColour(60);
@@ -1031,7 +1031,7 @@ Blockly.Blocks['data_string_callback'] = {
     this.appendStatementInput("NAME")
       .setCheck(null)
       .setAlign(Blockly.ALIGN_CENTRE)
-      .appendField(Blockly.Msg.DATA_TRANSFER_RTN_STRING, "字串回傳後執行");
+      .appendField(Blockly.Msg.DATA_TRANSFER_RTN_STRING, "字符串回傳後執行");
     this.setInputsInline(false);
     this.setPreviousStatement(true, null);
     this.setNextStatement(true, null);
@@ -1048,11 +1048,11 @@ Blockly.Blocks['data_string_send_callback'] = {
       .setCheck("String")
       .appendField(Blockly.Msg.DATA_TRANSFER_USE, '使用')
       .appendField(new Blockly.FieldVariable("dataCtrl"), "dataCtrl")
-      .appendField(Blockly.Msg.DATA_TRANSFER_SEND_STRING, "傳送字串");
+      .appendField(Blockly.Msg.DATA_TRANSFER_SEND_STRING, "傳送字符串");
     this.appendStatementInput("NAME")
       .setCheck(null)
       .setAlign(Blockly.ALIGN_CENTRE)
-      .appendField(Blockly.Msg.DATA_TRANSFER_RTN_STRING, "字串回傳後執行");
+      .appendField(Blockly.Msg.DATA_TRANSFER_RTN_STRING, "字符串回傳後執行");
     this.setInputsInline(false);
     this.setPreviousStatement(true, null);
     this.setNextStatement(true, null);
@@ -1067,7 +1067,7 @@ Blockly.Blocks['data_string_receive'] = {
   init: function () {
     this.appendDummyInput()
       .appendField(new Blockly.FieldVariable("dataCtrl"), "dataCtrl")
-      .appendField(Blockly.Msg.DATA_TRANSFER_RECV_STRING, "接收的字串");
+      .appendField(Blockly.Msg.DATA_TRANSFER_RECV_STRING, "接收的字符串");
     this.setOutput(true, null);
     this.setColour(30);
     this.setTooltip('');

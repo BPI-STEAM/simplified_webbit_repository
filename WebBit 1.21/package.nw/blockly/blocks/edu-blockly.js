@@ -344,14 +344,14 @@ Blockly.Blocks['text_indexOf_2'] = {
   init: function () {
     this.appendValueInput("name_")
       .setCheck(null)
-      .appendField(Blockly.Msg.BIT_TEXT_INDEXOF, "在字串");
+      .appendField(Blockly.Msg.BIT_TEXT_INDEXOF, "在字符串");
     this.appendDummyInput()
       .appendField(Blockly.Msg.BIT_TEXT_INDEXOF_FIND, "找出")
       .appendField(new Blockly.FieldDropdown([
         [Blockly.Msg.BIT_TEXT_INDEXOF_FIRST, "indexOf"],
         [Blockly.Msg.BIT_TEXT_INDEXOF_LAST, "lastIndexOf"]
       ]), "type_")
-      .appendField(Blockly.Msg.BIT_TEXT_INDEXOF_STRING, "出現字串");
+      .appendField(Blockly.Msg.BIT_TEXT_INDEXOF_STRING, "出現字符串");
     this.appendValueInput("val_")
       .setCheck(null);
     this.appendDummyInput()
@@ -367,7 +367,7 @@ Blockly.Blocks['text_charAt_2'] = {
   init: function () {
     this.appendValueInput("name_")
       .setCheck(null)
-      .appendField(Blockly.Msg.BIT_TEXT_CHARAT, "取得字串");
+      .appendField(Blockly.Msg.BIT_TEXT_CHARAT, "取得字符串");
     this.menu();
     this.setInputsInline(true);
     this.setOutput(true, null);
@@ -434,7 +434,7 @@ Blockly.Blocks['text_getSubstring_2'] = {
   init: function () {
     this.appendValueInput("name_")
       .setCheck(null)
-      .appendField(Blockly.Msg.BIT_TEXT_GETSTR, "取得字串");
+      .appendField(Blockly.Msg.BIT_TEXT_GETSTR, "取得字符串");
     this.menu();
     this.setInputsInline(true);
     this.setOutput(true, null);
@@ -537,7 +537,7 @@ Blockly.Blocks['text_replace'] = {
   init: function () {
     this.appendValueInput("name_")
       .setCheck(null)
-      .appendField(Blockly.Msg.BIT_TEXT_REPLACE, "把字串");
+      .appendField(Blockly.Msg.BIT_TEXT_REPLACE, "把字符串");
     this.appendDummyInput()
       .appendField(Blockly.Msg.BIT_TEXT_REPLACE_WHICH, "的")
       .appendField(new Blockly.FieldDropdown([
@@ -562,7 +562,7 @@ Blockly.Blocks['text_append_2'] = {
   init: function () {
     this.appendValueInput("name_")
       .setCheck(null)
-      .appendField(Blockly.Msg.BIT_TEXT_APPEND, "在字串");
+      .appendField(Blockly.Msg.BIT_TEXT_APPEND, "在字符串");
     this.appendValueInput("text_")
       .setCheck(null)
       .appendField(Blockly.Msg.BIT_TEXT_APPEND_TO, "後方加入文字");
@@ -595,7 +595,7 @@ Blockly.Blocks['text_length_2'] = {
   init: function () {
     this.appendValueInput("name_")
       .setCheck("String")
-      .appendField(Blockly.Msg.BIT_TEXT_LENGTH_STRING, "字串");
+      .appendField(Blockly.Msg.BIT_TEXT_LENGTH_STRING, "字符串");
     this.appendDummyInput()
       .appendField(Blockly.Msg.BIT_TEXT_LENGTH, "的長度");
     this.setOutput(true, null);
