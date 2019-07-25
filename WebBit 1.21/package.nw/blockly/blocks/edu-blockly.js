@@ -1385,7 +1385,7 @@ Blockly.Blocks['bit_photocell_val'] = {
 Blockly.Blocks['bit_temp_val'] = {
   init: function () {
     this.appendDummyInput()
-      .appendField(Blockly.Msg.BIT_DETECTED_TEMP, "溫度的數值 ( 度 C )");
+      .appendField(Blockly.Msg.BIT_DETECTED_TEMP, "溫度的數值 ( °C )");
     this.setOutput(true, null);
     this.setColour(195);
     this.setTooltip("");
