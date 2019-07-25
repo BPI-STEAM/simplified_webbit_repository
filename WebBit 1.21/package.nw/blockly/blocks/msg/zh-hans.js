@@ -345,10 +345,10 @@ Blockly.Msg.WEBDUINO_BOARD_MULTI = "  协同控制";
 Blockly.Msg.WEBDUINO_BOARD_CHAIN = "  串联";
 Blockly.Msg.WEBDUINO_BOARD_CHAIN_OK = "当开发板串连完成";
 Blockly.Msg.WEBDUINO_BOARD_CHAIN_DO = "执行";
-Blockly.Msg.WEBDUINO_QUERY_PIN = "侦测开发板脚位";
-Blockly.Msg.WEBDUINO_QUERY_PIN_NUM = "号 脚位";
+Blockly.Msg.WEBDUINO_QUERY_PIN = "侦测开发板引脚";
+Blockly.Msg.WEBDUINO_QUERY_PIN_NUM = "号 引脚";
 Blockly.Msg.WEBDUINO_PIN_DO = "执行";
-Blockly.Msg.WEBDUINO_PIN_STATE = "脚位状态";
+Blockly.Msg.WEBDUINO_PIN_STATE = "引脚状态";
 Blockly.Msg.WEBDUINO_BOARD_IF_ERROR = "如果断线";
 Blockly.Msg.WEBDUINO_BOARD_ERROR_DO = "执行";
 Blockly.Msg.WEBDUINO_BOARD_SAMPLING = "  类比取样";
@@ -362,8 +362,8 @@ Blockly.Msg.WEBDUINO_FLY = "Fly";
 // LED
 
 Blockly.Msg.WEBDUINO_LED = "LED 灯";
-Blockly.Msg.WEBDUINO_PIN = "脚位";
-Blockly.Msg.WEBDUINO_LED_PIN = "，脚位";
+Blockly.Msg.WEBDUINO_PIN = "引脚";
+Blockly.Msg.WEBDUINO_LED_PIN = "，引脚";
 Blockly.Msg.WEBDUINO_LED_SET_STATE = "设定状态";
 Blockly.Msg.WEBDUINO_LED_TOGGLE = "切换状态";
 Blockly.Msg.WEBDUINO_LED_INTENSITY = "强度";
@@ -376,7 +376,7 @@ Blockly.Msg.WEBDUINO_LED_BLINK_DO = "每次闪烁执行";
 
 // Relay
 
-Blockly.Msg.WEBDUINO_RELAY = "继电器，脚位";
+Blockly.Msg.WEBDUINO_RELAY = "继电器，引脚";
 Blockly.Msg.WEBDUINO_RELAY_SET_STATE = "设定状态";
 
 // RGB
@@ -398,8 +398,8 @@ Blockly.Msg.WEBDUINO_SMART_SERVO_SET_SPEED = " , 速度";
 
 // Button
 
-Blockly.Msg.WEBDUINO_BUTTON_NEW = "按钮开关，脚位";
-Blockly.Msg.WEBDUINO_BUTTON_PULLUP_NEW = "上拉按钮开关，脚位";
+Blockly.Msg.WEBDUINO_BUTTON_NEW = "按钮开关，引脚";
+Blockly.Msg.WEBDUINO_BUTTON_PULLUP_NEW = "上拉按钮开关，引脚";
 Blockly.Msg.WEBDUINO_BUTTON_EVENT_WHEN = "当";
 Blockly.Msg.WEBDUINO_BUTTON_EVENT_WAS = "进行";
 Blockly.Msg.WEBDUINO_BUTTON_EVENT_TO = "时";
@@ -410,7 +410,7 @@ Blockly.Msg.WEBDUINO_BUTTON_EVENT_LONGPRESS = "长按";
 
 // Shock
 
-Blockly.Msg.WEBDUINO_SHOCK_NEW = "震动开关，脚位";
+Blockly.Msg.WEBDUINO_SHOCK_NEW = "震动开关，引脚";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_WHEN = "当";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_WAS = "状态为";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_TO = "时";
@@ -425,7 +425,7 @@ Blockly.Msg.WEBDUINO_JOYSTICK_DO = '执行：';
 
 // PIR
 
-Blockly.Msg.WEBDUINO_PIR = "人体红外线侦测传感器，脚位";
+Blockly.Msg.WEBDUINO_PIR = "人体红外线侦测传感器，引脚";
 Blockly.Msg.WEBDUINO_PIR_WHEN = "当";
 Blockly.Msg.WEBDUINO_PIR_STATUS_DETECTED = "有";
 Blockly.Msg.WEBDUINO_PIR_STATUS_ENDED = "没有";
@@ -472,8 +472,8 @@ Blockly.Msg.WEBDUINO_SSD1306_TEXT_SIZE = "OLED 设定字型大小 (1~7):";
 
 // Soil
 
-Blockly.Msg.WEBDUINO_SOIL = "土壤湿度侦测，类比脚位：";
-Blockly.Msg.WEBDUINO_SOIL_DETECTED = "光敏(可变)电阻，类比脚位";
+Blockly.Msg.WEBDUINO_SOIL = "土壤湿度侦测，类比引脚：";
+Blockly.Msg.WEBDUINO_SOIL_DETECTED = "光敏(可变)电阻，类比引脚";
 Blockly.Msg.WEBDUINO_SOIL_DO = "执行";
 Blockly.Msg.WEBDUINO_SOIL_VAL = "侦测的数值";
 Blockly.Msg.WEBDUINO_SOIL_STOP = "停止侦测";
@@ -1246,9 +1246,9 @@ Blockly.Msg.BIT_BOARD_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/board.html";
 
 // Web:Bit - I/O Pin
 
-Blockly.Msg.WEBDUINO_PIN_READ = "读取脚位";
-Blockly.Msg.WEBDUINO_PIN_ANALOG_WRITE = "类比输出 ( PWM ) 至脚位";
-Blockly.Msg.WEBDUINO_PIN_DIGITAL_WRITE = "数位输出至脚位";
+Blockly.Msg.WEBDUINO_PIN_READ = "读取引脚";
+Blockly.Msg.WEBDUINO_PIN_ANALOG_WRITE = "类比输出 ( PWM ) 至引脚";
+Blockly.Msg.WEBDUINO_PIN_DIGITAL_WRITE = "数位输出至引脚";
 Blockly.Msg.WEBDUINO_PIN_VALUE = "数值";
 Blockly.Msg.WEBDUINO_PIN_DIN = "数位输入";;
 Blockly.Msg.WEBDUINO_PIN_AIN = "类比输入";

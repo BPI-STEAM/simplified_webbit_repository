@@ -7,10 +7,10 @@ Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_TRIG = "超音波传感器，Trig";
 Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_ECHO = " Echo";
 Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE = "所截取的距离 ( 公分 )";
 
-Blockly.Msg.WEBDUINO_SERVO = "伺服马达，脚位";
+Blockly.Msg.WEBDUINO_SERVO = "伺服马达，引脚";
 Blockly.Msg.WEBDUINO_SERVO_ANGLE = "   旋转角度 ( 0-180 ) ";
 
-Blockly.Msg.WEBDUINO_SOUND = "声音侦测传感器，脚位";
+Blockly.Msg.WEBDUINO_SOUND = "声音侦测传感器，引脚";
 Blockly.Msg.WEBDUINO_SOUND_WHEN = "当";
 Blockly.Msg.WEBDUINO_SOUND_STATUS_DETECTED = "有";
 Blockly.Msg.WEBDUINO_SOUND_STATUS_ENDED = "没有";
