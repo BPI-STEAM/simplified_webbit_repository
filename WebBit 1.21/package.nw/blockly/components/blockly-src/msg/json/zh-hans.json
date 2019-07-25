@@ -16,7 +16,7 @@
 	"DUPLICATE_BLOCK": "复制",
 	"ADD_COMMENT": "添加注释",
 	"REMOVE_COMMENT": "删除注释",
-	"EXTERNAL_INPUTS": "外部输入",
+	"EXTERNAL_INPUTS": "多行输入",
 	"INLINE_INPUTS": "单行输入",
 	"DELETE_BLOCK": "删除块",
 	"DELETE_X_BLOCKS": "删除 %1 块",
