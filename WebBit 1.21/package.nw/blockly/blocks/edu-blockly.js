@@ -379,14 +379,14 @@ Blockly.Blocks['text_charAt_2'] = {
     this.removeInput('num_');
     this.removeInput('dynamic_Dummy_');
     this.appendDummyInput('dynamic_Dummy_')
-      .appendField(Blockly.Msg.BIT_TEXT_CHARAT_NUM1, "字元");
+      .appendField(Blockly.Msg.BIT_TEXT_CHARAT_NUM1, "字符");
   },
   dynamic2: function () {
     this.removeInput('dynamic_Dummy_');
     this.appendValueInput("num_")
       .setCheck(null);
     this.appendDummyInput('dynamic_Dummy_')
-      .appendField(Blockly.Msg.BIT_TEXT_CHARAT_NUM2, "個字元");
+      .appendField(Blockly.Msg.BIT_TEXT_CHARAT_NUM2, "個字符");
   },
   menu: function () {
     let this_ = this;
@@ -415,7 +415,7 @@ Blockly.Blocks['text_charAt_2'] = {
     this.appendValueInput("num_")
       .setCheck(null);
     this.appendDummyInput('dynamic_Dummy_')
-      .appendField(Blockly.Msg.BIT_TEXT_CHARAT_NUM2, "個字元");
+      .appendField(Blockly.Msg.BIT_TEXT_CHARAT_NUM2, "個字符");
     this_ = this;
     setTimeout(function () {
       let value_ = this_.inputList[1].fieldRow[1].value_;
@@ -423,7 +423,7 @@ Blockly.Blocks['text_charAt_2'] = {
         this_.removeInput('num_');
         this_.removeInput('dynamic_Dummy_');
         this_.appendDummyInput('dynamic_Dummy_')
-          .appendField(Blockly.Msg.BIT_TEXT_CHARAT_NUM1, "字元");
+          .appendField(Blockly.Msg.BIT_TEXT_CHARAT_NUM1, "字符");
         menuType_ = 1;
       }
     });
@@ -456,7 +456,7 @@ Blockly.Blocks['text_getSubstring_2'] = {
           this_.removeInput('num1_');
           this_.removeInput('dynamic_Dummy1_');
           this_.appendDummyInput('dynamic_Dummy1_')
-            .appendField(Blockly.Msg.BIT_TEXT_GETSTR_FROM1, "字元到");
+            .appendField(Blockly.Msg.BIT_TEXT_GETSTR_FROM1, "字符到");
           this_.moveInputBefore('dynamic_Dummy1_', 'dynamic_type2_');
           menuType1_ = 1;
         }
@@ -466,7 +466,7 @@ Blockly.Blocks['text_getSubstring_2'] = {
           this_.appendValueInput("num1_")
             .setCheck(null);
           this_.appendDummyInput('dynamic_Dummy1_')
-            .appendField(Blockly.Msg.BIT_TEXT_GETSTR_FROM2, "個字元到");
+            .appendField(Blockly.Msg.BIT_TEXT_GETSTR_FROM2, "個字符到");
           this_.moveInputBefore('dynamic_Dummy1_', 'dynamic_type2_');
           this_.moveInputBefore('num1_', 'dynamic_Dummy1_');
           menuType1_ = 0;
@@ -483,7 +483,7 @@ Blockly.Blocks['text_getSubstring_2'] = {
           this_.removeInput('num2_');
           this_.removeInput('dynamic_Dummy2_');
           this_.appendDummyInput('dynamic_Dummy2_')
-            .appendField(Blockly.Msg.BIT_TEXT_GETSTR_TO1, "字元");
+            .appendField(Blockly.Msg.BIT_TEXT_GETSTR_TO1, "字符");
           menuType2_ = 1;
         }
       } else {
@@ -492,7 +492,7 @@ Blockly.Blocks['text_getSubstring_2'] = {
           this_.appendValueInput("num2_")
             .setCheck(null);
           this_.appendDummyInput('dynamic_Dummy2_')
-            .appendField(Blockly.Msg.BIT_TEXT_GETSTR_TO2, "個字元");
+            .appendField(Blockly.Msg.BIT_TEXT_GETSTR_TO2, "個字符");
           menuType2_ = 0;
         }
       }
@@ -503,13 +503,13 @@ Blockly.Blocks['text_getSubstring_2'] = {
     this.appendValueInput("num1_")
       .setCheck(null);
     this.appendDummyInput("dynamic_Dummy1_")
-      .appendField(Blockly.Msg.BIT_TEXT_GETSTR_FROM2, "個字元到");
+      .appendField(Blockly.Msg.BIT_TEXT_GETSTR_FROM2, "個字符到");
     this.appendDummyInput("dynamic_type2_")
       .appendField(menuItem2, "type2_");
     this.appendValueInput("num2_")
       .setCheck(null);
     this.appendDummyInput("dynamic_Dummy2_")
-      .appendField(Blockly.Msg.BIT_TEXT_GETSTR_TO2, "個字元");
+      .appendField(Blockly.Msg.BIT_TEXT_GETSTR_TO2, "個字符");
     this_ = this;
     setTimeout(function () {
       let value1_ = this_.inputList[1].fieldRow[1].value_;
@@ -518,7 +518,7 @@ Blockly.Blocks['text_getSubstring_2'] = {
         this_.removeInput('num1_');
         this_.removeInput('dynamic_Dummy1_');
         this_.appendDummyInput('dynamic_Dummy1_')
-          .appendField(Blockly.Msg.BIT_TEXT_GETSTR_FROM1, "字元到");
+          .appendField(Blockly.Msg.BIT_TEXT_GETSTR_FROM1, "字符到");
         this_.moveInputBefore('dynamic_Dummy1_', 'dynamic_type2_');
         menuType1_ = 1;
       }
@@ -526,7 +526,7 @@ Blockly.Blocks['text_getSubstring_2'] = {
         this_.removeInput('num2_');
         this_.removeInput('dynamic_Dummy2_');
         this_.appendDummyInput('dynamic_Dummy2_')
-          .appendField(Blockly.Msg.BIT_TEXT_GETSTR_TO1, "字元");
+          .appendField(Blockly.Msg.BIT_TEXT_GETSTR_TO1, "字符");
         menuType2_ = 1;
       }
     });
