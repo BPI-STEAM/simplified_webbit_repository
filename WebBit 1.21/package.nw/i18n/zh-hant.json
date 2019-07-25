@@ -38,7 +38,7 @@
     "INFO": "資訊",
     "SWITCH_TO_EN": "切換至英文",
     "SWITCH_TO_TC": "切換至正體中文",
-    "SWITCH_TO_SC": "切換至簡體中文",
+    "SWITCH_TO_SC": "切換至简体中文",
     "UNKNOWN_ID": "未知 ID",
     "DEVICE_CONNECTED": "裝置 [{0}] 使用 USB 連線成功",
     "DEVICE/VERSION_CONNECTED": "裝置 [{0}] 版本 [{1}] 使用 USB 連線成功",
