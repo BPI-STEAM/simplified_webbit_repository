@@ -2485,7 +2485,7 @@ Blockly.Blocks['max7219_animate'] = {
     this.appendValueInput("list_")
       .setCheck("Array")
       .setAlign(Blockly.ALIGN_RIGHT)
-      .appendField(Blockly.Msg.WEBDUINO_MATRIX_LIST, "動畫代碼 (列表)：");
+      .appendField(Blockly.Msg.WEBDUINO_MATRIX_LIST, "動畫代碼 (数组)：");
     this.setPreviousStatement(true);
     this.setNextStatement(true);
     this.setColour(65);

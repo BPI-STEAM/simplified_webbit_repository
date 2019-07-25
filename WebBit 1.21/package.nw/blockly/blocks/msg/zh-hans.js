@@ -84,7 +84,7 @@ Blockly.Msg.COLOUR_BLEND_HELPURL= Blockly.Msg.COLOUR_PICKER_HELPURL;
 // Main
 
 Blockly.Msg.VARIABLES_SET = "设定 %1 为 %2";
-Blockly.Msg.LISTS_CREATE_WITH_INPUT_WITH = "建立列表";
+Blockly.Msg.LISTS_CREATE_WITH_INPUT_WITH = "建立数组";
 Blockly.Msg.TEXT_JOIN_TITLE_CREATEWITH = "建立字符串";
 
 // Math
@@ -201,7 +201,7 @@ Blockly.Msg.DEMO_CONTROLLER_MOBILE_TYPE2 = "加速度";
 Blockly.Msg.DEMO_CONTROLLER_CHART = "图表";
 Blockly.Msg.PIE_TITLE = "绘制圆饼图，标题";
 Blockly.Msg.PIE_SUB_TITLE = "子标题";
-Blockly.Msg.DEMO_PIE_DATA = "资料列表";
+Blockly.Msg.DEMO_PIE_DATA = "资料数组";
 Blockly.Msg.PIE_REFRESH = "更新圆饼图显示";
 Blockly.Msg.PIE_VALUE = "数值";
 Blockly.Msg.PIE_DESCRIPTION = "说明";
@@ -441,7 +441,7 @@ Blockly.Msg.WEBDUINO_MATRIX_CLK = "  clk";
 Blockly.Msg.WEBDUINO_MATRIX_CODE = "显示图形，代码";
 Blockly.Msg.WEBDUINO_MATRIX_TIMES = "显示动画，切换时间 (毫秒)";
 Blockly.Msg.WEBDUINO_MATRIX_DUR = "持续时间 (毫秒)";
-Blockly.Msg.WEBDUINO_MATRIX_LIST = "动画代码 (列表)";
+Blockly.Msg.WEBDUINO_MATRIX_LIST = "动画代码 (数组)";
 Blockly.Msg.WEBDUINO_MATRIX_STOP = "停止";
 Blockly.Msg.WEBDUINO_MATRIX_ANIMATE = "动画";
 Blockly.Msg.WEBDUINO_MATRIX_CLOSE = "关闭";
