@@ -32,7 +32,7 @@ Blockly.Msg.WEBDUINO_SHOCK_EVENT_LOW = "断电";
 Blockly.Msg.WEBDUINO_RELAY_BIT = "继电器，引脚";
 Blockly.Msg.WEBDUINO_RELAY_SET_STATE = "设定状态";
 
-Blockly.Msg.WEBDUINO_SOIL = "土壤湿度侦测，类比引脚：";
+Blockly.Msg.WEBDUINO_SOIL = "土壤湿度侦测，模拟引脚：";
 Blockly.Msg.WEBDUINO_SOIL_VAL = "侦测到的土壤湿度";
 
 Blockly.Msg.WEBDUINO_LED = "LED 灯，引脚";

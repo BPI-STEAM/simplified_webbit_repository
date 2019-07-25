@@ -351,7 +351,7 @@ Blockly.Msg.WEBDUINO_PIN_DO = "执行";
 Blockly.Msg.WEBDUINO_PIN_STATE = "引脚状态";
 Blockly.Msg.WEBDUINO_BOARD_IF_ERROR = "如果断线";
 Blockly.Msg.WEBDUINO_BOARD_ERROR_DO = "执行";
-Blockly.Msg.WEBDUINO_BOARD_SAMPLING = "  类比取样";
+Blockly.Msg.WEBDUINO_BOARD_SAMPLING = "  模拟取样";
 Blockly.Msg.WEBDUINO_SMART = "Smart";
 Blockly.Msg.WEBDUINO_USE = "使用";
 Blockly.Msg.WEBDUINO_CONNECT_TO = "连线至";
@@ -472,8 +472,8 @@ Blockly.Msg.WEBDUINO_SSD1306_TEXT_SIZE = "OLED 设定字型大小 (1~7):";
 
 // Soil
 
-Blockly.Msg.WEBDUINO_SOIL = "土壤湿度侦测，类比引脚：";
-Blockly.Msg.WEBDUINO_SOIL_DETECTED = "光敏(可变)电阻，类比引脚";
+Blockly.Msg.WEBDUINO_SOIL = "土壤湿度侦测，模拟引脚：";
+Blockly.Msg.WEBDUINO_SOIL_DETECTED = "光敏(可变)电阻，模拟引脚";
 Blockly.Msg.WEBDUINO_SOIL_DO = "执行";
 Blockly.Msg.WEBDUINO_SOIL_VAL = "侦测的数值";
 Blockly.Msg.WEBDUINO_SOIL_STOP = "停止侦测";
@@ -1247,11 +1247,11 @@ Blockly.Msg.BIT_BOARD_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/board.html";
 // Web:Bit - I/O Pin
 
 Blockly.Msg.WEBDUINO_PIN_READ = "读取引脚";
-Blockly.Msg.WEBDUINO_PIN_ANALOG_WRITE = "类比输出 ( PWM ) 至引脚";
+Blockly.Msg.WEBDUINO_PIN_ANALOG_WRITE = "模拟输出 ( PWM ) 至引脚";
 Blockly.Msg.WEBDUINO_PIN_DIGITAL_WRITE = "数位输出至引脚";
 Blockly.Msg.WEBDUINO_PIN_VALUE = "数值";
 Blockly.Msg.WEBDUINO_PIN_DIN = "数位输入";;
-Blockly.Msg.WEBDUINO_PIN_AIN = "类比输入";
+Blockly.Msg.WEBDUINO_PIN_AIN = "模拟输入";
 
 // Web:Bit - Matrix
 
