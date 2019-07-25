@@ -33,7 +33,7 @@
     * var dic = {name: 'genreal', age: 24}
     * var url = 'https://www.baidu.com?age=22';
     * _buildUrl(dic, url);
-    * 将得到"https://www.baidu.com?age=24&name=genreal"
+    * 将取得"https://www.baidu.com?age=24&name=genreal"
     * 哦, 忽略先后顺序吧...
     *
     * 补充: 可以参考浏览器URLSearchParams对象, 更加方便和强大.
