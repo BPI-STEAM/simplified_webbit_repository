@@ -115,7 +115,7 @@
 	"MATH_SINGLE_HELPURL": "https://zh.wikipedia.org/wiki/平方根",
 	"MATH_SINGLE_OP_ROOT": "平方根",
 	"MATH_SINGLE_TOOLTIP_ROOT": "返回数的平方根。",
-	"MATH_SINGLE_OP_ABSOLUTE": "绝对",
+	"MATH_SINGLE_OP_ABSOLUTE": "绝对值",
 	"MATH_SINGLE_TOOLTIP_ABS": "返回一个数的绝对值。",
 	"MATH_SINGLE_TOOLTIP_NEG": "返回数的逻辑非。",
 	"MATH_SINGLE_TOOLTIP_LN": "返回一个数的自然对数。",
