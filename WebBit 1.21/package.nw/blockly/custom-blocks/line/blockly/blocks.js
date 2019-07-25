@@ -93,7 +93,7 @@ Blockly.Blocks['line_image'] = {
   init: function () {
     this.appendValueInput("img_url")
       .setCheck("String")
-      .appendField("圖片網址：");
+      .appendField("图片网址：");
     this.setOutput(true, null);
     this.setColour(35);
     this.setTooltip("");

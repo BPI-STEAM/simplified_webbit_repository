@@ -150,7 +150,7 @@ Blockly.Blocks['demo_image_url'] = {
     this.appendValueInput("url_")
       .setCheck("String")
       .setAlign(Blockly.ALIGN_RIGHT)
-      .appendField(Blockly.Msg.DEMO_IMAGE_URL, "圖片網址");
+      .appendField(Blockly.Msg.DEMO_IMAGE_URL, "图片网址");
     this.setInputsInline(false);
     this.setPreviousStatement(true);
     this.setNextStatement(true);
