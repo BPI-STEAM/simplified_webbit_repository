@@ -94,7 +94,7 @@ var MSG = {
   catKeyCode: "键盘操作",
   catPlus: "进阶",
   catStandard: "基本功能",
-  catMax7219: "全彩 LED ",
+  catMax7219: "矩阵 LED ",
   catMP3: "MP3 播放器",
   catSSD1306: "OLED 屏幕",
   catSoil: "土壤湿度检测",
@@ -141,10 +141,10 @@ var MSG = {
   demoAreaRemoteDisplay: "显示",
   samples1: "基础操作",
   samples1_1: "LED",
-  samples1_2: "全彩 LED",
+  samples1_2: "矩阵 LED",
   samples1_3: "蜂鸣器",
   samples1_4: "伺服电机",
-  samples1_5: "全彩 LED ",
+  samples1_5: "矩阵 LED ",
   samples2: "传感器应用",
   samples2_1: "超声波检测距离",
   samples2_2: "检测环境温湿度",
@@ -156,7 +156,7 @@ var MSG = {
   samples2_8: "检测RFID识别码",
   samples3: "输入&输出",
   samples3_1: "操控两颗 LED",
-  samples3_2: "操控全彩 LED",
+  samples3_2: "操控矩阵 LED",
   samples4: "Youtube 应用",
   samples4_1: "RFID 切换视频",
   samples4_2: "按钮开关控制播放",
@@ -170,11 +170,11 @@ var MSG = {
   samples5_6: "自走车 ( 虚拟遥控器 )",
   samples5_7: "资料库记录温湿度",
   samples5_8: "RFID 简易门禁系统",
-  samples5_9: "全彩 LED 显示温度",
+  samples5_9: "矩阵 LED 显示温度",
   samples5_10: "闹钟 ( 蜂鸣器 + LED矩阵 )",
   samples6: "开发板联动",
   samples6_1: "土壤湿度 + LED",
-  samples6_2: "超声波 + 全彩 LED ",
+  samples6_2: "超声波 + 矩阵 LED ",
   samplesBit0: "Webduino Bit 小游戏",
   samplesBit1: "Webduino Bit 全彩LED矩阵",
   samplesBit0_1: "贪吃蛇 ( 按钮开关 )",
@@ -253,7 +253,7 @@ var MSG = {
   loadProjectFailed: "无法读取文件",
   loginToReadLink: "请登录后，再重新打开链接！",
   linkExpired: "链接失效",
-  catBitLedMatrix: "全彩 LED ",
+  catBitLedMatrix: "矩阵 LED ",
   catBitPin: "输入&输出",
   catBitButton: "按钮开关",
   catBitDetected: "光线＆温度",
@@ -434,12 +434,12 @@ var MSG = {
     },
     bits: {
       s01: {
-        text: "全彩 LED 展示图形",
+        text: "矩阵 LED 展示图形",
         img: "samples/img/bit-s-01.jpg",
         json: "samples/bit-s-01.json"
       },
       s02: {
-        text: "全彩 LED 心跳动画",
+        text: "矩阵 LED 心跳动画",
         img: "samples/img/bit-s-02.jpg",
         json: "samples/bit-s-02.json"
       },
@@ -469,7 +469,7 @@ var MSG = {
         json: "samples/bit-s-07.json"
       },
       s08: {
-        text: "光照度切换全彩 LED 图形",
+        text: "光照度切换矩阵 LED 图形",
         img: "samples/img/bit-s-08.jpg",
         json: "samples/bit-s-08.json"
       },
