@@ -1,1 +1,0 @@
-MSG.catBuzzer = "Buzzer";

@@ -1,1 +1,0 @@
-MSG.catBroadcast = "Broadcast";

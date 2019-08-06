@@ -1,1 +1,0 @@
-MSG.catFullPackage = "Extension Package";

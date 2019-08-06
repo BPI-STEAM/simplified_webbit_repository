@@ -1,1 +1,0 @@
-catIRLed = "IR Send";

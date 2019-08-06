@@ -1,1 +1,0 @@
-MSG.catBroadcast = "消息广播";

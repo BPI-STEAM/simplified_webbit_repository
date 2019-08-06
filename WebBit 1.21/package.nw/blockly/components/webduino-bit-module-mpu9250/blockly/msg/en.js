@@ -1,1 +1,0 @@
-MSG.catMPU9250 = "MPU9250";

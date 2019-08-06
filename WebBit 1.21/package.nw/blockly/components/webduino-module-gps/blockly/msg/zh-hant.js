@@ -1,1 +1,0 @@
-MSG.catGPS = "GPS";

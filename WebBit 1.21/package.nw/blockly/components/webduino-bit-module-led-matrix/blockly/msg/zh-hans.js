@@ -1,1 +1,0 @@
-MSG.catLedMatrix = "全彩点矩阵";

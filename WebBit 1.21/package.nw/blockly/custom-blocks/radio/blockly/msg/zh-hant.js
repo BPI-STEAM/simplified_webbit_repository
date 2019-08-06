@@ -1,1 +1,0 @@
-MSG.catBroadcast = "網路廣播";

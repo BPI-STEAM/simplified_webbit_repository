@@ -1,1 +1,0 @@
-MSG.catLedMatrix = "LED Matrix";
