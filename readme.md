@@ -53,6 +53,8 @@
 | 函式 |                     函数    | function |
 | 行动 |                     移动    | Move |
 | 侦测 |                     检测    | detect |
+| 硬体 |                     硬件    | hardware |
+| 软体 |                     软件    | software |
 
 ## 目标方向
 
