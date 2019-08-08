@@ -33,7 +33,7 @@
 | 输出值 |                 返回值    | return value |
 | 数位  |                     数字    | digit |
 | 类比  |                     模拟    | analog |
-| 脚位 |                     引脚    | GPIO |
+| 脚位 |                     引脚    | IO |
 | 簡體 |                     简体    |  |
 | 重复 |                     循环    | loop |
 | 圖片 |                     图片    | image |
@@ -56,6 +56,12 @@
 | 硬体 |                     硬件    | hardware |
 | 软体 |                     软件    | software |
 | 感测 |                     传感    | sensor |
+| 讯号 |                     信号    | signal |
+| 迴圈 |                     循环    | loop |
+| 支援 |                     支持    | support |
+| 採取 |                     采取    | Use |
+| 透过 |                     通过    | adopt |
+| 拓展 |                     扩充    | expand |
 
 ## 目标方向
 
