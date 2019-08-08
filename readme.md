@@ -55,6 +55,7 @@
 | 侦测 |                     检测    | detect |
 | 硬体 |                     硬件    | hardware |
 | 软体 |                     软件    | software |
+| 感测 |                     传感    | sensor |
 
 ## 目标方向
 
