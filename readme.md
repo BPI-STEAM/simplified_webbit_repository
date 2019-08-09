@@ -239,7 +239,7 @@ Webduino 的大陆版的 文档、视频、图片 等内容，受众人群是自
 3. 一台全新的 Windows7  32 位家庭简易版 做标准测试机，再加一台 Windows 10 64 位系统。
 4. 确保每个文档都有标注这类内容：软件版本、固件版本、文档版本。
 5. 准备拍摄视频的器材，较为专业和正式一些。
-6. 离线软件准备一个 Github 仓库（https://github.com/BPI-STEAM/test_repository），用于同步软件体验组的修改记录。
+6. 离线软件准备一个 Github 仓库（https://github.com/BPI-STEAM/test_webbit），用于同步软件体验组的修改记录。
 7. 目前文档移交到 https://demo.codimd.org  网站进行多人协助编辑文档，仓库只做备份。
 
 如有遗漏可以补充。
@@ -310,7 +310,7 @@ TIM 老师、陈俊欢、陈渊、刘煜标、王皓、瞿少敏、光发。
 
 1. 测评体验软件
 
-   - 获取 https://github.com/BPI-STEAM/test_repository 仓库直接运行`\WebBit 1.21\WebBit.exe` 即可启动软件。
+   - 获取 https://github.com/BPI-STEAM/test_webbit 仓库直接运行`\WebBit.exe` 即可启动软件。
 
    - ![1562901379047](images/1562901379047.png)
 
